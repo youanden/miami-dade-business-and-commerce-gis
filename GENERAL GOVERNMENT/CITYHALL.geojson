@@ -1,0 +1,775 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13951912194746, 
+          25.952771756547815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Aventura", 
+        "NAME": "City of Aventura", 
+        "LON": -80.13952, 
+        "ZIPCODE": 33180, 
+        "PHONE": "305-466-8900", 
+        "POINT_X": 938911.312468328, 
+        "POINT_Y": 589454.43760249, 
+        "ADDRESS": "19200 West Country Club Drive", 
+        "LAT": 25.95277, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12679434489854, 
+          25.887287359677313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Bal Harbour Village", 
+        "NAME": "Bal Harbour Village", 
+        "LON": -80.12679, 
+        "ZIPCODE": 33154, 
+        "PHONE": "305-866-4633", 
+        "POINT_X": 943251.3126465791, 
+        "POINT_Y": 565679.999915242, 
+        "ADDRESS": "655 - 96th Street", 
+        "LAT": 25.88729, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13109607481869, 
+          25.887491826811804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Bay Harbor Islands", 
+        "NAME": "Town of Bay Harbor Islands", 
+        "LON": -80.1311, 
+        "ZIPCODE": 33154, 
+        "PHONE": "305-866-6241", 
+        "POINT_X": 941836.469019581, 
+        "POINT_Y": 565744.9302315711, 
+        "ADDRESS": "9665 Bay Harbor Terrace", 
+        "LAT": 25.88749, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18496482927418, 
+          25.88018997231936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Biscayne Park", 
+        "NAME": "Village of Biscayne Park", 
+        "LON": -80.18496, 
+        "ZIPCODE": 33161, 
+        "PHONE": "305-899 8000", 
+        "POINT_X": 924141.73570833, 
+        "POINT_Y": 562977.262538575, 
+        "ADDRESS": "640 NE 114th Street", 
+        "LAT": 25.88019, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26367668504369, 
+          25.749072374209987
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "City of Coral Gables", 
+        "LON": -80.26368, 
+        "ZIPCODE": 33134, 
+        "PHONE": "305-446-6800", 
+        "POINT_X": 898527.874862664, 
+        "POINT_Y": 515167.656058237, 
+        "ADDRESS": "405 Biltmore Way", 
+        "LAT": 25.74907, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36570981302992, 
+          25.576267541436618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "NAME": "Town of Cutler Bay", 
+        "LON": -80.36571, 
+        "ZIPCODE": 33189, 
+        "PHONE": "305-234-4262", 
+        "POINT_X": 865243.8124939131, 
+        "POINT_Y": 452186.750196159, 
+        "ADDRESS": "10720 Caribbean Blvd", 
+        "LAT": 25.57627, 
+        "SUITE": "105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33418337617265, 
+          25.821869789296525
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "City of Doral", 
+        "LON": -80.33418, 
+        "ZIPCODE": 33166, 
+        "PHONE": "305-593-6725", 
+        "POINT_X": 875186.113475412, 
+        "POINT_Y": 541503.244134992, 
+        "ADDRESS": "8401 NW 53rd Terr", 
+        "LAT": 25.82187, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18769927923272, 
+          25.8547894340756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "El Portal", 
+        "NAME": "El Portal Village", 
+        "LON": -80.1877, 
+        "ZIPCODE": 33138, 
+        "PHONE": "305-795-7880", 
+        "POINT_X": 923299.749859497, 
+        "POINT_Y": 553739.312510572, 
+        "ADDRESS": "500 NE 87th St", 
+        "LAT": 25.85479, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48223583444553, 
+          25.448149542874337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "NAME": "City of Florida City", 
+        "LON": -80.48224, 
+        "ZIPCODE": 33034, 
+        "PHONE": "305-247-8221", 
+        "POINT_X": 827014.562508997, 
+        "POINT_Y": 405456.750152409, 
+        "ADDRESS": "404 W Palm Dr", 
+        "LAT": 25.44815, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12140540440969, 
+          25.95724129741668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Golden Beach", 
+        "NAME": "Town of Golden Beach", 
+        "LON": -80.12141, 
+        "ZIPCODE": 33160, 
+        "PHONE": "305-932-0744", 
+        "POINT_X": 944852.665743079, 
+        "POINT_Y": 591118.5612427371, 
+        "ADDRESS": "1 Golden Beach Dr", 
+        "LAT": 25.95724, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28037537020987, 
+          25.826831168476332
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "City of Hialeah", 
+        "LON": -80.28038, 
+        "ZIPCODE": 33010, 
+        "PHONE": "305-883-5800", 
+        "POINT_X": 892876.875009827, 
+        "POINT_Y": 543399.749856405, 
+        "ADDRESS": "501 Palm Ave", 
+        "LAT": 25.82683, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33845645592055, 
+          25.86721031571488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah Gardens", 
+        "NAME": "City of Hialeah Gardens", 
+        "LON": -80.33846, 
+        "ZIPCODE": 33016, 
+        "PHONE": "305-558-4114", 
+        "POINT_X": 873697.49998283, 
+        "POINT_Y": 557975.750231907, 
+        "ADDRESS": "10001 NW 87th Ave", 
+        "LAT": 25.86721, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44633928067367, 
+          25.476405212764067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "City of Homestead", 
+        "LON": -80.44634, 
+        "ZIPCODE": 33033, 
+        "PHONE": "305-224-4400", 
+        "POINT_X": 838816.998221662, 
+        "POINT_Y": 415773.567117155, 
+        "ADDRESS": "650 NE 22 Ter", 
+        "LAT": 25.47641, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12976351554548, 
+          25.877521538026887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Indian Creek Village", 
+        "NAME": "Indian Creek Village", 
+        "LON": -80.12976, 
+        "ZIPCODE": 33154, 
+        "PHONE": "305-865-4121", 
+        "POINT_X": 942298.625247497, 
+        "POINT_Y": 562123.87480966, 
+        "ADDRESS": "9080 Bay Drive", 
+        "LAT": 25.87752, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16491372522079, 
+          25.690804722263273
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Key Biscayne", 
+        "NAME": "Village of Key Biscayne", 
+        "LON": -80.16491, 
+        "ZIPCODE": 33149, 
+        "PHONE": "305-365-5511", 
+        "POINT_X": 931171.0786049961, 
+        "POINT_Y": 494183.042187653, 
+        "ADDRESS": "88 West McIntyre St", 
+        "LAT": 25.6908, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31339765646459, 
+          25.844529961041783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Medley", 
+        "NAME": "City of Medley", 
+        "LON": -80.3134, 
+        "ZIPCODE": 33166, 
+        "PHONE": "305-887-9541", 
+        "POINT_X": 881980.7386656629, 
+        "POINT_Y": 549774.541240655, 
+        "ADDRESS": "7777 NW 72nd Ave", 
+        "LAT": 25.84453, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23440585474437, 
+          25.72930335482691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "City of Miami", 
+        "LON": -80.23441, 
+        "ZIPCODE": 33133, 
+        "PHONE": "305-250-5300", 
+        "POINT_X": 908204.4342496621, 
+        "POINT_Y": 508037.215594739, 
+        "ADDRESS": "3500 Pan American Dr", 
+        "LAT": 25.7293, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13549305972599, 
+          25.79280269123791
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "City of Miami Beach", 
+        "LON": -80.13549, 
+        "ZIPCODE": 33139, 
+        "PHONE": "305-673-7000", 
+        "POINT_X": 940617.163059246, 
+        "POINT_Y": 531318.40164382, 
+        "ADDRESS": "1700 Convention Center Dr", 
+        "LAT": 25.7928, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22671582649791, 
+          25.928002843369462
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "City of Miami Gardens", 
+        "LON": -80.22672, 
+        "ZIPCODE": 33169, 
+        "PHONE": "305-622-8000", 
+        "POINT_X": 910311.437253494, 
+        "POINT_Y": 580272.8122649861, 
+        "ADDRESS": "1515 NW 167th St", 
+        "LAT": 25.928, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30741905932057, 
+          25.913165894351113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Lakes", 
+        "NAME": "Town of Miami Lakes", 
+        "LON": -80.30742, 
+        "ZIPCODE": 33014, 
+        "PHONE": "305-364-6100", 
+        "POINT_X": 883815.4512035771, 
+        "POINT_Y": 574731.688832827, 
+        "ADDRESS": "6601 Main Street", 
+        "LAT": 25.91317, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19390639375708, 
+          25.867490441662508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Shores", 
+        "NAME": "Miami Shores Village", 
+        "LON": -80.19391, 
+        "ZIPCODE": 33138, 
+        "PHONE": "305-795-2207", 
+        "POINT_X": 921230.062725913, 
+        "POINT_Y": 558343.187489159, 
+        "ADDRESS": "10050 NE 2nd Ave", 
+        "LAT": 25.86749, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28468227387123, 
+          25.8213979804983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Springs", 
+        "NAME": "City of Miami Springs", 
+        "LON": -80.28468, 
+        "ZIPCODE": 33166, 
+        "PHONE": "305-805-5000", 
+        "POINT_X": 891470.874869079, 
+        "POINT_Y": 541417.250212491, 
+        "ADDRESS": "201 Westward St", 
+        "LAT": 25.8214, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14774867509664, 
+          25.845598493156828
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Bay Village", 
+        "NAME": "North Bay Village", 
+        "LON": -80.14775, 
+        "ZIPCODE": 33141, 
+        "PHONE": "305-756-7171", 
+        "POINT_X": 936460.157593746, 
+        "POINT_Y": 550481.88759499, 
+        "ADDRESS": "1841 Galleon St", 
+        "LAT": 25.8456, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18299563896083, 
+          25.88973012676078
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "City of North Miami", 
+        "LON": -80.183, 
+        "ZIPCODE": 33161, 
+        "PHONE": "305-893-6511", 
+        "POINT_X": 924767.624876496, 
+        "POINT_Y": 566448.875017904, 
+        "ADDRESS": "776 NE 125 St", 
+        "LAT": 25.88973, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16164422125502, 
+          25.932370690264616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "NAME": "City of North Miami Beach", 
+        "LON": -80.16164, 
+        "ZIPCODE": 33162, 
+        "PHONE": "305-947-7581", 
+        "POINT_X": 931688.38892208, 
+        "POINT_Y": 581991.948590487, 
+        "ADDRESS": "17011 NE 19 Ave", 
+        "LAT": 25.93237, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25533306627963, 
+          25.89648181262664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa-Locka", 
+        "NAME": "City of Opa-Locka", 
+        "LON": -80.25533, 
+        "ZIPCODE": 33054, 
+        "PHONE": "305-953-2868", 
+        "POINT_X": 900970.9375618291, 
+        "POINT_Y": 568761.374986075, 
+        "ADDRESS": "3400 NW 135 St Building B", 
+        "LAT": 25.89648, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3490248826842, 
+          25.603961847882985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Palmetto Bay", 
+        "NAME": "Village of Palmetto Bay", 
+        "LON": -80.34902, 
+        "ZIPCODE": 33157, 
+        "PHONE": "305-259-1234", 
+        "POINT_X": 870694.31241966, 
+        "POINT_Y": 462278.875024989, 
+        "ADDRESS": "9705 E Hibiscus St", 
+        "LAT": 25.60396, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32894588584246, 
+          25.653211916430564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Pinecrest", 
+        "NAME": "Village of Pinecrest", 
+        "LON": -80.32895, 
+        "ZIPCODE": 33156, 
+        "PHONE": "305-234-2121", 
+        "POINT_X": 877220.8124899941, 
+        "POINT_Y": 480211.93758399, 
+        "ADDRESS": "12645 Pinecrest Parkway", 
+        "LAT": 25.65321, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29207374699672, 
+          25.70329982241092
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "NAME": "City of South Miami", 
+        "LON": -80.29207, 
+        "ZIPCODE": 33143, 
+        "PHONE": "305-663-6338", 
+        "POINT_X": 889269.892394412, 
+        "POINT_Y": 498480.016533323, 
+        "ADDRESS": "6130 Sunset Dr", 
+        "LAT": 25.7033, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12242523813286, 
+          25.942626328097013
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Sunny Isles Beach", 
+        "NAME": "City of Sunny Isles Beach", 
+        "LON": -80.12243, 
+        "ZIPCODE": 33160, 
+        "PHONE": "305-947-0606", 
+        "POINT_X": 944553.162733164, 
+        "POINT_Y": 585804.0708874911, 
+        "ADDRESS": "18070 Collins Ave", 
+        "LAT": 25.94263, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12267706616508, 
+          25.881353947734468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Surfside", 
+        "NAME": "Town of Surfside", 
+        "LON": -80.12268, 
+        "ZIPCODE": 33154, 
+        "PHONE": "305-861-4863", 
+        "POINT_X": 944619.437534995, 
+        "POINT_Y": 563532.374617323, 
+        "ADDRESS": "9293 Harding Ave", 
+        "LAT": 25.88135, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37301375770296, 
+          25.763925352853345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Sweetwater", 
+        "NAME": "City of Sweetwater", 
+        "LON": -80.37301, 
+        "ZIPCODE": 33174, 
+        "PHONE": "305-221-0411", 
+        "POINT_X": 862512.8684807459, 
+        "POINT_Y": 520380.056066491, 
+        "ADDRESS": "500 SW 109 Ave", 
+        "LAT": 25.76393, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19694519134809, 
+          25.7760871632081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Unincorporated Miami-Dade", 
+        "LON": -80.19695, 
+        "ZIPCODE": 33128, 
+        "PHONE": "305-375-5071", 
+        "POINT_X": 920433.625014328, 
+        "POINT_Y": 525114.812344991, 
+        "ADDRESS": "111 NW 1st St", 
+        "LAT": 25.77609, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30194371556887, 
+          25.80943547157437
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Virginia Gardens", 
+        "NAME": "Village of Virginia Gardens", 
+        "LON": -80.30194, 
+        "ZIPCODE": 33166, 
+        "PHONE": "305-871-6104", 
+        "POINT_X": 885815.604683578, 
+        "POINT_Y": 537038.81146282, 
+        "ADDRESS": "6498 NW 38th Ter", 
+        "LAT": 25.80944, 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29527461948457, 
+          25.762294614982792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "City of West Miami", 
+        "LON": -80.29527, 
+        "ZIPCODE": 33144, 
+        "PHONE": "305-266-1122", 
+        "POINT_X": 888101.375046413, 
+        "POINT_Y": 519916.59406690305, 
+        "ADDRESS": "901 SW 62nd Ave", 
+        "LAT": 25.76229, 
+        "SUITE": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,4373 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3992535982162, 
+          25.652106787218965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Senior L.I.F.T. Center, Inc.", 
+        "LON": -80.39925, 
+        "ZIPCODE": 33186, 
+        "STATE": "FL", 
+        "POINT_X": 854061.775146745, 
+        "POINT_Y": 479698.989134826, 
+        "ADDRESS": "12480 SW 127TH AVE", 
+        "LAT": 25.65211
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27972736954736, 
+          25.712121872916263
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "South Florida National Parks Trust, Inc.", 
+        "LON": -80.27973, 
+        "ZIPCODE": 33146, 
+        "STATE": "FL", 
+        "POINT_X": 893317.907264244, 
+        "POINT_Y": 501708.447084323, 
+        "ADDRESS": "1390 SOUTH DIXIE HWY", 
+        "LAT": 25.71212
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36900140852573, 
+          25.79556187333769
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Special Olympics Florida, Inc.", 
+        "LON": -80.369, 
+        "ZIPCODE": 33172, 
+        "STATE": "FL", 
+        "POINT_X": 863778.3213304131, 
+        "POINT_Y": 531884.9142903241, 
+        "ADDRESS": "2335 NW 107TH AVE", 
+        "LAT": 25.79556
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27728647565297, 
+          25.82389463904527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "Spinal Cord Living-Assistance Development, Inc. (SCLAD)", 
+        "LON": -80.27729, 
+        "ZIPCODE": 33010, 
+        "STATE": "FL", 
+        "POINT_X": 893898.821456745, 
+        "POINT_Y": 542337.996730573, 
+        "ADDRESS": "221 E 2ND AVE", 
+        "LAT": 25.82389
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19052847741582, 
+          25.777087940833262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Switchboard of Miami, Inc.", 
+        "LON": -80.19053, 
+        "ZIPCODE": 33132, 
+        "STATE": "FL", 
+        "POINT_X": 922543.0715828281, 
+        "POINT_Y": 525491.485148072, 
+        "ADDRESS": "190 NE 3RD ST", 
+        "LAT": 25.77709
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32279372268746, 
+          25.78256605850665
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Advocate Program Inc", 
+        "LON": -80.32279, 
+        "ZIPCODE": 33126, 
+        "STATE": "FL", 
+        "POINT_X": 879006.3286039941, 
+        "POINT_Y": 527236.978048153, 
+        "ADDRESS": "7800 NW 12TH ST", 
+        "LAT": 25.78257
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28090231486358, 
+          25.82543856850522
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "The Association for Development of the Exceptional, Inc.", 
+        "LON": -80.2809, 
+        "ZIPCODE": 33010, 
+        "STATE": "FL", 
+        "POINT_X": 892706.306125246, 
+        "POINT_Y": 542892.6409624891, 
+        "ADDRESS": "25 E 4TH ST", 
+        "LAT": 25.82544
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21882389002488, 
+          25.82083816680262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Liberty City Optimist Club of Florida, Inc.", 
+        "LON": -80.21882, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 913137.042822745, 
+        "POINT_Y": 541337.018417574, 
+        "ADDRESS": "1350 NW 50TH ST", 
+        "LAT": 25.82084
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3695533764367, 
+          25.776678324271177
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Young Men's Christian Association of Greater Miami, Inc.", 
+        "LON": -80.36955, 
+        "ZIPCODE": 33172, 
+        "STATE": "FL", 
+        "POINT_X": 863629.5614573291, 
+        "POINT_Y": 525020.655709155, 
+        "ADDRESS": "730 NW 107TH AVE", 
+        "LAT": 25.77668
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4773151667115, 
+          25.471679205304483
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "WeCount!, Inc.", 
+        "LON": -80.47732, 
+        "ZIPCODE": 33030, 
+        "STATE": "FL", 
+        "POINT_X": 828604.738790579, 
+        "POINT_Y": 414014.663810827, 
+        "ADDRESS": "201 N KROME AVE", 
+        "LAT": 25.47168
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24083646451362, 
+          25.92402663078873
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Institute of Black Family Life, Inc.", 
+        "LON": -80.24084, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 905678.8018337451, 
+        "POINT_Y": 578800.432663821, 
+        "ADDRESS": "16405 NW 25TH AVE", 
+        "LAT": 25.92403
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24083646451362, 
+          25.92402663078873
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Institute of Black Family Life, Inc.", 
+        "LON": -80.24084, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 905678.8018337451, 
+        "POINT_Y": 578800.432663821, 
+        "ADDRESS": "16405 NW 25TH AVE", 
+        "LAT": 25.92403
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18363202893072, 
+          25.890592555166403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Jewish Community Services of South Florida, Inc.", 
+        "LON": -80.18363, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 924556.443868414, 
+        "POINT_Y": 566761.042044491, 
+        "ADDRESS": "735 NE 125TH ST", 
+        "LAT": 25.89059
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23004258729925, 
+          25.77181385503378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Josefa Perez de Castano Kidney Foundation, Inc.", 
+        "LON": -80.23004, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 909550.6864784141, 
+        "POINT_Y": 523496.593468577, 
+        "ADDRESS": "2141 SW 1ST ST", 
+        "LAT": 25.77181
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2707775352298, 
+          25.77849982739411
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Junta Patriotica Cubana, Inc.", 
+        "LON": -80.27078, 
+        "ZIPCODE": 33126, 
+        "STATE": "FL", 
+        "POINT_X": 896131.373422079, 
+        "POINT_Y": 525850.434889488, 
+        "ADDRESS": "4600 NW 7TH ST", 
+        "LAT": 25.7785
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19240851425253, 
+          25.81121419880413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "KIDCO Child Care, Inc.", 
+        "LON": -80.19241, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 921848.291804411, 
+        "POINT_Y": 537891.48495432, 
+        "ADDRESS": "3630 NE 1ST CT", 
+        "LAT": 25.81121
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21446309666969, 
+          25.786742232598524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Kristi House, Inc.", 
+        "LON": -80.21446, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 914645.559490744, 
+        "POINT_Y": 528952.811886825, 
+        "ADDRESS": "1265 NW 12TH AVE", 
+        "LAT": 25.78674
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21821259459297, 
+          25.773716288875292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Latin Chamber of Commerce (CAMACOL Loan Fund, Inc.)", 
+        "LON": -80.21821, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 913439.847007163, 
+        "POINT_Y": 524210.98606865905, 
+        "ADDRESS": "1401 W FLAGLER ST", 
+        "LAT": 25.77372
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22352718869722, 
+          25.807321684648016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Latinos United in Action Center, Inc.", 
+        "LON": -80.22353, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 911618.8119353281, 
+        "POINT_Y": 536415.060741827, 
+        "ADDRESS": "3321 NW 17TH AVE", 
+        "LAT": 25.80732
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1897571321133, 
+          25.80567098017965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Legal Services of Greater Miami, Inc.", 
+        "LON": -80.18976, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922732.98557308, 
+        "POINT_Y": 535882.0611516541, 
+        "ADDRESS": "3000 BISCAYNE BLVD", 
+        "LAT": 25.80567
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2059856432429, 
+          25.76577884326054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Little Havana Activities and Nutrition Centers of Dade County, Inc.", 
+        "LON": -80.20599, 
+        "ZIPCODE": 33130, 
+        "STATE": "FL", 
+        "POINT_X": 917481.0754732451, 
+        "POINT_Y": 521350.05707924097, 
+        "ADDRESS": "700 SW 8TH ST", 
+        "LAT": 25.76578
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34659999556125, 
+          25.61848162300812
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Lutheran Services Florida, Inc.", 
+        "LON": -80.3466, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 871467.4358734121, 
+        "POINT_Y": 467560.03342590504, 
+        "ADDRESS": "16201 SW 95TH AVE", 
+        "LAT": 25.61848
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21463873901814, 
+          25.85307813028753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Mahogany Youth Corporation", 
+        "LON": -80.21464, 
+        "ZIPCODE": 33150, 
+        "STATE": "FL", 
+        "POINT_X": 914443.809566163, 
+        "POINT_Y": 553063.434597239, 
+        "ADDRESS": "1060 NW 85 ST", 
+        "LAT": 25.85308
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15136803887253, 
+          25.715513855390356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Key Biscayne", 
+        "NAME": "Marjory Stoneman Douglas Biscayne Nature Center, Inc.", 
+        "LON": -80.15137, 
+        "ZIPCODE": 33149, 
+        "STATE": "FL", 
+        "POINT_X": 935574.35063833, 
+        "POINT_Y": 503192.382764742, 
+        "ADDRESS": "6767 CRANDON BLVD", 
+        "LAT": 25.71551
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18363202893072, 
+          25.890592555166403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Masada Home Care, Inc.", 
+        "LON": -80.18363, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 924556.443868414, 
+        "POINT_Y": 566761.042044491, 
+        "ADDRESS": "735 NE 125TH ST", 
+        "LAT": 25.89059
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18545576410997, 
+          25.87711594644317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Behavioral Health Center, Inc.", 
+        "LON": -80.18546, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 923987.248484496, 
+        "POINT_Y": 561858.937347405, 
+        "ADDRESS": "11031 NE 6TH AVE", 
+        "LAT": 25.87712
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20709846533835, 
+          25.76752958443725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Lighthouse for the Blind and Visually Impaired, Inc.", 
+        "LON": -80.2071, 
+        "ZIPCODE": 33130, 
+        "STATE": "FL", 
+        "POINT_X": 917110.996817079, 
+        "POINT_Y": 521984.186388403, 
+        "ADDRESS": "601 SW 8TH AVE", 
+        "LAT": 25.76753
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1986947450789, 
+          25.77794960759564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Police Athletic League, Inc.", 
+        "LON": -80.19869, 
+        "ZIPCODE": 33128, 
+        "STATE": "FL", 
+        "POINT_X": 919853.746252827, 
+        "POINT_Y": 525788.243412822, 
+        "ADDRESS": "400 NW 2ND AVE", 
+        "LAT": 25.77795
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15263021887438, 
+          25.950174905537743
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Michael-Ann Russell Jewish Community Center, Inc.", 
+        "LON": -80.15263, 
+        "ZIPCODE": 33180, 
+        "STATE": "FL", 
+        "POINT_X": 934609.0615584111, 
+        "POINT_Y": 588482.43692182, 
+        "ADDRESS": "18900 NE 25TH AVE", 
+        "LAT": 25.95017
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43181429808513, 
+          25.51476514433443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Naranja", 
+        "NAME": "Mujeres Unidas En Justicia Educacion y Reforma, Inc.", 
+        "LON": -80.43181, 
+        "ZIPCODE": 33032, 
+        "STATE": "FL", 
+        "POINT_X": 843549.314544413, 
+        "POINT_Y": 429735.34562399203, 
+        "ADDRESS": "27112 S DIXIE HWY", 
+        "LAT": 25.51477
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22126114264373, 
+          25.833777046721856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Multi-Ethnic Youth Group Association Inc.", 
+        "LON": -80.22126, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 912307.421122413, 
+        "POINT_Y": 546035.131396659, 
+        "ADDRESS": "6306 NW 14TH AVE", 
+        "LAT": 25.83378
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13191408649358, 
+          25.814938792455695
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "National Council of Jewish Women, Greater Miami Section, Inc.", 
+        "LON": -80.13191, 
+        "ZIPCODE": 33140, 
+        "STATE": "FL", 
+        "POINT_X": 941741.749064662, 
+        "POINT_Y": 539371.998725571, 
+        "ADDRESS": "4144 CHASE AVE", 
+        "LAT": 25.81494
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22939026001276, 
+          25.86890604294142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "New Hope Development Center, Inc.", 
+        "LON": -80.22939, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 909558.626751244, 
+        "POINT_Y": 558787.664290488, 
+        "ADDRESS": "1881 NW 103RD ST", 
+        "LAT": 25.86891
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2112639293443, 
+          25.854004387512337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "New Jerusalem Community Development Corporation, Inc.", 
+        "LON": -80.21126, 
+        "ZIPCODE": 33150, 
+        "STATE": "FL", 
+        "POINT_X": 915551.6859593281, 
+        "POINT_Y": 553406.749855489, 
+        "ADDRESS": "777 NW 85TH ST", 
+        "LAT": 25.854
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1860065602234, 
+          25.89195509118225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "North Miami Foundation for Senior Citizens' Services, Inc.", 
+        "LON": -80.18601, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 923772.685921494, 
+        "POINT_Y": 567251.436732993, 
+        "ADDRESS": "620 NE 127 ST", 
+        "LAT": 25.89196
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2686895783256, 
+          25.915901302389102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "Omega Activity Center Foundation, Inc.", 
+        "LON": -80.26869, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 896540.560595829, 
+        "POINT_Y": 575795.060065657, 
+        "ADDRESS": "15600 NW 42ND AVE", 
+        "LAT": 25.9159
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35976118024337, 
+          25.64795643859531
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Optimist Club of Suniland, Inc.", 
+        "LON": -80.35976, 
+        "ZIPCODE": 33176, 
+        "STATE": "FL", 
+        "POINT_X": 867078.812432829, 
+        "POINT_Y": 478251.530087493, 
+        "ADDRESS": "10245 SW 130TH LN", 
+        "LAT": 25.64796
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2532110807417, 
+          25.894090712891924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "Peace Be Still Youth Development Center, Inc.", 
+        "LON": -80.25321, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 901673.498164579, 
+        "POINT_Y": 567896.248763576, 
+        "ADDRESS": "13180 PORT SAID RD", 
+        "LAT": 25.89409
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45360173725784, 
+          25.676662851238376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Piag Museum, Inc.", 
+        "LON": -80.4536, 
+        "ZIPCODE": 33196, 
+        "STATE": "FL", 
+        "POINT_X": 836121.4402925781, 
+        "POINT_Y": 488546.279182993, 
+        "ADDRESS": "9600 SW 159TH AVE", 
+        "LAT": 25.67666
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28657411655031, 
+          25.70745742183729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "NAME": "Psycho-Social Rehabilitation Center, Inc., d/b/a Fellowship House", 
+        "LON": -80.28657, 
+        "ZIPCODE": 33143, 
+        "STATE": "FL", 
+        "POINT_X": 891072.6863609961, 
+        "POINT_Y": 500000.874055907, 
+        "ADDRESS": "5711 S DIXIE HWY", 
+        "LAT": 25.70746
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18994255378395, 
+          25.81038390783488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Rafael Hernandez Housing and Economic Development Corp.", 
+        "LON": -80.18994, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922661.43551933, 
+        "POINT_Y": 537594.68699149, 
+        "ADDRESS": "3550 BISCAYNE BLVD", 
+        "LAT": 25.81038
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41039323370424, 
+          25.6477734160016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Read2Succeed, Inc.", 
+        "LON": -80.41039, 
+        "ZIPCODE": 33186, 
+        "STATE": "FL", 
+        "POINT_X": 850399.141395912, 
+        "POINT_Y": 478107.521845326, 
+        "ADDRESS": "13418 SW 128TH ST", 
+        "LAT": 25.64777
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35004706000761, 
+          25.60260049746394
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Recapturing the Vision International, Inc.", 
+        "LON": -80.35005, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 870359.872143663, 
+        "POINT_Y": 461782.438681908, 
+        "ADDRESS": "9780 E INDIGO ST", 
+        "LAT": 25.6026
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22845551203652, 
+          25.779564185018618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Regis House, Inc.", 
+        "LON": -80.22846, 
+        "ZIPCODE": 33125, 
+        "STATE": "FL", 
+        "POINT_X": 910056.497802746, 
+        "POINT_Y": 526316.621949241, 
+        "ADDRESS": "2010 NW 7TH ST", 
+        "LAT": 25.77956
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35479830687315, 
+          25.60146139466649
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Richmond Perrine Optimist Club, Inc. of Miami, FL", 
+        "LON": -80.3548, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 868796.062607244, 
+        "POINT_Y": 461360.78368532704, 
+        "ADDRESS": "18055 HOMESTEAD AVE", 
+        "LAT": 25.60146
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27902800987404, 
+          25.705176322719456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Riviera Presbyterian Church", 
+        "LON": -80.27903, 
+        "ZIPCODE": 33143, 
+        "STATE": "FL", 
+        "POINT_X": 893561.960909996, 
+        "POINT_Y": 499185.280542739, 
+        "ADDRESS": "5275 SUNSET DR", 
+        "LAT": 25.70518
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3155980319184, 
+          25.855734110946685
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "S.T.E.P.S. in the Right Direction, Inc.", 
+        "LON": -80.3156, 
+        "ZIPCODE": 33012, 
+        "STATE": "FL", 
+        "POINT_X": 881235.8330032451, 
+        "POINT_Y": 553843.074114077, 
+        "ADDRESS": "1651 W 37TH ST", 
+        "LAT": 25.85573
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2299336550046, 
+          25.811555078446546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Salvation Army- A Georgia Corporation", 
+        "LON": -80.22993, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 909502.0615756621, 
+        "POINT_Y": 537941.372977905, 
+        "ADDRESS": "1907 NW 38TH ST", 
+        "LAT": 25.81156
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44385491795238, 
+          25.710104321350347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Shed Group, Inc.", 
+        "LON": -80.44385, 
+        "ZIPCODE": 33193, 
+        "STATE": "FL", 
+        "POINT_X": 839280.4402081631, 
+        "POINT_Y": 500713.997301571, 
+        "ADDRESS": "6003 SW 154TH CT", 
+        "LAT": 25.7101
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22517492969136, 
+          25.77152707151995
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Sisters and Brothers Forever, Inc.", 
+        "LON": -80.22517, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 911153.249874327, 
+        "POINT_Y": 523401.747857742, 
+        "ADDRESS": "1800 SW 1ST ST", 
+        "LAT": 25.77153
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12706471884258, 
+          25.814035779908693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "South Florida Hispanic Chamber of Commerce, Inc.", 
+        "LON": -80.12706, 
+        "ZIPCODE": 33140, 
+        "STATE": "FL", 
+        "POINT_X": 943339.304924663, 
+        "POINT_Y": 539054.3346627429, 
+        "ADDRESS": "333 ARTHUR GODFREY RD", 
+        "LAT": 25.81404
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18994255378395, 
+          25.81038390783488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "South Florida Puerto Rican Chamber of Commerce Inc.", 
+        "LON": -80.18994, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922661.43551933, 
+        "POINT_Y": 537594.68699149, 
+        "ADDRESS": "3550 BISCAYNE BLVD", 
+        "LAT": 25.81038
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37879960726906, 
+          25.650156899502907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "South Florida Youth Symphony, Inc.", 
+        "LON": -80.3788, 
+        "ZIPCODE": 33176, 
+        "STATE": "FL", 
+        "POINT_X": 860803.124196827, 
+        "POINT_Y": 479021.40518815804, 
+        "ADDRESS": "12645 SW 114 AVE", 
+        "LAT": 25.65016
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31099283191831, 
+          25.76818957275058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Southwest Social Services Programs, Inc.", 
+        "LON": -80.31099, 
+        "ZIPCODE": 33144, 
+        "STATE": "FL", 
+        "POINT_X": 882916.93922108, 
+        "POINT_Y": 522031.828353487, 
+        "ADDRESS": "25 TAMIAMI BLVD", 
+        "LAT": 25.76819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26108933141974, 
+          25.771270632814165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Spanish American Basic Educationand Rehabilitation, Inc.  (SABER)", 
+        "LON": -80.26109, 
+        "ZIPCODE": 33134, 
+        "STATE": "FL", 
+        "POINT_X": 899334.309273411, 
+        "POINT_Y": 523240.653691739, 
+        "ADDRESS": "3990 W FLAGLER ST", 
+        "LAT": 25.77127
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25539985740166, 
+          25.726212107673646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "St. Alban's Day Nursery, Inc.", 
+        "LON": -80.2554, 
+        "ZIPCODE": 33133, 
+        "STATE": "FL", 
+        "POINT_X": 901299.1852649121, 
+        "POINT_Y": 506874.12212041, 
+        "ADDRESS": "3465 BROOKER ST", 
+        "LAT": 25.72621
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23824556795712, 
+          25.742418887438266
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "St. Thomas University", 
+        "LON": -80.23825, 
+        "ZIPCODE": 33133, 
+        "STATE": "FL", 
+        "POINT_X": 906912.8111767471, 
+        "POINT_Y": 512796.90489424, 
+        "ADDRESS": "2650 SW 27TH AVE", 
+        "LAT": 25.74242
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3407942477046, 
+          25.70140343850022
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Sunrise Community, Inc.", 
+        "LON": -80.34079, 
+        "ZIPCODE": 33173, 
+        "STATE": "FL", 
+        "POINT_X": 873230.371980079, 
+        "POINT_Y": 497707.74839282, 
+        "ADDRESS": "9040 SUNSET DR", 
+        "LAT": 25.7014
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4803990335188, 
+          25.480549522026024
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "Sweet Vine, Inc.", 
+        "LON": -80.4804, 
+        "ZIPCODE": 33030, 
+        "STATE": "FL", 
+        "POINT_X": 827574.752005413, 
+        "POINT_Y": 417234.501859322, 
+        "ADDRESS": "144 NW 11TH ST", 
+        "LAT": 25.48055
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20733964936878, 
+          25.827557981457623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Tacolcy Economic Development Corporation, Inc.", 
+        "LON": -80.20734, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 916900.249863245, 
+        "POINT_Y": 543802.060731575, 
+        "ADDRESS": "675 NW 56TH ST", 
+        "LAT": 25.82756
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12838588061305, 
+          25.858558263363506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Teen Job Corps, Inc.", 
+        "LON": -80.12839, 
+        "ZIPCODE": 33141, 
+        "STATE": "FL", 
+        "POINT_X": 942797.362438995, 
+        "POINT_Y": 555234.2009249929, 
+        "ADDRESS": "7356 GARY AVE", 
+        "LAT": 25.85856
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27744108079763, 
+          25.922311474177395
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "Teen Up-ward Bound, Inc.", 
+        "LON": -80.27744, 
+        "ZIPCODE": 33014, 
+        "STATE": "FL", 
+        "POINT_X": 893651.096230414, 
+        "POINT_Y": 578109.01016216, 
+        "ADDRESS": "4722 NW 165TH ST", 
+        "LAT": 25.92231
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21817556918732, 
+          25.772585437693436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Abriendo Puertas Governing Board of East Little Havana, Inc.", 
+        "LON": -80.21818, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 913454.4706655779, 
+        "POINT_Y": 523800.03315040504, 
+        "ADDRESS": "1401 SW 1ST ST", 
+        "LAT": 25.77259
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24212128006002, 
+          25.834299689523412
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The ADMIT Program, Inc. (Declined Award)", 
+        "LON": -80.24212, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 905444.8108319121, 
+        "POINT_Y": 546184.99822291, 
+        "ADDRESS": "6600 NW 27TH AVE", 
+        "LAT": 25.8343
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13009907295556, 
+          25.936116667172985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Sunny Isles", 
+        "NAME": "The Dialysis Food Foundation of South Florida, Inc.", 
+        "LON": -80.1301, 
+        "ZIPCODE": 33160, 
+        "STATE": "FL", 
+        "POINT_X": 942046.999766495, 
+        "POINT_Y": 583421.12322557, 
+        "ADDRESS": "290 174TH ST", 
+        "LAT": 25.93612
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21120505262228, 
+          25.910106009579486
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Family Christian Association of America, Inc.", 
+        "LON": -80.21121, 
+        "ZIPCODE": 33168, 
+        "STATE": "FL", 
+        "POINT_X": 915448.497517411, 
+        "POINT_Y": 573798.184794322, 
+        "ADDRESS": "14701 NW 7TH AVE", 
+        "LAT": 25.91011
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19050379469182, 
+          25.769142652311768
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Foundation for Democracy in Africa, Inc. (Africando)", 
+        "LON": -80.1905, 
+        "ZIPCODE": 33131, 
+        "STATE": "FL", 
+        "POINT_X": 922568.9360324111, 
+        "POINT_Y": 522603.685477488, 
+        "ADDRESS": "444 BRICKELL AVE", 
+        "LAT": 25.76914
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26833019316697, 
+          25.941001434299693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The JPM Centre at Miami Gardens Drive, Inc.", 
+        "LON": -80.26833, 
+        "ZIPCODE": 33055, 
+        "STATE": "FL", 
+        "POINT_X": 896607.747141246, 
+        "POINT_Y": 584918.87416707, 
+        "ADDRESS": "4055 NW 183 ST", 
+        "LAT": 25.941
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25207864965968, 
+          25.727450999069617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Thelma Gibson Health Initiative, Inc.", 
+        "LON": -80.25208, 
+        "ZIPCODE": 33133, 
+        "STATE": "FL", 
+        "POINT_X": 902390.059395496, 
+        "POINT_Y": 507330.593320325, 
+        "ADDRESS": "3634 GRAND AVE", 
+        "LAT": 25.72745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19156037881218, 
+          25.813916535027285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Thurston Group, Inc.", 
+        "LON": -80.19156, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922121.288305663, 
+        "POINT_Y": 538875.4134326581, 
+        "ADDRESS": "4040 NE 2ND AVE", 
+        "LAT": 25.81392
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20085994714837, 
+          25.79071389153926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Transition, Inc.", 
+        "LON": -80.20086, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 919113.06072633, 
+        "POINT_Y": 530423.309601992, 
+        "ADDRESS": "1600 NW 3RD AVE", 
+        "LAT": 25.79071
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21009382459356, 
+          25.89061823495454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Trinity Church, Inc.", 
+        "LON": -80.21009, 
+        "ZIPCODE": 33168, 
+        "STATE": "FL", 
+        "POINT_X": 915856.437646411, 
+        "POINT_Y": 566717.12218482, 
+        "ADDRESS": "655 NW 125TH ST", 
+        "LAT": 25.89062
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24052767197942, 
+          25.806378885339115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Troy Foundation, Inc.", 
+        "LON": -80.24053, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 906027.585584994, 
+        "POINT_Y": 536039.745875657, 
+        "ADDRESS": "3300 NW 27TH AVE", 
+        "LAT": 25.80638
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13794263792737, 
+          25.85262465359571
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "UNIDAD of Miami Beach, Inc.", 
+        "LON": -80.13794, 
+        "ZIPCODE": 33141, 
+        "STATE": "FL", 
+        "POINT_X": 939668.621977329, 
+        "POINT_Y": 553056.747930825, 
+        "ADDRESS": "1701 NORMANDY DR", 
+        "LAT": 25.85262
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22252987037182, 
+          25.770911673248474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Union Positiva, Inc.", 
+        "LON": -80.22253, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 912025.063419413, 
+        "POINT_Y": 523183.199410327, 
+        "ADDRESS": "215 SW 17TH AVE", 
+        "LAT": 25.77091
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33427871997013, 
+          25.804298570706926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "United Home Care Services, Inc.", 
+        "LON": -80.33428, 
+        "ZIPCODE": 33122, 
+        "STATE": "FL", 
+        "POINT_X": 875187.062292412, 
+        "POINT_Y": 535116.623378076, 
+        "ADDRESS": "8400 NW 33RD ST", 
+        "LAT": 25.8043
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21144301480201, 
+          25.788194908449277
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "University of Miami  - Preventing Abuse through Responsive Parenting", 
+        "LON": -80.21144, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 915636.1874307471, 
+        "POINT_Y": 529486.749795325, 
+        "ADDRESS": "1400 NW 10TH AVE", 
+        "LAT": 25.78819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21144301480201, 
+          25.788194908449277
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "University of Miami - Child Protection Team", 
+        "LON": -80.21144, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 915636.1874307471, 
+        "POINT_Y": 529486.749795325, 
+        "ADDRESS": "1400 NW 10TH AVE", 
+        "LAT": 25.78819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21144301480201, 
+          25.788194908449277
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "University of Miami - Home Based Parenting Services", 
+        "LON": -80.21144, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 915636.1874307471, 
+        "POINT_Y": 529486.749795325, 
+        "ADDRESS": "1400 NW 10TH AVE", 
+        "LAT": 25.78819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46119326209006, 
+          25.736567972346812
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miramar", 
+        "NAME": "Overtown Community Optimist Club, Inc.", 
+        "LON": -80.46119, 
+        "ZIPCODE": 33027, 
+        "STATE": "FL", 
+        "POINT_X": 833532.3306414111, 
+        "POINT_Y": 510308.593597904, 
+        "ADDRESS": "16464 SW 32ND ST", 
+        "LAT": 25.73657
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1401497462656, 
+          26.112420776388216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": null, 
+        "NAME": "Bayview Center for Mental Health, Inc.", 
+        "LON": -80.14015, 
+        "ZIPCODE": 33316, 
+        "STATE": null, 
+        "POINT_X": 938321.8510488269, 
+        "POINT_Y": 647482.7070444081, 
+        "ADDRESS": "700 SE 3RD AVE", 
+        "LAT": 26.11242
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12782590309332, 
+          26.15964127498403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": null, 
+        "NAME": "Catholic Charities of the Archdiocese of Miami, Inc.", 
+        "LON": -80.12783, 
+        "ZIPCODE": 33305, 
+        "STATE": null, 
+        "POINT_X": 942250.941943914, 
+        "POINT_Y": 664673.7149851549, 
+        "ADDRESS": "1505 NE 26TH ST", 
+        "LAT": 26.15964
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1777323933115, 
+          25.99110557828594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": null, 
+        "NAME": "Feeding South Florida, Inc. (formerly Daily Bread Food Bank, Inc.)", 
+        "LON": -80.17773, 
+        "ZIPCODE": 33023, 
+        "STATE": null, 
+        "POINT_X": 926266.723584328, 
+        "POINT_Y": 603307.2114060749, 
+        "ADDRESS": "2501 SW 32ND TER", 
+        "LAT": 25.99111
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -82.71547006775418, 
+          27.899841123512896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": null, 
+        "NAME": "Gulf Coast Jewish Family Services, Inc.", 
+        "LON": -82.71547, 
+        "ZIPCODE": 33760, 
+        "STATE": null, 
+        "POINT_X": 102043.91534033, 
+        "POINT_Y": 1300172.99811791, 
+        "ADDRESS": "14041 ICOT BLVD", 
+        "LAT": 27.89984
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14759446131639, 
+          25.985404361084907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hallandale", 
+        "NAME": "North Miami Beach Little League, Inc.", 
+        "LON": -80.14759, 
+        "ZIPCODE": 33009, 
+        "STATE": "FL", 
+        "POINT_X": 936180.4452266621, 
+        "POINT_Y": 601298.343376577, 
+        "ADDRESS": "2500 HALLENDALE BLVD", 
+        "LAT": 25.9854
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20349051350557, 
+          26.18348074412184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": null, 
+        "NAME": "Centro Mater Child Care Services, Inc.", 
+        "LON": -80.20349, 
+        "ZIPCODE": 33319, 
+        "STATE": null, 
+        "POINT_X": 917377.814852994, 
+        "POINT_Y": 673179.667789489, 
+        "ADDRESS": "4790 N STATE RD 7", 
+        "LAT": 26.18348
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25210419789717, 
+          25.95443594333322
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "Alliance for Musical Arts Production, Inc.", 
+        "LON": -80.2521, 
+        "ZIPCODE": 33055, 
+        "STATE": "FL", 
+        "POINT_X": 901912.223080829, 
+        "POINT_Y": 589832.0641438221, 
+        "ADDRESS": "3000 NW 199TH ST", 
+        "LAT": 25.95444
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1757969138779, 
+          25.91367420622309
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Farah's Angels Day Care Center, Inc.", 
+        "LON": -80.1758, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 927079.7098192461, 
+        "POINT_Y": 575166.728317075, 
+        "ADDRESS": "15002 NE 12TH AVE", 
+        "LAT": 25.91367
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16915560757197, 
+          25.924511920053117
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Haitian American Chamber of Commerce, Inc.", 
+        "LON": -80.16916, 
+        "ZIPCODE": 33128, 
+        "STATE": "FL", 
+        "POINT_X": 929237.8114741631, 
+        "POINT_Y": 579119.749610491, 
+        "ADDRESS": "1510 NE 162ND ST", 
+        "LAT": 25.92451
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43797972695052, 
+          25.50261185225897
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "Leisure City/Modello Optimist Club of Florida, Inc.", 
+        "LON": -80.43798, 
+        "ZIPCODE": 33092, 
+        "STATE": "FL", 
+        "POINT_X": 841534.627956994, 
+        "POINT_Y": 425309.688792907, 
+        "ADDRESS": "28450 SW 152ND AVE", 
+        "LAT": 25.50261
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19664714044391, 
+          25.780995245970427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Miami-Dade Community Action and Human Services Dept.", 
+        "LON": -80.19665, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 920520.832188994, 
+        "POINT_Y": 526899.335678823, 
+        "ADDRESS": "701 NW 1ST CT", 
+        "LAT": 25.781
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19913562763126, 
+          25.83230655718997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Neighbors and Neighbors Association, Inc.", 
+        "LON": -80.19914, 
+        "ZIPCODE": 33150, 
+        "STATE": "FL", 
+        "POINT_X": 919588.435431745, 
+        "POINT_Y": 545544.372535653, 
+        "ADDRESS": "180 NW 62ND ST", 
+        "LAT": 25.83231
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15834041628591, 
+          25.903891565472872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "NAME": "North Miami Beach Medical Center, Inc", 
+        "LON": -80.15834, 
+        "ZIPCODE": 33168, 
+        "STATE": "FL", 
+        "POINT_X": 932840.685830079, 
+        "POINT_Y": 571647.4367992431, 
+        "ADDRESS": "13899 BISCAYNE BLVD", 
+        "LAT": 25.90389
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37016348202775, 
+          25.7005792373381
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "One Art, Inc.", 
+        "LON": -80.37016, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 863560.828983247, 
+        "POINT_Y": 497361.007288404, 
+        "ADDRESS": "10900 SW 72ND ST", 
+        "LAT": 25.70058
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2014409198429, 
+          25.795963893807876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "St. Agnes Community Development Corporation", 
+        "LON": -80.20144, 
+        "ZIPCODE": 23127, 
+        "STATE": "FL", 
+        "POINT_X": 918910.3186777461, 
+        "POINT_Y": 532330.354016237, 
+        "ADDRESS": "2043 NW 4TH CT", 
+        "LAT": 25.79596
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37066265836086, 
+          25.5599535989598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Goulds", 
+        "NAME": "The Greater Goulds Optimist Club, Inc.", 
+        "LON": -80.37066, 
+        "ZIPCODE": 33170, 
+        "STATE": "FL", 
+        "POINT_X": 863639.304219995, 
+        "POINT_Y": 446249.710561074, 
+        "ADDRESS": "11025 SW 223RD ST", 
+        "LAT": 25.55995
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31458724814203, 
+          25.822895120522027
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Historic Hampton House Community Trust, Inc.", 
+        "LON": -80.31459, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 881630.479851745, 
+        "POINT_Y": 541909.0248194931, 
+        "ADDRESS": "5400 NW 72ND AVE", 
+        "LAT": 25.8229
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2067021357261, 
+          25.794557251298883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Miami-Dade Chamber of  Commerce, Inc.", 
+        "LON": -80.2067, 
+        "ZIPCODE": 13139, 
+        "STATE": "FL", 
+        "POINT_X": 917182.272921246, 
+        "POINT_Y": 531808.620151572, 
+        "ADDRESS": "1951 NW 7TH AVE", 
+        "LAT": 25.79456
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27757900320539, 
+          25.705193045817886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Non-Violence Project USA, Inc.", 
+        "LON": -80.27758, 
+        "ZIPCODE": 33143, 
+        "STATE": "FL", 
+        "POINT_X": 894039.059693329, 
+        "POINT_Y": 499193.96556474303, 
+        "ADDRESS": "1205 SW 72ND ST", 
+        "LAT": 25.70519
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4755894934369, 
+          25.445978069868634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "NAME": "Tropical Everglades Visitor Association, Inc.", 
+        "LON": -80.47559, 
+        "ZIPCODE": 33034, 
+        "STATE": "FL", 
+        "POINT_X": 829210.814021997, 
+        "POINT_Y": 404676.126057491, 
+        "ADDRESS": "160 SE 1st Ave", 
+        "LAT": 25.44598
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35419208325325, 
+          25.604591621438463
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Abstinence Between Strong Teens International, Inc.", 
+        "LON": -80.35419, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 868990.310250245, 
+        "POINT_Y": 462499.438232154, 
+        "ADDRESS": "17690 HOMESTEAD AVE", 
+        "LAT": 25.60459
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18994255378395, 
+          25.81038390783488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Adgam, Inc.", 
+        "LON": -80.18994, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922661.43551933, 
+        "POINT_Y": 537594.68699149, 
+        "ADDRESS": "3550 BISCAYNE BLVD", 
+        "LAT": 25.81038
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26661718685419, 
+          25.771902940891323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Adults Mankind Organization, Inc.", 
+        "LON": -80.26662, 
+        "ZIPCODE": 33134, 
+        "STATE": "FL", 
+        "POINT_X": 897513.8093054971, 
+        "POINT_Y": 523460.311060823, 
+        "ADDRESS": "4343 W FLAGLER ST", 
+        "LAT": 25.7719
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20296820028297, 
+          25.886441732933523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Alhambra Heights Residential Force, Inc.", 
+        "LON": -80.20297, 
+        "ZIPCODE": 33168, 
+        "STATE": "FL", 
+        "POINT_X": 918208.374543577, 
+        "POINT_Y": 565213.2485521589, 
+        "ADDRESS": "12128 NW 2ND AVE", 
+        "LAT": 25.88644
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37079185661163, 
+          25.77739946301102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Alliance for Aging, Inc.", 
+        "LON": -80.37079, 
+        "ZIPCODE": 33172, 
+        "STATE": "FL", 
+        "POINT_X": 863220.749282829, 
+        "POINT_Y": 525280.8110287411, 
+        "ADDRESS": "760 NW 107TH AVE", 
+        "LAT": 25.7774
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40901276840151, 
+          25.653418558123946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "American Fraternity, Inc.", 
+        "LON": -80.40901, 
+        "ZIPCODE": 33186, 
+        "STATE": "FL", 
+        "POINT_X": 850844.752709411, 
+        "POINT_Y": 480161.278236493, 
+        "ADDRESS": "12350 SW 132ND CT", 
+        "LAT": 25.65342
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21801680342875, 
+          25.91035252744879
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "American International Relief, Inc.", 
+        "LON": -80.21802, 
+        "ZIPCODE": 33168, 
+        "STATE": "FL", 
+        "POINT_X": 913208.8110519131, 
+        "POINT_Y": 573874.374602571, 
+        "ADDRESS": "14815 NW 11TH AVE", 
+        "LAT": 25.91035
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23870742586568, 
+          25.768976095946957
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "American Red Cross Greater Miami & The Keys", 
+        "LON": -80.23871, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 906705.041907247, 
+        "POINT_Y": 522448.60114198906, 
+        "ADDRESS": "335 SW 27TH AVE", 
+        "LAT": 25.76898
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1897571321133, 
+          25.80567098017965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Americans for Immigrant Justice, Inc.", 
+        "LON": -80.18976, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922732.98557308, 
+        "POINT_Y": 535882.0611516541, 
+        "ADDRESS": "3000 BISCAYNE BLVD", 
+        "LAT": 25.80567
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22905090968442, 
+          25.750863225489073
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Amigos Together for Kids, Inc.", 
+        "LON": -80.22905, 
+        "ZIPCODE": 33145, 
+        "STATE": "FL", 
+        "POINT_X": 909921.5833744111, 
+        "POINT_Y": 515883.697605155, 
+        "ADDRESS": "2153 CORAL WAY", 
+        "LAT": 25.75086
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2959625812474, 
+          25.782681693466614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Aspira of Florida, Inc.", 
+        "LON": -80.29596, 
+        "ZIPCODE": 33126, 
+        "STATE": "FL", 
+        "POINT_X": 887835.35950233, 
+        "POINT_Y": 527325.299393825, 
+        "ADDRESS": "6100 BLUE LAGOON DR", 
+        "LAT": 25.78268
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18653604699296, 
+          25.82716891320539
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Association for Retarded Citizens of South Florida, Inc.", 
+        "LON": -80.18654, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 923744.437290329, 
+        "POINT_Y": 543702.4362589051, 
+        "ADDRESS": "5555 BISCAYNE BLVD", 
+        "LAT": 25.82717
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12354879453376, 
+          25.856906054715115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Ayuda, Inc.", 
+        "LON": -80.12355, 
+        "ZIPCODE": 33141, 
+        "STATE": "FL", 
+        "POINT_X": 944392.124341328, 
+        "POINT_Y": 554644.249348991, 
+        "ADDRESS": "7144 BYRON AVE", 
+        "LAT": 25.85691
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19615816173904, 
+          25.87907742316884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Shores", 
+        "NAME": "Barry University, Inc.", 
+        "LON": -80.19616, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 920463.8096652441, 
+        "POINT_Y": 562550.1859649051, 
+        "ADDRESS": "11300 NE 2ND AVE", 
+        "LAT": 25.87908
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19615816173904, 
+          25.87907742316884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Shores", 
+        "NAME": "Barry University, Inc. - School of Adult and Continuing Education", 
+        "LON": -80.19616, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 920463.8096652441, 
+        "POINT_Y": 562550.1859649051, 
+        "ADDRESS": "11300 NE 2ND AVE", 
+        "LAT": 25.87908
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21100053711332, 
+          25.831775828280975
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Belafonte Tacolcy Center, Inc.", 
+        "LON": -80.211, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 915686.8100329121, 
+        "POINT_Y": 545327.873296738, 
+        "ADDRESS": "6161 NW 9TH AVE", 
+        "LAT": 25.83178
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18500328491179, 
+          25.829451434317424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Bertha Abess Children's Center, Inc.", 
+        "LON": -80.185, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 924243.49764391, 
+        "POINT_Y": 544535.18590574, 
+        "ADDRESS": "5801 BISCAYNE BLVD", 
+        "LAT": 25.82945
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19162342958863, 
+          25.772261440032484
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Best Buddies International, Inc.", 
+        "LON": -80.19162, 
+        "ZIPCODE": 33131, 
+        "STATE": "FL", 
+        "POINT_X": 922193.498791162, 
+        "POINT_Y": 523734.999159738, 
+        "ADDRESS": "100 SE 2ND ST", 
+        "LAT": 25.77226
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20966441633803, 
+          25.802165493337156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Better Way of Miami, Inc.", 
+        "LON": -80.20966, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 916190.9648644959, 
+        "POINT_Y": 534568.103805825, 
+        "ADDRESS": "800 NW 28TH ST", 
+        "LAT": 25.80217
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23824424515497, 
+          25.76572315289402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Big Brothers and Big Sisters of Greater Miami, Inc.", 
+        "LON": -80.23824, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 906864.3122579941, 
+        "POINT_Y": 521267.15435791, 
+        "ADDRESS": "701 SW 27TH AVE", 
+        "LAT": 25.76572
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41694814696318, 
+          25.6650087817757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Black Door Dance Ensemble, Inc.", 
+        "LON": -80.41695, 
+        "ZIPCODE": 33186, 
+        "STATE": "FL", 
+        "POINT_X": 848212.126741078, 
+        "POINT_Y": 484362.15402107703, 
+        "ADDRESS": "11017 SW 137TH PL", 
+        "LAT": 25.66501
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19061860427946, 
+          25.81090896096208
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Borinquen Health Care Center", 
+        "LON": -80.19062, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922437.843774911, 
+        "POINT_Y": 537784.158725403, 
+        "ADDRESS": "3601 FEDERAL HWY", 
+        "LAT": 25.81091
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24492611430301, 
+          25.738641297784202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Boys and Girls Club of Miami-Dade, Inc.", 
+        "LON": -80.24493, 
+        "ZIPCODE": 33133, 
+        "STATE": "FL", 
+        "POINT_X": 904721.5593256621, 
+        "POINT_Y": 511411.249529071, 
+        "ADDRESS": "2805 SW 32ND AVE", 
+        "LAT": 25.73864
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23778346646797, 
+          25.91701853711819
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Bunche Park Sports & Community Club, Inc.", 
+        "LON": -80.23778, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 906697.0724349951, 
+        "POINT_Y": 576259.014190242, 
+        "ADDRESS": "15600 W BUNCHE PARK DR", 
+        "LAT": 25.91702
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21821259459297, 
+          25.773716288875292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "CAMACOL Loan Fund, Inc.", 
+        "LON": -80.21821, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 913439.847007163, 
+        "POINT_Y": 524210.98606865905, 
+        "ADDRESS": "1401 W FLAGLER ST", 
+        "LAT": 25.77372
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20669827310243, 
+          25.790839228684128
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Camillus House, Inc.", 
+        "LON": -80.2067, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 917191.6859601621, 
+        "POINT_Y": 530457.249494739, 
+        "ADDRESS": "1603 NW 7TH AVE", 
+        "LAT": 25.79084
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21760740834758, 
+          25.772130132442605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Carrfour Supportive Housing, Inc.", 
+        "LON": -80.21761, 
+        "ZIPCODE": 33135, 
+        "STATE": "FL", 
+        "POINT_X": 913642.434528496, 
+        "POINT_Y": 523635.65519832104, 
+        "ADDRESS": "1398 SW 1ST ST", 
+        "LAT": 25.77213
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19327214918675, 
+          25.85094483978081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Center for Haitian Studies, Inc.", 
+        "LON": -80.19327, 
+        "ZIPCODE": 33138, 
+        "STATE": "FL", 
+        "POINT_X": 921475.561250661, 
+        "POINT_Y": 552330.622086488, 
+        "ADDRESS": "8260 NE 2ND AVE", 
+        "LAT": 25.85094
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18447536162067, 
+          25.837250691034086
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Center for Independent Living of South Florida, Inc.", 
+        "LON": -80.18448, 
+        "ZIPCODE": 33138, 
+        "STATE": "FL", 
+        "POINT_X": 924399.5711506611, 
+        "POINT_Y": 547371.059827156, 
+        "ADDRESS": "6660 BISCAYNE BLVD", 
+        "LAT": 25.83725
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19367607867464, 
+          25.85036966735835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Center of Information & Orientation, Inc.", 
+        "LON": -80.19368, 
+        "ZIPCODE": 33138, 
+        "STATE": "FL", 
+        "POINT_X": 921343.998193581, 
+        "POINT_Y": 552120.74849049, 
+        "ADDRESS": "181 NE 82ND ST", 
+        "LAT": 25.85037
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1933173329814, 
+          25.772755061880066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "CHARLEE of Dade County, Inc.", 
+        "LON": -80.19332, 
+        "ZIPCODE": 33130, 
+        "STATE": "FL", 
+        "POINT_X": 921634.93461958, 
+        "POINT_Y": 523910.997823492, 
+        "ADDRESS": "155 S MIAMI AVE", 
+        "LAT": 25.77276
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20899098439236, 
+          25.788959513748424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Children's Home Society of Florida", 
+        "LON": -80.20899, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 916441.374796744, 
+        "POINT_Y": 529769.497261323, 
+        "ADDRESS": "800 NW 15TH ST", 
+        "LAT": 25.78896
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2216298802433, 
+          25.77501863531608
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Citizens for a Better South Florida, Inc.", 
+        "LON": -80.22163, 
+        "ZIPCODE": 33125, 
+        "STATE": "FL", 
+        "POINT_X": 912312.435548078, 
+        "POINT_Y": 524677.6855945741, 
+        "ADDRESS": "138 NW 16TH AVE", 
+        "LAT": 25.77502
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32163994122902, 
+          25.859757320295525
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "Citrus Health Network, Inc.", 
+        "LON": -80.32164, 
+        "ZIPCODE": 33012, 
+        "STATE": "FL", 
+        "POINT_X": 879241.3100894131, 
+        "POINT_Y": 555295.061695658, 
+        "ADDRESS": "4175 W 20TH AVE", 
+        "LAT": 25.85976
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20054781021993, 
+          25.789307647538283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "City of Miami", 
+        "LON": -80.20055, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 919218.872522578, 
+        "POINT_Y": 529912.8096387391, 
+        "ADDRESS": "1490 NW 3RD AVE", 
+        "LAT": 25.78931
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16164422672219, 
+          25.932370688183322
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "NAME": "City of North Miami Beach", 
+        "LON": -80.16164, 
+        "ZIPCODE": 33162, 
+        "STATE": "FL", 
+        "POINT_X": 931688.386953577, 
+        "POINT_Y": 581991.9479343221, 
+        "ADDRESS": "17011 NE 19TH AVE", 
+        "LAT": 25.93237
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29207375169038, 
+          25.703299817503275
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "NAME": "City of South Miami", 
+        "LON": -80.29207, 
+        "ZIPCODE": 33143, 
+        "STATE": "FL", 
+        "POINT_X": 889269.890753996, 
+        "POINT_Y": 498480.01456482, 
+        "ADDRESS": "6130 SUNSET DR", 
+        "LAT": 25.7033
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3730137655219, 
+          25.763925345139196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Sweetwater", 
+        "NAME": "City of Sweetwater", 
+        "LON": -80.37301, 
+        "ZIPCODE": 33174, 
+        "STATE": "FL", 
+        "POINT_X": 862512.865856078, 
+        "POINT_Y": 520380.053441823, 
+        "ADDRESS": "500 SW 109TH AVE", 
+        "LAT": 25.76393
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48902432190725, 
+          25.448157327971032
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "NAME": "Coalition of Florida Farmworker Organizations, Inc.", 
+        "LON": -80.48902, 
+        "ZIPCODE": 33034, 
+        "STATE": "FL", 
+        "POINT_X": 824774.500059996, 
+        "POINT_Y": 405450.93815615796, 
+        "ADDRESS": "778 W PALM DR", 
+        "LAT": 25.44816
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36827505861577, 
+          25.795143323835777
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Colombian American Chamber of Commerce of Greater Miami, Inc.", 
+        "LON": -80.36828, 
+        "ZIPCODE": 33172, 
+        "STATE": "FL", 
+        "POINT_X": 864018.041651495, 
+        "POINT_Y": 531733.9346054051, 
+        "ADDRESS": "2305 NW 107TH AVE", 
+        "LAT": 25.79514
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36089532339676, 
+          25.700437862008215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Colombian American Service Association, Inc.", 
+        "LON": -80.3609, 
+        "ZIPCODE": 33173, 
+        "STATE": "FL", 
+        "POINT_X": 866612.999059994, 
+        "POINT_Y": 497324.28032773704, 
+        "ADDRESS": "10300 SUNSET DR", 
+        "LAT": 25.70044
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38826613431326, 
+          25.635621088520708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Communities In Schools of Miami, Inc.", 
+        "LON": -80.38827, 
+        "ZIPCODE": 33186, 
+        "STATE": "FL", 
+        "POINT_X": 857708.987340495, 
+        "POINT_Y": 473723.828841075, 
+        "ADDRESS": "11965 SW 142ND TER", 
+        "LAT": 25.63562
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21100053711332, 
+          25.831775828280975
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Communities United, Inc.", 
+        "LON": -80.211, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 915686.8100329121, 
+        "POINT_Y": 545327.873296738, 
+        "ADDRESS": "6161 NW 9TH AVE", 
+        "LAT": 25.83178
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22865647628112, 
+          25.750382035698422
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Community Coalition, Inc.", 
+        "LON": -80.22866, 
+        "ZIPCODE": 33145, 
+        "STATE": "FL", 
+        "POINT_X": 910052.4374434131, 
+        "POINT_Y": 515709.561798573, 
+        "ADDRESS": "2100 CORAL WAY", 
+        "LAT": 25.75038
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38302768048125, 
+          25.69289794586155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Community Committee for Developmental Handicaps, Inc.", 
+        "LON": -80.38303, 
+        "ZIPCODE": 33183, 
+        "STATE": "FL", 
+        "POINT_X": 859337.8049489971, 
+        "POINT_Y": 494549.22518232506, 
+        "ADDRESS": "7990 SW 117TH AVE", 
+        "LAT": 25.6929
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22552686118772, 
+          25.928073867827692
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Concerned African Women, Inc.", 
+        "LON": -80.22553, 
+        "ZIPCODE": 33169, 
+        "STATE": "FL", 
+        "POINT_X": 910702.060487997, 
+        "POINT_Y": 580300.9355683251, 
+        "ADDRESS": "1505 NW 167TH ST", 
+        "LAT": 25.92807
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36640417182052, 
+          25.678726167446303
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Coral Estates Soccer Club, Inc.", 
+        "LON": -80.3664, 
+        "ZIPCODE": 33176, 
+        "STATE": "FL", 
+        "POINT_X": 864836.8119955771, 
+        "POINT_Y": 489424.340747073, 
+        "ADDRESS": "9675 SW 106TH AVE", 
+        "LAT": 25.67873
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19496657957461, 
+          25.77550516415056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Dade County Bar Association Legal Aid Society", 
+        "LON": -80.19497, 
+        "ZIPCODE": 33128, 
+        "STATE": "FL", 
+        "POINT_X": 921086.060389247, 
+        "POINT_Y": 524907.249111824, 
+        "ADDRESS": "123 NW 1ST AVE", 
+        "LAT": 25.77551
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19933805815153, 
+          25.80414311375753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "De Hostos Senior Center, Inc.", 
+        "LON": -80.19934, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 919584.152631912, 
+        "POINT_Y": 535307.438941322, 
+        "ADDRESS": "2902 NW 2ND AVE", 
+        "LAT": 25.80414
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30671900965022, 
+          25.615664978262732
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Palmetto Bay", 
+        "NAME": "Deering Estate Foundation, Inc.", 
+        "LON": -80.30672, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 884614.303280413, 
+        "POINT_Y": 466603.093738742, 
+        "ADDRESS": "16701 SW 72ND AVE", 
+        "LAT": 25.61566
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22453823011692, 
+          25.80927172476522
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Dominican-American National Foundation CDC, Inc.", 
+        "LON": -80.22454, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 911281.999616828, 
+        "POINT_Y": 537121.87428882, 
+        "ADDRESS": "1726 NW 36TH ST", 
+        "LAT": 25.80927
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1369077384364, 
+          25.791770698543697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Douglas Gardens Community Mental Health Center of Miami Beach, Inc.", 
+        "LON": -80.13691, 
+        "ZIPCODE": 33139, 
+        "STATE": "FL", 
+        "POINT_X": 940154.124943327, 
+        "POINT_Y": 530940.248528741, 
+        "ADDRESS": "1680 MERIDIAN AVE", 
+        "LAT": 25.79177
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21816231373845, 
+          25.788927157015884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Easter Seals South Florida, Inc.", 
+        "LON": -80.21816, 
+        "ZIPCODE": 33125, 
+        "STATE": "FL", 
+        "POINT_X": 913423.5796512441, 
+        "POINT_Y": 529739.71451249, 
+        "ADDRESS": "1475 NW 14TH AVE", 
+        "LAT": 25.78893
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19474399446754, 
+          25.77578645067332
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Eleventh Judicial Circuit of Florida Administrative Office of the CTs", 
+        "LON": -80.19474, 
+        "ZIPCODE": 33128, 
+        "STATE": "FL", 
+        "POINT_X": 921158.6865563281, 
+        "POINT_Y": 525009.934930071, 
+        "ADDRESS": "175 NW 1ST AVE", 
+        "LAT": 25.77579
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30983808574604, 
+          25.941272923529304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Lakes", 
+        "NAME": "Embrace Girls Foundation, Inc., The, d/b/a Embrace Foundation", 
+        "LON": -80.30984, 
+        "ZIPCODE": 33015, 
+        "STATE": "FL", 
+        "POINT_X": 882966.495224331, 
+        "POINT_Y": 584943.509944573, 
+        "ADDRESS": "18520 NW 67TH AVE", 
+        "LAT": 25.94127
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23334951618676, 
+          25.850316972233227
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Empower U, Inc.", 
+        "LON": -80.23335, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 908296.129932411, 
+        "POINT_Y": 552023.49573224, 
+        "ADDRESS": "8309 NW 22ND AVE", 
+        "LAT": 25.85032
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32330478114821, 
+          25.783265344775888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Epilepsy Foundation of Florida, Inc.", 
+        "LON": -80.3233, 
+        "ZIPCODE": 33126, 
+        "STATE": "FL", 
+        "POINT_X": 878836.850268412, 
+        "POINT_Y": 527490.276754156, 
+        "ADDRESS": "1200 NW 78TH AVE", 
+        "LAT": 25.78327
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27584356122979, 
+          25.676137779500397
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Fairchild Tropical Botanic Garden, Inc.", 
+        "LON": -80.27584, 
+        "ZIPCODE": 33156, 
+        "STATE": "FL", 
+        "POINT_X": 894668.374379579, 
+        "POINT_Y": 488636.71633807605, 
+        "ADDRESS": "10901 OLD CUTLER RD", 
+        "LAT": 25.67614
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31433181254621, 
+          25.702476134216557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Family Counseling Services of Greater Miami, Inc.", 
+        "LON": -80.31433, 
+        "ZIPCODE": 33143, 
+        "STATE": "FL", 
+        "POINT_X": 881942.172797911, 
+        "POINT_Y": 498141.980792075, 
+        "ADDRESS": "7412 SUNSET DR", 
+        "LAT": 25.70248
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17931020257127, 
+          25.891242101834347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Family Impressions Foundation, Inc.", 
+        "LON": -80.17931, 
+        "ZIPCODE": 33161, 
+        "STATE": "FL", 
+        "POINT_X": 925975.874428496, 
+        "POINT_Y": 567005.999231741, 
+        "ADDRESS": "946 NE 126TH ST", 
+        "LAT": 25.89124
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1933173329814, 
+          25.772755061880066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Family Resource Center of South Florida, Inc.", 
+        "LON": -80.19332, 
+        "ZIPCODE": 33130, 
+        "STATE": "FL", 
+        "POINT_X": 921634.93461958, 
+        "POINT_Y": 523910.997823492, 
+        "ADDRESS": "155 S MIAMI AVE", 
+        "LAT": 25.77276
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19367607867464, 
+          25.85036966735835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Fanm Ayisyen Nan Miyami, Inc.", 
+        "LON": -80.19368, 
+        "ZIPCODE": 33138, 
+        "STATE": "FL", 
+        "POINT_X": 921343.998193581, 
+        "POINT_Y": 552120.74849049, 
+        "ADDRESS": "181 NE 82ND ST", 
+        "LAT": 25.85037
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41866161000107, 
+          25.471834583497962
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "Farm Share, Inc.", 
+        "LON": -80.41866, 
+        "ZIPCODE": 33033, 
+        "STATE": "FL", 
+        "POINT_X": 847955.1882785781, 
+        "POINT_Y": 414151.315112323, 
+        "ADDRESS": "14125 SW 320TH ST", 
+        "LAT": 25.47183
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21045813990165, 
+          25.772286885102936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Fifty-Five Years and Up, Inc.", 
+        "LON": -80.21046, 
+        "ZIPCODE": 33130, 
+        "STATE": "FL", 
+        "POINT_X": 915994.922277577, 
+        "POINT_Y": 523706.66358649, 
+        "ADDRESS": "970 SW 1ST ST", 
+        "LAT": 25.77229
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33828667240176, 
+          25.795467563652988
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Doral", 
+        "NAME": "Florida Venture Foundation, Inc.", 
+        "LON": -80.33829, 
+        "ZIPCODE": 33172, 
+        "STATE": "FL", 
+        "POINT_X": 873884.5550549111, 
+        "POINT_Y": 531900.249889575, 
+        "ADDRESS": "2418 NW 87th PL", 
+        "LAT": 25.79547
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1887409014403, 
+          25.81767356278441
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Foster Care Review, Inc.", 
+        "LON": -80.18874, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 923040.437385995, 
+        "POINT_Y": 540246.686280653, 
+        "ADDRESS": "4500 BISCAYNE BLVD", 
+        "LAT": 25.81767
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2090366661572, 
+          25.810333503639377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Foundation of Community Assistance and Leadership, Inc. (FOCAL)", 
+        "LON": -80.20904, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 916379.663305994, 
+        "POINT_Y": 537538.15068724, 
+        "ADDRESS": "765 NW 36TH ST", 
+        "LAT": 25.81033
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19188631789372, 
+          25.77926267490396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Friends of the Drug CT, Inc.", 
+        "LON": -80.19189, 
+        "ZIPCODE": 33132, 
+        "STATE": "FL", 
+        "POINT_X": 922091.37366733, 
+        "POINT_Y": 526279.186000489, 
+        "ADDRESS": "501 NE 1ST AVE", 
+        "LAT": 25.77926
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23386561010844, 
+          25.847092602798792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Glory Temple Ministries, Inc.", 
+        "LON": -80.23387, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 908133.228027247, 
+        "POINT_Y": 550850.549915403, 
+        "ADDRESS": "7950 NW 22ND AVE", 
+        "LAT": 25.84709
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42731618522494, 
+          25.56135609245211
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Good Hope Equestrian Training Center, Inc.", 
+        "LON": -80.42732, 
+        "ZIPCODE": 33170, 
+        "STATE": "FL", 
+        "POINT_X": 844959.815332327, 
+        "POINT_Y": 446674.907217242, 
+        "ADDRESS": "22155 SW 147TH AVE", 
+        "LAT": 25.56136
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3316175789203, 
+          25.82073530956827
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Guardianship Program of Dade County, Inc.", 
+        "LON": -80.33162, 
+        "ZIPCODE": 33166, 
+        "STATE": "FL", 
+        "POINT_X": 876032.2479379959, 
+        "POINT_Y": 541095.184583656, 
+        "ADDRESS": "8300 NW 53RD ST", 
+        "LAT": 25.82074
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19260442804533, 
+          25.85183099041171
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Haitian American Alliance Youth Foundation, Inc.", 
+        "LON": -80.1926, 
+        "ZIPCODE": 33138, 
+        "STATE": "FL", 
+        "POINT_X": 921693.184831161, 
+        "POINT_Y": 552654.06074407, 
+        "ADDRESS": "8325 NE 2ND AVE", 
+        "LAT": 25.85183
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16915560757197, 
+          25.924511920053117
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "NAME": "Haitian American Chamber of Commerce of Florida, Inc.", 
+        "LON": -80.16916, 
+        "ZIPCODE": 33162, 
+        "STATE": "FL", 
+        "POINT_X": 929237.8114741631, 
+        "POINT_Y": 579119.749610491, 
+        "ADDRESS": "1510 NE 162ND ST", 
+        "LAT": 25.92451
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19671031317053, 
+          25.83698733657785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Haitian American Citizenship and Voter Education Center, Inc.", 
+        "LON": -80.19671, 
+        "ZIPCODE": 33150, 
+        "STATE": "FL", 
+        "POINT_X": 920375.811809745, 
+        "POINT_Y": 547250.5600681531, 
+        "ADDRESS": "6744 N MIAMI AVE", 
+        "LAT": 25.83699
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18793428745408, 
+          25.8210648000716
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Haitian Neighborhood Center Sant La", 
+        "LON": -80.18793, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 923298.1849019941, 
+        "POINT_Y": 541480.9341402431, 
+        "ADDRESS": "5000 BISCAYNE BLVD", 
+        "LAT": 25.82106
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23901458674392, 
+          25.940863879134184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Harvest Fire International Outreach Ministries, Inc.", 
+        "LON": -80.23901, 
+        "ZIPCODE": 33056, 
+        "STATE": "FL", 
+        "POINT_X": 906242.0674394971, 
+        "POINT_Y": 584923.77573207, 
+        "ADDRESS": "18291 NW 23RD AVE", 
+        "LAT": 25.94086
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34667471818379, 
+          25.70271441891282
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Hearing and Speech Center of Florida, Inc.", 
+        "LON": -80.34667, 
+        "ZIPCODE": 33173, 
+        "STATE": "FL", 
+        "POINT_X": 871291.637340497, 
+        "POINT_Y": 498174.61228849, 
+        "ADDRESS": "9425 SW 72ND ST", 
+        "LAT": 25.70271
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22126704463551, 
+          25.83357437340936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Helping Hands Youth Center, Inc.", 
+        "LON": -80.22127, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 912305.9162041621, 
+        "POINT_Y": 545961.454706743, 
+        "ADDRESS": "6304 NW 14TH AVE", 
+        "LAT": 25.83357
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24488382293526, 
+          25.912635250699765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa Locka", 
+        "NAME": "Here's Help, Inc.", 
+        "LON": -80.24488, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 904372.372359995, 
+        "POINT_Y": 574652.309398405, 
+        "ADDRESS": "15100 NW 27TH AVE", 
+        "LAT": 25.91264
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23855987224297, 
+          25.904906929869746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa Locka", 
+        "NAME": "Holy Temple Human Services Corporation, Inc.", 
+        "LON": -80.23856, 
+        "ZIPCODE": 33054, 
+        "STATE": "FL", 
+        "POINT_X": 906467.4350989951, 
+        "POINT_Y": 571855.3123677371, 
+        "ADDRESS": "2341 NW 143RD ST", 
+        "LAT": 25.90491
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23235179769591, 
+          25.826560642006683
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Hosanna Community Foundation, Inc.", 
+        "LON": -80.23235, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 908674.68691808, 
+        "POINT_Y": 543390.749874406, 
+        "ADDRESS": "2171 NW 56TH ST", 
+        "LAT": 25.82656
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18925834881243, 
+          25.795102286175332
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Human Services Coalition of Dade County, Inc.", 
+        "LON": -80.18926, 
+        "ZIPCODE": 33132, 
+        "STATE": "FL", 
+        "POINT_X": 922920.749305163, 
+        "POINT_Y": 532041.686286487, 
+        "ADDRESS": "1900 BISCAYNE BLVD", 
+        "LAT": 25.7951
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21238838823137, 
+          25.916351400640085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Institute for Child and Family Health, Inc.", 
+        "LON": -80.21239, 
+        "ZIPCODE": 33169, 
+        "STATE": "FL", 
+        "POINT_X": 915045.8746349959, 
+        "POINT_Y": 576065.874812737, 
+        "ADDRESS": "15490 NW 7TH AVE", 
+        "LAT": 25.91635
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21144301480201, 
+          25.788194908449277
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "University of Miami - Multidimensional Family Therapy for Juvenile Offenders", 
+        "LON": -80.21144, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 915636.1874307471, 
+        "POINT_Y": 529486.749795325, 
+        "ADDRESS": "1400 NW 10TH AVE", 
+        "LAT": 25.78819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20085994714837, 
+          25.79071389153926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Urgent, Inc.", 
+        "LON": -80.20086, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 919113.06072633, 
+        "POINT_Y": 530423.309601992, 
+        "ADDRESS": "1600 NW 3RD AVE", 
+        "LAT": 25.79071
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24150254312403, 
+          25.8526634717131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Victim Response Inc.", 
+        "LON": -80.2415, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 905609.8105019111, 
+        "POINT_Y": 552860.811642908, 
+        "ADDRESS": "8401 NW 27TH AVE", 
+        "LAT": 25.85266
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18976054438825, 
+          25.80613415206243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Village South, Inc.", 
+        "LON": -80.18976, 
+        "ZIPCODE": 33137, 
+        "STATE": "FL", 
+        "POINT_X": 922730.826456662, 
+        "POINT_Y": 536050.40267849, 
+        "ADDRESS": "3050 BISCAYNE BLVD", 
+        "LAT": 25.80613
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21556370383833, 
+          25.78966457818872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Voices for Children Foundation, Inc.", 
+        "LON": -80.21556, 
+        "ZIPCODE": 33136, 
+        "STATE": "FL", 
+        "POINT_X": 914277.0664613281, 
+        "POINT_Y": 530012.82715524, 
+        "ADDRESS": "1500 NW 12TH AVE", 
+        "LAT": 25.78966
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49266596102903, 
+          25.461775889478293
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "NAME": "WeCare of South Dade, Inc.", 
+        "LON": -80.49267, 
+        "ZIPCODE": 33034, 
+        "STATE": "FL", 
+        "POINT_X": 823554.002829079, 
+        "POINT_Y": 410395.84427682305, 
+        "ADDRESS": "1515 REDLAND RD", 
+        "LAT": 25.46178
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3763094477916, 
+          25.767998149490456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "West Dade Community Services, Inc.", 
+        "LON": -80.37631, 
+        "ZIPCODE": 33174, 
+        "STATE": "FL", 
+        "POINT_X": 861421.1987480781, 
+        "POINT_Y": 521855.198129326, 
+        "ADDRESS": "11160 W FLAGLER ST", 
+        "LAT": 25.768
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20772182528329, 
+          25.83077096536315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "World Literacy Crusade of Florida, Inc.", 
+        "LON": -80.20772, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 916767.497832161, 
+        "POINT_Y": 544969.122045741, 
+        "ADDRESS": "6015 NW 7TH AVE", 
+        "LAT": 25.83077
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2534523104783, 
+          25.77936065518197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Youth Co-Op, Inc.", 
+        "LON": -80.25345, 
+        "ZIPCODE": 33125, 
+        "STATE": "FL", 
+        "POINT_X": 901830.999161914, 
+        "POINT_Y": 526195.248832405, 
+        "ADDRESS": "3525 NW 7TH ST", 
+        "LAT": 25.77936
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2005212251615, 
+          25.779060628376286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "YWCA of Greater Miami-Dade, Inc.", 
+        "LON": -80.20052, 
+        "ZIPCODE": 33128, 
+        "STATE": "FL", 
+        "POINT_X": 919250.227774829, 
+        "POINT_Y": 526188.410591491, 
+        "ADDRESS": "351 NW 5TH ST", 
+        "LAT": 25.77906
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21423946389235, 
+          25.75148281643752
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Liga Contra el Cancer, Inc. (League Against Cancer)", 
+        "LON": -80.21424, 
+        "ZIPCODE": 33129, 
+        "STATE": "FL", 
+        "POINT_X": 914795.561487328, 
+        "POINT_Y": 516137.673147075, 
+        "ADDRESS": "2180 SW 12TH AVE", 
+        "LAT": 25.75148
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17016633701355, 
+          25.96738604080466
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Optimist Club of Ives Estates, North Miami Beach, Inc.", 
+        "LON": -80.17017, 
+        "ZIPCODE": 33160, 
+        "STATE": "FL", 
+        "POINT_X": 928806.845800661, 
+        "POINT_Y": 594701.381504908, 
+        "ADDRESS": "20901 NE 16TH AVE", 
+        "LAT": 25.96739
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45188796623079, 
+          25.493881517945894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "Sembrando Flores, Inc.", 
+        "LON": -80.45189, 
+        "ZIPCODE": 33030, 
+        "STATE": "FL", 
+        "POINT_X": 836960.3296909111, 
+        "POINT_Y": 422117.592158742, 
+        "ADDRESS": "29355 S FEDERAL HWY", 
+        "LAT": 25.49388
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23258181759597, 
+          25.79025206769526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Allapattah Community Action, Inc.", 
+        "LON": -80.23258, 
+        "ZIPCODE": 33125, 
+        "STATE": "FL", 
+        "POINT_X": 908675.9812068309, 
+        "POINT_Y": 530193.363539577, 
+        "ADDRESS": "2257 NW NORTH RIVER DR", 
+        "LAT": 25.79025
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25573386671998, 
+          25.727061087243833
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Coconut Grove Cares, Inc.", 
+        "LON": -80.25573, 
+        "ZIPCODE": 33133, 
+        "STATE": "FL", 
+        "POINT_X": 901187.481091995, 
+        "POINT_Y": 507182.072948076, 
+        "ADDRESS": "3870 WASHINGTON AVE", 
+        "LAT": 25.72706
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20734015865888, 
+          25.830743315957907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Curley's House of Style Inc.", 
+        "LON": -80.20734, 
+        "ZIPCODE": 33127, 
+        "STATE": "FL", 
+        "POINT_X": 916893.103223994, 
+        "POINT_Y": 544959.82908532, 
+        "ADDRESS": "6025 NW 6TH CT", 
+        "LAT": 25.83074
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31386314046772, 
+          25.603114584888402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Palmetto Bay", 
+        "NAME": "Economic Development of South Miami Dade, Inc.", 
+        "LON": -80.31386, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 882283.733794578, 
+        "POINT_Y": 462029.369946577, 
+        "ADDRESS": "18001 OLD CUTLER RD", 
+        "LAT": 25.60311
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37610699858105, 
+          25.62020350739596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Girl Scout Council of Tropical Florida, Inc.", 
+        "LON": -80.37611, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 861741.436952744, 
+        "POINT_Y": 468138.990273237, 
+        "ADDRESS": "11347 SW 160TH ST", 
+        "LAT": 25.6202
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28716339730843, 
+          25.7708878664759
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Hispanic Coalition, Corp.", 
+        "LON": -80.28716, 
+        "ZIPCODE": 33134, 
+        "STATE": "FL", 
+        "POINT_X": 890754.081683245, 
+        "POINT_Y": 523054.26462882, 
+        "ADDRESS": "5659 W FLAGLER ST", 
+        "LAT": 25.77089
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2327301510829, 
+          25.824229942105116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Historic Hampton House Community Trust, Inc.", 
+        "LON": -80.23273, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 908555.1700967441, 
+        "POINT_Y": 542542.890677743, 
+        "ADDRESS": "5400 NW 22ND AVE", 
+        "LAT": 25.82423
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30091323756015, 
+          25.748128230334153
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Llirrafo, Inc. d/b/a O'Farrill Learning Center", 
+        "LON": -80.30091, 
+        "ZIPCODE": 33155, 
+        "STATE": "FL", 
+        "POINT_X": 886272.87148558, 
+        "POINT_Y": 514757.794673242, 
+        "ADDRESS": "6471 SW 24TH ST", 
+        "LAT": 25.74813
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13326359134813, 
+          25.79057024938718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Miami Beach Latin Chamber of Commerce, Inc.", 
+        "LON": -80.13326, 
+        "ZIPCODE": 33139, 
+        "STATE": "FL", 
+        "POINT_X": 941356.105807077, 
+        "POINT_Y": 530511.796301655, 
+        "ADDRESS": "510 LINCOLN RD", 
+        "LAT": 25.79057
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2327301510829, 
+          25.824229942105116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Children's Initiative, Inc.", 
+        "LON": -80.23273, 
+        "ZIPCODE": 33142, 
+        "STATE": "FL", 
+        "POINT_X": 908555.1700967441, 
+        "POINT_Y": 542542.890677743, 
+        "ADDRESS": "5400 NW 22ND AVE", 
+        "LAT": 25.82423
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24267504462134, 
+          25.850610886915916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Northside Optimist Club, Inc.", 
+        "LON": -80.24268, 
+        "ZIPCODE": 33147, 
+        "STATE": "FL", 
+        "POINT_X": 905228.501881328, 
+        "POINT_Y": 552112.5385331591, 
+        "ADDRESS": "2810 NW 84TH ST", 
+        "LAT": 25.85061
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37506719145931, 
+          25.627734176834934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Richmond Heights Homeowners Association, Inc.", 
+        "LON": -80.37507, 
+        "ZIPCODE": 33157, 
+        "STATE": "FL", 
+        "POINT_X": 862071.154469162, 
+        "POINT_Y": 470877.629809074, 
+        "ADDRESS": "11225 SW 152ND ST", 
+        "LAT": 25.62773
+      }
+    }
+  ]
+}

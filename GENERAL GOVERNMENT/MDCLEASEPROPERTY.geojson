@@ -1,0 +1,3485 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36124323865025, 
+          25.700627278613364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040320010050", 
+        "LESSOR": "Sunset Center Corporation d/b/a Sunset Center Office Park", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36124, 
+        "ZIPCODE": 33173, 
+        "DEPT": "ETSD", 
+        "POINT_X": 866498.100675631, 
+        "POINT_Y": 497392.57070484, 
+        "ADDRESS": "10300 SW 72ND ST", 
+        "LAT": 25.70063, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38593456947629, 
+          25.7470249739053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3049120680010", 
+        "LESSOR": null, 
+        "NUMOFEMP": 0, 
+        "LON": -80.38593, 
+        "ZIPCODE": 33175, 
+        "DEPT": "SF", 
+        "POINT_X": 858289.030075986, 
+        "POINT_Y": 514217.486176513, 
+        "ADDRESS": "11865 CORAL WAY", 
+        "LAT": 25.74702, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38596343764567, 
+          25.747511608058232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3049120680020", 
+        "LESSOR": "United States Development Ltd", 
+        "NUMOFEMP": 0, 
+        "LON": -80.38596, 
+        "ZIPCODE": 33175, 
+        "DEPT": "BCCO", 
+        "POINT_X": 858278.704315979, 
+        "POINT_Y": 514394.312032677, 
+        "ADDRESS": "11865 CORAL WAY", 
+        "LAT": 25.74751, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38989992865302, 
+          25.746747453525842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3049120680020", 
+        "LESSOR": "United States Development Ltd", 
+        "NUMOFEMP": 0, 
+        "LON": -80.3899, 
+        "ZIPCODE": 33175, 
+        "DEPT": "SF", 
+        "POINT_X": 856984.250042774, 
+        "POINT_Y": 514110.562400408, 
+        "ADDRESS": "11865 SW 26TH ST", 
+        "LAT": 25.74675, 
+        "UNIT": "Suite J-2"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31434109646065, 
+          25.68495226946638
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3050020570011", 
+        "LESSOR": "Datran Center I, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.31434, 
+        "ZIPCODE": 33156, 
+        "DEPT": "COC", 
+        "POINT_X": 881972.163282044, 
+        "POINT_Y": 491772.800843611, 
+        "ADDRESS": "9100 S DADELAND BLVD", 
+        "LAT": 25.68495, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44070292625149, 
+          25.673035781763588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3059040110010", 
+        "LESSOR": "Hammocks Town Center", 
+        "NUMOFEMP": 0, 
+        "LON": -80.4407, 
+        "ZIPCODE": 33196, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 840375.2877233031, 
+        "POINT_Y": 487245.78208739305, 
+        "ADDRESS": "10201 HAMMOCKS BLVD", 
+        "LAT": 25.67304, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44234498678502, 
+          25.672209642160468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3059040110010", 
+        "LESSOR": "Diam -Vastgoed d/b/a -Hammocks Town Center", 
+        "NUMOFEMP": 0, 
+        "LON": -80.44234, 
+        "ZIPCODE": 33196, 
+        "DEPT": "MDT", 
+        "POINT_X": 839835.7183148, 
+        "POINT_Y": 486943.237703107, 
+        "ADDRESS": "10201 HAMMOCKS BLVD", 
+        "LAT": 25.67221, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4130050822371, 
+          25.624158348954722
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3059260070020", 
+        "LESSOR": "Coral Reef Center, Ltd.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.41301, 
+        "ZIPCODE": 33177, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 849576.753587875, 
+        "POINT_Y": 469520.816438883, 
+        "ADDRESS": "15433 SW 137TH AVE", 
+        "LAT": 25.62416, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3890094753831, 
+          25.569364777579896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3069120020010", 
+        "LESSOR": "Dade County School Board", 
+        "NUMOFEMP": 0, 
+        "LON": -80.38901, 
+        "ZIPCODE": 33177, 
+        "DEPT": "CAA", 
+        "POINT_X": 857575.050427321, 
+        "POINT_Y": 449641.92618037, 
+        "ADDRESS": "21200 SW 122ND AVE", 
+        "LAT": 25.56936, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43726575060847, 
+          25.503502283382083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DAD", 
+        "FOLIO": "3079040000130", 
+        "LESSOR": "Dade County School Board", 
+        "NUMOFEMP": 0, 
+        "LON": -80.43727, 
+        "ZIPCODE": 33033, 
+        "DEPT": "DHS", 
+        "POINT_X": 841768.751020603, 
+        "POINT_Y": 425634.304014012, 
+        "ADDRESS": "28300 SW 152ND AVE", 
+        "LAT": 25.5035, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12175911430826, 
+          25.955022271449693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "FOLIO": "3122020110020", 
+        "LESSOR": "Intercostal Towers", 
+        "NUMOFEMP": 0, 
+        "LON": -80.12176, 
+        "ZIPCODE": 33160, 
+        "DEPT": "ETSD", 
+        "POINT_X": 944741.8508925029, 
+        "POINT_Y": 590311.20989538, 
+        "ADDRESS": "19370 COLLINS AVE", 
+        "LAT": 25.95502, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12318286431562, 
+          25.935587808525028
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "FOLIO": "3122110010290", 
+        "LESSOR": "City of Sunny Isles Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.12318, 
+        "ZIPCODE": 33160, 
+        "DEPT": "MDFR", 
+        "POINT_X": 944321.30817211, 
+        "POINT_Y": 583244.0493128, 
+        "ADDRESS": "175 172ND ST", 
+        "LAT": 25.93559, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33841552206222, 
+          25.63338512666247
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PALMETTO BAY", 
+        "FOLIO": "3350210000351", 
+        "LESSOR": "Justo A. Atrio and Martha Atrio", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33842, 
+        "ZIPCODE": 33176, 
+        "DEPT": "BCC", 
+        "POINT_X": 874137.3116907481, 
+        "POINT_Y": 472990.125370115, 
+        "ADDRESS": "14707 S DIXIE HWY", 
+        "LAT": 25.63339, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23623942681829, 
+          25.92819663126025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3421100015020", 
+        "LESSOR": "King & Associates of Miami, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.23624, 
+        "ZIPCODE": 33056, 
+        "DEPT": "CAA", 
+        "POINT_X": 907180.918761521, 
+        "POINT_Y": 580324.890014082, 
+        "ADDRESS": "16825 NW 22ND AVE", 
+        "LAT": 25.9282, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24522059442363, 
+          25.925567512850275
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3421160040010", 
+        "LESSOR": "DADE CORNERS PLAZA, INC.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24522, 
+        "ZIPCODE": 33054, 
+        "DEPT": "BCC", 
+        "POINT_X": 904234.6045187779, 
+        "POINT_Y": 579352.175773173, 
+        "ADDRESS": "2780 NW 167TH ST", 
+        "LAT": 25.92557, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37207736964028, 
+          25.827381703296577
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530180150010", 
+        "LESSOR": "U.S. Retail Income Fund VI, LP", 
+        "NUMOFEMP": 0, 
+        "LON": -80.37208, 
+        "ZIPCODE": 33178, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 862711.0514561051, 
+        "POINT_Y": 543445.30316373, 
+        "ADDRESS": "10785 NW 58TH ST", 
+        "LAT": 25.82738, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33556833917069, 
+          25.82187108748895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530220070190", 
+        "LESSOR": "Koala Miami Realty Holding Co.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33557, 
+        "ZIPCODE": 33166, 
+        "DEPT": "MDPD", 
+        "POINT_X": 874730.516683299, 
+        "POINT_Y": 541501.412217922, 
+        "ADDRESS": "8525 NW 53RD TER", 
+        "LAT": 25.82187, 
+        "UNIT": "Suite 215 & 219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32800852319302, 
+          25.80036157363669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530270420280", 
+        "LESSOR": "Flightway Business Park Cond (Omegahouses, LTD)", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32801, 
+        "ZIPCODE": 33122, 
+        "DEPT": "MDPD", 
+        "POINT_X": 877257.303245652, 
+        "POINT_Y": 533696.160882652, 
+        "ADDRESS": "8074 NW 29TH ST", 
+        "LAT": 25.80036, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32777943521808, 
+          25.783872325844996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340040040", 
+        "LESSOR": "Adler Office Assoc", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32778, 
+        "ZIPCODE": 33126, 
+        "DEPT": "SF", 
+        "POINT_X": 877363.273165751, 
+        "POINT_Y": 527703.350637071, 
+        "ADDRESS": "8175 NW 12TH ST", 
+        "LAT": 25.78387, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33598832731619, 
+          25.790387491790135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340320010", 
+        "LESSOR": "AMB-Property, LP", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33599, 
+        "ZIPCODE": 33126, 
+        "DEPT": "MDPD", 
+        "POINT_X": 874650.092235226, 
+        "POINT_Y": 530057.6520792621, 
+        "ADDRESS": "1701 NW 87TH AVE", 
+        "LAT": 25.79039, 
+        "UNIT": "Suite 120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33581094795116, 
+          25.790386681946845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340320010", 
+        "LESSOR": "AMB-Property, LP", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33581, 
+        "ZIPCODE": 33126, 
+        "DEPT": "MDPD", 
+        "POINT_X": 874708.45946728, 
+        "POINT_Y": 530057.6520792621, 
+        "ADDRESS": "1701 NW 87TH AVE", 
+        "LAT": 25.79039, 
+        "UNIT": "Suite 100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33560478800335, 
+          25.788832284637504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340330017", 
+        "LESSOR": "Headlands Realty Corporation", 
+        "NUMOFEMP": 0, 
+        "LON": -80.3356, 
+        "ZIPCODE": 33126, 
+        "DEPT": "SF", 
+        "POINT_X": 874779.145675346, 
+        "POINT_Y": 529493.0325587391, 
+        "ADDRESS": "8600 NW 17TH ST", 
+        "LAT": 25.78883, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33508007737113, 
+          25.591318873973886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "FOLIO": "3660040010042", 
+        "LESSOR": "Dade County School Board", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33508, 
+        "ZIPCODE": 33157, 
+        "DEPT": "DERM", 
+        "POINT_X": 875312.9666038409, 
+        "POINT_Y": 457706.58154787903, 
+        "ADDRESS": "18929 SW 89TH RD", 
+        "LAT": 25.59132, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36624823838294, 
+          25.57728222856014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CUTLER BAY", 
+        "FOLIO": "3660070240020", 
+        "LESSOR": "Pinnacle Investment Properties", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36625, 
+        "ZIPCODE": 33189, 
+        "DEPT": "MDFR", 
+        "POINT_X": 865064.569026299, 
+        "POINT_Y": 452554.688807085, 
+        "ADDRESS": "10700 CARIBBEAN BLVD", 
+        "LAT": 25.57728, 
+        "UNIT": "Suite 306"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1483178410411, 
+          25.939974337114773
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": "2822100000091", 
+        "LESSOR": "Point East Condo", 
+        "NUMOFEMP": 0, 
+        "LON": -80.14832, 
+        "ZIPCODE": 33160, 
+        "DEPT": "MDFR", 
+        "POINT_X": 936050.271236408, 
+        "POINT_Y": 584783.952290229, 
+        "ADDRESS": "2601  POINT EAST DR", 
+        "LAT": 25.93997, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2938252485868, 
+          25.869219620923197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430010130570", 
+        "LESSOR": "Citrus Health Network, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.29383, 
+        "ZIPCODE": 33012, 
+        "DEPT": "SF", 
+        "POINT_X": 888369.795800004, 
+        "POINT_Y": 558782.492554016, 
+        "ADDRESS": "551 W 51ST PL", 
+        "LAT": 25.86922, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24039516242696, 
+          25.82707236915359
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131240430020", 
+        "LESSOR": "Miami Jewish Home and Hospital for the Aged", 
+        "NUMOFEMP": 0, 
+        "LON": -80.2404, 
+        "ZIPCODE": 33142, 
+        "DEPT": "MDPD", 
+        "POINT_X": 906027.753704447, 
+        "POINT_Y": 543561.38226784, 
+        "ADDRESS": "5757 NW 27TH AVE", 
+        "LAT": 25.82707, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21462079008374, 
+          25.786470602211576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350750010", 
+        "LESSOR": "Kristi House Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21462, 
+        "ZIPCODE": 33136, 
+        "DEPT": "SAO", 
+        "POINT_X": 914594.257648427, 
+        "POINT_Y": 528853.773934141, 
+        "ADDRESS": "1265 NW 12TH AVE", 
+        "LAT": 25.78647, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12071097482848, 
+          25.860875716213435
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232020040390", 
+        "LESSOR": "City of Miami Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.12071, 
+        "ZIPCODE": 33141, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 945315.742989037, 
+        "POINT_Y": 556093.359495513, 
+        "ADDRESS": "7501 COLLINS AVE", 
+        "LAT": 25.86088, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2663003707435, 
+          25.87300310355333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0421320010011", 
+        "LESSOR": "City of Hialeah", 
+        "NUMOFEMP": 0, 
+        "LON": -80.2663, 
+        "ZIPCODE": 33013, 
+        "DEPT": "ETSD", 
+        "POINT_X": 897413.095648426, 
+        "POINT_Y": 560207.290507346, 
+        "ADDRESS": "808 E 56TH ST", 
+        "LAT": 25.873, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1800900134967, 
+          25.890314453997522
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622300410010", 
+        "LESSOR": "NM Auction General Partnership", 
+        "NUMOFEMP": 0, 
+        "LON": -80.18009, 
+        "ZIPCODE": 33161, 
+        "DEPT": "BCC", 
+        "POINT_X": 925721.600762788, 
+        "POINT_Y": 566667.22113736, 
+        "ADDRESS": "900 NE 12TH ST", 
+        "LAT": 25.89031, 
+        "UNIT": "Suite 200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24829012510767, 
+          25.901795784202736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "OPA LOCKA", 
+        "FOLIO": "0821210072710", 
+        "LESSOR": "City of Opa-Locka", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24829, 
+        "ZIPCODE": 33054, 
+        "DEPT": "ETSD", 
+        "POINT_X": 903275.270629883, 
+        "POINT_Y": 570706.0499411221, 
+        "ADDRESS": "1021  BURLINGTON ST", 
+        "LAT": 25.9018, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48298638091828, 
+          25.471906085847955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1078130090220", 
+        "LESSOR": "City of Homestead", 
+        "NUMOFEMP": 0, 
+        "LON": -80.48299, 
+        "ZIPCODE": 33030, 
+        "DEPT": "MDFR", 
+        "POINT_X": 826733.405598599, 
+        "POINT_Y": 414089.819907263, 
+        "ADDRESS": "325 NW 2ND ST", 
+        "LAT": 25.47191, 
+        "UNIT": "Station 16"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13247960913357, 
+          25.885858728258416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "BAY HARBOR ISLANDS", 
+        "FOLIO": "1322270013560", 
+        "LESSOR": "Town of Bay Harbor Islands", 
+        "NUMOFEMP": 0, 
+        "LON": -80.13248, 
+        "ZIPCODE": 33154, 
+        "DEPT": "MDFR", 
+        "POINT_X": 941385.506569378, 
+        "POINT_Y": 565148.328591943, 
+        "ADDRESS": "1165 95TH ST", 
+        "LAT": 25.88586, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48825611498323, 
+          25.447334070431666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "FOLIO": "1678250000365", 
+        "LESSOR": "Human Services of Florida City Incorporated", 
+        "NUMOFEMP": 0, 
+        "LON": -80.48826, 
+        "ZIPCODE": 33034, 
+        "DEPT": "SF", 
+        "POINT_X": 825029.139613013, 
+        "POINT_Y": 405152.707834937, 
+        "ADDRESS": "753  WEST PALM DR", 
+        "LAT": 25.44733, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3076930389248, 
+          25.943598346669067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DAD", 
+        "FOLIO": "3020010040010", 
+        "LESSOR": "Club M & G", 
+        "NUMOFEMP": 0, 
+        "LON": -80.30769, 
+        "ZIPCODE": 33015, 
+        "DEPT": "SF", 
+        "POINT_X": 883666.9500996211, 
+        "POINT_Y": 585792.4499551731, 
+        "ADDRESS": "18680 NW 67TH AVE", 
+        "LAT": 25.9436, 
+        "UNIT": "Unit 41"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27971617901021, 
+          25.940698044947116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3021060180040", 
+        "LESSOR": "Market Square Properties", 
+        "NUMOFEMP": 0, 
+        "LON": -80.27972, 
+        "ZIPCODE": 33055, 
+        "DEPT": "SF", 
+        "POINT_X": 892866.571228191, 
+        "POINT_Y": 584787.860386237, 
+        "ADDRESS": "4737 NW 183RD ST", 
+        "LAT": 25.9407, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24565765062584, 
+          25.8777217774762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3021330010020", 
+        "LESSOR": "Miami Dade College", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24566, 
+        "ZIPCODE": 33167, 
+        "DEPT": "DHS", 
+        "POINT_X": 904190.976742737, 
+        "POINT_Y": 561960.8477569739, 
+        "ADDRESS": "11300 NW 27TH AVE", 
+        "LAT": 25.87772, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31441412275801, 
+          25.831352253444873
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3030140100360", 
+        "LESSOR": "6300 N.W. 72 Ave, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.31441, 
+        "ZIPCODE": 33166, 
+        "DEPT": "PW", 
+        "POINT_X": 881671.405777763, 
+        "POINT_Y": 544983.177853167, 
+        "ADDRESS": "6326 NW 72ND AVE", 
+        "LAT": 25.83135, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31466049655116, 
+          25.839571108868327
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3030140100491", 
+        "LESSOR": "MDR Warehouses, Ltd.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.31466, 
+        "ZIPCODE": 33166, 
+        "DEPT": "MDT", 
+        "POINT_X": 881574.7931696731, 
+        "POINT_Y": 547970.009727947, 
+        "ADDRESS": "7232 NW 72ND AVE", 
+        "LAT": 25.83957, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31929856591607, 
+          25.80206205022655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DAD", 
+        "FOLIO": "3030260010013", 
+        "LESSOR": "AJA Properties No. 6, Ltd", 
+        "NUMOFEMP": 0, 
+        "LON": -80.3193, 
+        "ZIPCODE": 33122, 
+        "DEPT": "MDPD", 
+        "POINT_X": 880119.8373923191, 
+        "POINT_Y": 534328.9429632421, 
+        "ADDRESS": "2990 NW 75TH AVE", 
+        "LAT": 25.80206, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36653927160383, 
+          25.756240055497177
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040080430010", 
+        "LESSOR": "University Center North LTD.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36654, 
+        "ZIPCODE": 33165, 
+        "DEPT": "BCC", 
+        "POINT_X": 864657.150145918, 
+        "POINT_Y": 517596.96573165804, 
+        "ADDRESS": "1405 SW 107TH AVE", 
+        "LAT": 25.75624, 
+        "UNIT": "Suite 301M"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37610866487165, 
+          25.733414673227728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040180940010", 
+        "LESSOR": "GRI-EQY (CONCORD) LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.37611, 
+        "ZIPCODE": 33165, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 861546.743743021, 
+        "POINT_Y": 509285.918811917, 
+        "ADDRESS": "3882 SW 112TH AVE", 
+        "LAT": 25.73341, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44032277253773, 
+          25.726558501892786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3049210010210", 
+        "LESSOR": "The Meadows Shopping Center LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.44032, 
+        "ZIPCODE": 33185, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 840418.0906673439, 
+        "POINT_Y": 506699.220825508, 
+        "ADDRESS": "4284 SW 152ND AVE", 
+        "LAT": 25.72656, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38903233530127, 
+          25.568746090444275
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3069120020010", 
+        "LESSOR": "Dade County School Board", 
+        "NUMOFEMP": 0, 
+        "LON": -80.38903, 
+        "ZIPCODE": 33177, 
+        "DEPT": "CAA", 
+        "POINT_X": 857568.549563318, 
+        "POINT_Y": 449417.031460158, 
+        "ADDRESS": "21300 SW 122ND AVE", 
+        "LAT": 25.56875, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1257677433384, 
+          25.939211476190376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SUNNY ISLES BEACH", 
+        "FOLIO": "3122110040370", 
+        "LESSOR": "Archdiocese of Miami, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.12577, 
+        "ZIPCODE": 33160, 
+        "DEPT": "MDFR", 
+        "POINT_X": 943462.989067312, 
+        "POINT_Y": 584555.497378021, 
+        "ADDRESS": "17775 N BAY RD", 
+        "LAT": 25.93921, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32775702163096, 
+          25.908573407201235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI LAKES", 
+        "FOLIO": "3220220380010", 
+        "LESSOR": "Graham Companies", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32776, 
+        "ZIPCODE": 33016, 
+        "DEPT": "MDCR", 
+        "POINT_X": 877138.803149544, 
+        "POINT_Y": 573027.6752872841, 
+        "ADDRESS": "7845 NW 148TH ST", 
+        "LAT": 25.90857, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3312186264653, 
+          25.78369984253428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340090010", 
+        "LESSOR": "AMB-Property, LP", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33122, 
+        "ZIPCODE": 33126, 
+        "DEPT": "BCC", 
+        "POINT_X": 876231.880908698, 
+        "POINT_Y": 527634.8987970051, 
+        "ADDRESS": "8343 NW 12TH ST", 
+        "LAT": 25.7837, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33056912822668, 
+          25.783471814163985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340090010", 
+        "LESSOR": "AMB HTD Beacon CTR, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33057, 
+        "ZIPCODE": 33126, 
+        "DEPT": "SF", 
+        "POINT_X": 876446.0282368991, 
+        "POINT_Y": 527553.105260931, 
+        "ADDRESS": "8323 NW 12TH ST", 
+        "LAT": 25.78347, 
+        "UNIT": "Suite 212-216"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32939862255186, 
+          25.795094920826138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340110010", 
+        "LESSOR": "Adler Office Assoc", 
+        "NUMOFEMP": 0, 
+        "LON": -80.3294, 
+        "ZIPCODE": 33122, 
+        "DEPT": "SF", 
+        "POINT_X": 876809.686989236, 
+        "POINT_Y": 531779.605616867, 
+        "ADDRESS": "2246 NW 82ND AVE", 
+        "LAT": 25.79509, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33000850176747, 
+          25.79383709959919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340110010", 
+        "LESSOR": "Adler Realty Services, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33001, 
+        "ZIPCODE": 33122, 
+        "DEPT": "SF", 
+        "POINT_X": 876611.34356505, 
+        "POINT_Y": 531321.4152804391, 
+        "ADDRESS": "2188 NW 82ND AVE", 
+        "LAT": 25.79384, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32945184209005, 
+          25.79426539384738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340110010", 
+        "LESSOR": "AOA Flexx, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32945, 
+        "ZIPCODE": 33122, 
+        "DEPT": "SF", 
+        "POINT_X": 876793.711565222, 
+        "POINT_Y": 531478.015856586, 
+        "ADDRESS": "2200 NW 82ND AVE", 
+        "LAT": 25.79427, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32225737248704, 
+          25.78841161876938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340030010", 
+        "LESSOR": "PSBP Industrial, L. L. C.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32226, 
+        "ZIPCODE": 33126, 
+        "DEPT": "MDPD", 
+        "POINT_X": 879171.890639435, 
+        "POINT_Y": 529362.517358616, 
+        "ADDRESS": "1501 NW 79TH AVE", 
+        "LAT": 25.78841, 
+        "UNIT": "Suite 14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41095324116412, 
+          25.760068521636736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3049020250010", 
+        "LESSOR": "Tamiami Lakes Plaza, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.41095, 
+        "ZIPCODE": 33184, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 850032.6596363, 
+        "POINT_Y": 518920.67158889, 
+        "ADDRESS": "13250 SW 8TH ST", 
+        "LAT": 25.76007, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28458696999597, 
+          25.821355759214775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "FOLIO": "0530240061390", 
+        "LESSOR": "City of Miami Springs", 
+        "NUMOFEMP": 0, 
+        "LON": -80.28459, 
+        "ZIPCODE": 33166, 
+        "DEPT": "MDFR", 
+        "POINT_X": 891502.309594922, 
+        "POINT_Y": 541402.0747458261, 
+        "ADDRESS": "201 WESTWARD DR", 
+        "LAT": 25.82136, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27957539016502, 
+          25.82494162160311
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431180011150", 
+        "LESSOR": "City of Hialeah", 
+        "NUMOFEMP": 0, 
+        "LON": -80.27958, 
+        "ZIPCODE": 33010, 
+        "DEPT": "CAA", 
+        "POINT_X": 893143.78774045, 
+        "POINT_Y": 542714.407035053, 
+        "ADDRESS": "300 E 1ST AVE", 
+        "LAT": 25.82494, 
+        "UNIT": "Suite 102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28760141830693, 
+          25.821319604833448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "FOLIO": "0531180161760", 
+        "LESSOR": "City of Miami Springs", 
+        "NUMOFEMP": 0, 
+        "LON": -80.2876, 
+        "ZIPCODE": 33166, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 890510.743769996, 
+        "POINT_Y": 541383.551865809, 
+        "ADDRESS": "401 WESTWARD DR", 
+        "LAT": 25.82132, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32285021606691, 
+          25.788634873330874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530340030010", 
+        "LESSOR": "PSBP Industrial, L. L. C.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32285, 
+        "ZIPCODE": 33126, 
+        "DEPT": "MDPD", 
+        "POINT_X": 878976.397775255, 
+        "POINT_Y": 529442.65815869, 
+        "ADDRESS": "7831 NW 15TH ST", 
+        "LAT": 25.78863, 
+        "UNIT": "Suite 14"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18584807483447, 
+          25.961245971881482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3012310150010", 
+        "LESSOR": "California Club Mall Shopping Center LTD.d/b/a RK Assoc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.18585, 
+        "ZIPCODE": 33179, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 923668.310008876, 
+        "POINT_Y": 592437.24202536, 
+        "ADDRESS": "850 IVES DAIRY RD", 
+        "LAT": 25.96125, 
+        "UNIT": "T44 & T45"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2089192526414, 
+          25.7732806045901
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141380032900", 
+        "LESSOR": "Jose A. Diaz", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20892, 
+        "ZIPCODE": 33130, 
+        "DEPT": "CAA", 
+        "POINT_X": 916499.2022902, 
+        "POINT_Y": 524070.88420169, 
+        "ADDRESS": "858 W FLAGLER ST", 
+        "LAT": 25.77328, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3437065700208, 
+          25.798445827760073
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530280110010", 
+        "LESSOR": "State of Florida - I.I.T.F.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.34371, 
+        "ZIPCODE": 33172, 
+        "DEPT": "MDPD", 
+        "POINT_X": 872095.8471128449, 
+        "POINT_Y": 532973.804657981, 
+        "ADDRESS": "9105 NW 25TH ST", 
+        "LAT": 25.79845, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25439709352287, 
+          25.726258207397958
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141200000120", 
+        "LESSOR": "Dade County School Board", 
+        "NUMOFEMP": 0, 
+        "LON": -80.2544, 
+        "ZIPCODE": 33133, 
+        "DEPT": "MDPD", 
+        "POINT_X": 901629.22595635, 
+        "POINT_Y": 506892.74120969296, 
+        "ADDRESS": "3500 DOUGLAS RD", 
+        "LAT": 25.72626, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36849464072164, 
+          25.787019473174496
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530320080011", 
+        "LESSOR": "West Dade County Assn.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36849, 
+        "ZIPCODE": 33172, 
+        "DEPT": "WASD", 
+        "POINT_X": 863959.95257727, 
+        "POINT_Y": 528780.902254075, 
+        "ADDRESS": "1455 NW 107TH AVE", 
+        "LAT": 25.78702, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20383052408542, 
+          25.77833131422831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101060901010", 
+        "LESSOR": "Miami Dade Public Housing Agency", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20383, 
+        "ZIPCODE": 33128, 
+        "DEPT": "DHS", 
+        "POINT_X": 918162.798579748, 
+        "POINT_Y": 525916.733803406, 
+        "ADDRESS": "550 NW 5TH ST", 
+        "LAT": 25.77833, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18782610994346, 
+          25.772926268840113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101100202010", 
+        "LESSOR": "Northwestern Capital", 
+        "NUMOFEMP": 0, 
+        "LON": -80.18783, 
+        "ZIPCODE": 33131, 
+        "DEPT": "JA", 
+        "POINT_X": 923441.713144667, 
+        "POINT_Y": 523984.327273607, 
+        "ADDRESS": "100 S BISCAYNE BLVD", 
+        "LAT": 25.77293, 
+        "UNIT": "Suite 800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19417081199367, 
+          25.774832028559953
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501030", 
+        "LESSOR": "CourtHouse Realty Corporation", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19417, 
+        "ZIPCODE": 33128, 
+        "DEPT": "COC", 
+        "POINT_X": 921349.437686719, 
+        "POINT_Y": 524664.187498242, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "LAT": 25.77483, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19416586221723, 
+          25.7747356469037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501030", 
+        "LESSOR": "CourtHouse Realty Corporation", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19417, 
+        "ZIPCODE": 33128, 
+        "DEPT": "COC", 
+        "POINT_X": 921351.280886721, 
+        "POINT_Y": 524629.1659302111, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "LAT": 25.77474, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19417562475554, 
+          25.77494869481966
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501030", 
+        "LESSOR": "CourtHouse Realty Corporation", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19418, 
+        "ZIPCODE": 33128, 
+        "DEPT": "COC", 
+        "POINT_X": 921347.594486717, 
+        "POINT_Y": 524706.582122281, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "LAT": 25.77495, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19416658156337, 
+          25.77462915431023
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501030", 
+        "LESSOR": "CourtHouse Realty Corporation", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19417, 
+        "ZIPCODE": 33128, 
+        "DEPT": "COC", 
+        "POINT_X": 921351.280886721, 
+        "POINT_Y": 524590.45796217, 
+        "ADDRESS": "22 NW 1ST ST", 
+        "LAT": 25.77463, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1939867393608, 
+          25.77431781919033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501090", 
+        "LESSOR": "Biscayne Bldg. Inc", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19399, 
+        "ZIPCODE": 33128, 
+        "DEPT": "CEPT", 
+        "POINT_X": 921411.158262774, 
+        "POINT_Y": 524477.66001007, 
+        "ADDRESS": "19 W FLAGLER ST", 
+        "LAT": 25.77432, 
+        "UNIT": "Suite 820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19398873364777, 
+          25.774467528210288
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501090", 
+        "LESSOR": "Biscayne Bldg. Inc", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19399, 
+        "ZIPCODE": 33128, 
+        "DEPT": "CEO", 
+        "POINT_X": 921410.169078775, 
+        "POINT_Y": 524532.070250116, 
+        "ADDRESS": "19 W FLAGLER ST", 
+        "LAT": 25.77447, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19399225495643, 
+          25.774391337965245
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101110501090", 
+        "LESSOR": "Biscayne Bldg. Inc", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19399, 
+        "ZIPCODE": 33128, 
+        "DEPT": "OIG", 
+        "POINT_X": 921409.1796387731, 
+        "POINT_Y": 524504.370538093, 
+        "ADDRESS": "19 W FLAGLER ST", 
+        "LAT": 25.77439, 
+        "UNIT": "Suite 207-220"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18856407665169, 
+          25.773947459118887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101120003001", 
+        "LESSOR": "STIC  Partners, L.P.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.18856, 
+        "ZIPCODE": 33131, 
+        "DEPT": "AMS", 
+        "POINT_X": 923196.562680438, 
+        "POINT_Y": 524353.999977954, 
+        "ADDRESS": "1 SE 3RD AVE", 
+        "LAT": 25.77395, 
+        "UNIT": "Suite 1100"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19744621933015, 
+          25.773766300247647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0101130701100", 
+        "LESSOR": "Flagler Bldg c/o Jack Thomas", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19745, 
+        "ZIPCODE": 33130, 
+        "DEPT": "GSA", 
+        "POINT_X": 920273.879797715, 
+        "POINT_Y": 524270.251625873, 
+        "ADDRESS": "172 W FLAGLER ST", 
+        "LAT": 25.77377, 
+        "UNIT": "Suite 325"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19325798740631, 
+          25.850864962928895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131120080450", 
+        "LESSOR": "Center for Haitian Studies, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19326, 
+        "ZIPCODE": 33138, 
+        "DEPT": "SF", 
+        "POINT_X": 921480.3970468381, 
+        "POINT_Y": 552301.617795981, 
+        "ADDRESS": "8260 NE 2ND AVE", 
+        "LAT": 25.85086, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19326443495481, 
+          25.850998009089153
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131120080450", 
+        "LESSOR": "Center for Haitian Studies, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19326, 
+        "ZIPCODE": 33138, 
+        "DEPT": "SF", 
+        "POINT_X": 921477.9796388369, 
+        "POINT_Y": 552349.963140026, 
+        "ADDRESS": "8260 NE 2ND AVE", 
+        "LAT": 25.851, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19434115845947, 
+          25.847150267628304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131121070010", 
+        "LESSOR": "Miami Dade Public Housing Agency", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19434, 
+        "ZIPCODE": 33138, 
+        "DEPT": "DHS", 
+        "POINT_X": 921132.437494516, 
+        "POINT_Y": 550949.250178717, 
+        "ADDRESS": "150 NE 79TH ST", 
+        "LAT": 25.84715, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20890617843504, 
+          25.831848014109603
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131140370010", 
+        "LESSOR": "Martin Luther King Econ Development", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20891, 
+        "ZIPCODE": 33127, 
+        "DEPT": "CAA", 
+        "POINT_X": 916375.5624820851, 
+        "POINT_Y": 545358.250109516, 
+        "ADDRESS": "6100 NW 7TH AVE", 
+        "LAT": 25.83185, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21865051629557, 
+          25.809885066421398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131230375260", 
+        "LESSOR": "Golden Sands Allapatah Corp.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21865, 
+        "ZIPCODE": 33142, 
+        "DEPT": "SAO", 
+        "POINT_X": 913217.720559142, 
+        "POINT_Y": 537356.262006059, 
+        "ADDRESS": "1313 NW 36TH ST", 
+        "LAT": 25.80989, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21854524062468, 
+          25.809889944311827
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131230375260", 
+        "LESSOR": "Golden Sands Allapatah Corp.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21855, 
+        "ZIPCODE": 33142, 
+        "DEPT": "SAO", 
+        "POINT_X": 913252.3453271759, 
+        "POINT_Y": 537358.24063006, 
+        "ADDRESS": "1313 NW 36TH ST", 
+        "LAT": 25.80989, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21844304373012, 
+          25.80988395117993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131230375260", 
+        "LESSOR": "Golden Sands Allapatah Corp.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21844, 
+        "ZIPCODE": 33142, 
+        "DEPT": "SAO", 
+        "POINT_X": 913285.980655208, 
+        "POINT_Y": 537356.262006059, 
+        "ADDRESS": "1313 NW 36TH ST", 
+        "LAT": 25.80988, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21831666694749, 
+          25.8098968807328
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131230375260", 
+        "LESSOR": "Golden Sands Allapatah Corp.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21832, 
+        "ZIPCODE": 33142, 
+        "DEPT": "SF", 
+        "POINT_X": 913327.530223247, 
+        "POINT_Y": 537361.208438069, 
+        "ADDRESS": "1313 NW 36TH ST", 
+        "LAT": 25.8099, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19904418999458, 
+          25.809387201483872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131250190850", 
+        "LESSOR": "H-S Acquisitions LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.19904, 
+        "ZIPCODE": 33127, 
+        "DEPT": "MDPD", 
+        "POINT_X": 919669.238517154, 
+        "POINT_Y": 537214.085749932, 
+        "ADDRESS": "3465 NW 2ND AVE", 
+        "LAT": 25.80939, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20773607610295, 
+          25.798244858385363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131260140010", 
+        "LESSOR": "State of Florida, DJJ", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20774, 
+        "ZIPCODE": 33127, 
+        "DEPT": "GSA", 
+        "POINT_X": 916834.000370513, 
+        "POINT_Y": 533146.895474143, 
+        "ADDRESS": "2200 NW 7TH AVE", 
+        "LAT": 25.79824, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2111277470108, 
+          25.802170534290635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131260560020", 
+        "LESSOR": "City of Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21113, 
+        "ZIPCODE": 33127, 
+        "DEPT": "HCD", 
+        "POINT_X": 915709.491953466, 
+        "POINT_Y": 534567.04779546, 
+        "ADDRESS": "2735 NW 10TH AVE", 
+        "LAT": 25.80217, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20966441477727, 
+          25.802165494033005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131260560040", 
+        "LESSOR": "City of Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20966, 
+        "ZIPCODE": 33127, 
+        "DEPT": "CAA", 
+        "POINT_X": 916190.965489913, 
+        "POINT_Y": 534568.104051463, 
+        "ADDRESS": "800 NW 28TH ST", 
+        "LAT": 25.80217, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23929070972778, 
+          25.801973357535097
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131270161050", 
+        "LESSOR": "A & B 28 Street Property, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.23929, 
+        "ZIPCODE": 33142, 
+        "DEPT": "BNC", 
+        "POINT_X": 906443.806952834, 
+        "POINT_Y": 534440.837747343, 
+        "ADDRESS": "2671 NW 28TH ST", 
+        "LAT": 25.80197, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21551852450277, 
+          25.786590492819965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350000150", 
+        "LESSOR": "State of Fl. Dept./Gen. Serv", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21552, 
+        "ZIPCODE": 33125, 
+        "DEPT": "SAO", 
+        "POINT_X": 914298.58865615, 
+        "POINT_Y": 528895.589486182, 
+        "ADDRESS": "1350 NW 12TH AVE", 
+        "LAT": 25.78659, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22027039313737, 
+          25.78699650440229
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350110170", 
+        "LESSOR": "1469 N.W. Civic Park Plaza, Corp", 
+        "NUMOFEMP": 0, 
+        "LON": -80.22027, 
+        "ZIPCODE": 33125, 
+        "DEPT": "SAO", 
+        "POINT_X": 912734.0623186941, 
+        "POINT_Y": 529033.875054307, 
+        "ADDRESS": "1469 NW 13TH TERR", 
+        "LAT": 25.787, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21919055530974, 
+          25.784501001276542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350120010", 
+        "LESSOR": "Mahi Shrine Holding Corp.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21919, 
+        "ZIPCODE": 33125, 
+        "DEPT": "GSA", 
+        "POINT_X": 913094.77041503, 
+        "POINT_Y": 528128.949869469, 
+        "ADDRESS": "1400 NW N RIVER DR", 
+        "LAT": 25.7845, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21333998621125, 
+          25.792411769910526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350450020", 
+        "LESSOR": "Public Health Trust of Dade County Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21334, 
+        "ZIPCODE": 33136, 
+        "DEPT": "PD", 
+        "POINT_X": 915002.8205928061, 
+        "POINT_Y": 531015.704432152, 
+        "ADDRESS": "1500 NW 12TH AVE", 
+        "LAT": 25.79241, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20275304421678, 
+          25.784214755193783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131360810010", 
+        "LESSOR": "City of Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20275, 
+        "ZIPCODE": 33136, 
+        "DEPT": "SF", 
+        "POINT_X": 918504.4374920691, 
+        "POINT_Y": 528057.3126214, 
+        "ADDRESS": "1009 NW 5TH AVE", 
+        "LAT": 25.78421, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18760257702158, 
+          25.82259351674675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0132190000170", 
+        "LESSOR": "TGR Management Corp", 
+        "NUMOFEMP": 0, 
+        "LON": -80.1876, 
+        "ZIPCODE": 33137, 
+        "DEPT": "DHS", 
+        "POINT_X": 923403.874808632, 
+        "POINT_Y": 542037.249914423, 
+        "ADDRESS": "5080  BISCAYNE BLVD", 
+        "LAT": 25.82259, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21919471824462, 
+          25.77216553903585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141020100070", 
+        "LESSOR": "Barreiro Enterprises, Corp", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21919, 
+        "ZIPCODE": 33135, 
+        "DEPT": "BCC", 
+        "POINT_X": 913119.9738710519, 
+        "POINT_Y": 523645.425769292, 
+        "ADDRESS": "1454 SW 1ST ST", 
+        "LAT": 25.77217, 
+        "UNIT": "Suite 130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23885922187792, 
+          25.775952538661883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141030470010", 
+        "LESSOR": "Sunny Management, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.23886, 
+        "ZIPCODE": 33125, 
+        "DEPT": "SF", 
+        "POINT_X": 906640.4374810191, 
+        "POINT_Y": 524984.000106536, 
+        "ADDRESS": "315 NW 27TH AVE", 
+        "LAT": 25.77595, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21081576156037, 
+          25.77619728469078
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141380030690", 
+        "LESSOR": "City of Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21082, 
+        "ZIPCODE": 33128, 
+        "DEPT": "SF", 
+        "POINT_X": 915868.715761613, 
+        "POINT_Y": 525127.255146675, 
+        "ADDRESS": "971 NW 2ND ST", 
+        "LAT": 25.7762, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2089238459507, 
+          25.773380571194583
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141380032900", 
+        "LESSOR": "Jose A. Diaz", 
+        "NUMOFEMP": 0, 
+        "LON": -80.20892, 
+        "ZIPCODE": 33130, 
+        "DEPT": "CAA", 
+        "POINT_X": 916497.472498197, 
+        "POINT_Y": 524107.209577724, 
+        "ADDRESS": "858 W FLAGLER ST", 
+        "LAT": 25.77338, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12879900136724, 
+          25.798032515964923
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232260010480", 
+        "LESSOR": "City of Miami Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.1288, 
+        "ZIPCODE": 33139, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 942807.249930702, 
+        "POINT_Y": 533233.81259422, 
+        "ADDRESS": "227 22ND ST", 
+        "LAT": 25.79803, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14406470250286, 
+          25.794762811639863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0232270000090", 
+        "LESSOR": "City of Miami Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.14406, 
+        "ZIPCODE": 33139, 
+        "DEPT": "BCC", 
+        "POINT_X": 937792.054278031, 
+        "POINT_Y": 532012.4209770861, 
+        "ADDRESS": "1700 CONVENTION CENTER DR", 
+        "LAT": 25.79476, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13776146077865, 
+          25.770401379674592
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0242030031060", 
+        "LESSOR": "City of Miami Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.13776, 
+        "ZIPCODE": 33139, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 939924.0491600151, 
+        "POINT_Y": 523171.29405684804, 
+        "ADDRESS": "131 ALTON RD", 
+        "LAT": 25.7704, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13300320849402, 
+          25.782446416804923
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "FOLIO": "0242030090070", 
+        "LESSOR": "City of Miami Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.133, 
+        "ZIPCODE": 33139, 
+        "DEPT": "JA", 
+        "POINT_X": 941461.224457446, 
+        "POINT_Y": 527559.583596937, 
+        "ADDRESS": "1130 WASHINGTON AVE", 
+        "LAT": 25.78245, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26588149935341, 
+          25.739746333445606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0341170041180", 
+        "LESSOR": "City of Coral Gables", 
+        "NUMOFEMP": 0, 
+        "LON": -80.26588, 
+        "ZIPCODE": 33134, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 897820.9996488059, 
+        "POINT_Y": 511773.953630239, 
+        "ADDRESS": "3443 SEGOVIA ST", 
+        "LAT": 25.73975, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27969373652915, 
+          25.82493953109893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431180011150", 
+        "LESSOR": "City of Hialeah", 
+        "NUMOFEMP": 0, 
+        "LON": -80.27969, 
+        "ZIPCODE": 33010, 
+        "DEPT": "CAA", 
+        "POINT_X": 893104.861660413, 
+        "POINT_Y": 542713.4339790491, 
+        "ADDRESS": "300 E 1ST AVE", 
+        "LAT": 25.82494, 
+        "UNIT": "Suite 126"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27957925333561, 
+          25.824815861772514
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431180011150", 
+        "LESSOR": "City of Hialeah", 
+        "NUMOFEMP": 0, 
+        "LON": -80.27958, 
+        "ZIPCODE": 33010, 
+        "DEPT": "DHS", 
+        "POINT_X": 893142.767324447, 
+        "POINT_Y": 542668.6908110081, 
+        "ADDRESS": "300 E 1ST AVE", 
+        "LAT": 25.82482, 
+        "UNIT": "Suite 103-110"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28111436477373, 
+          25.82741897566605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431180013020", 
+        "LESSOR": "City of Hialeah", 
+        "NUMOFEMP": 0, 
+        "LON": -80.28111, 
+        "ZIPCODE": 33010, 
+        "DEPT": "JA", 
+        "POINT_X": 892632.617435973, 
+        "POINT_Y": 543612.067707889, 
+        "ADDRESS": "11 E 6TH ST", 
+        "LAT": 25.82742, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21020712449842, 
+          25.894446014861348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0621250010050", 
+        "LESSOR": "City of North Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21021, 
+        "ZIPCODE": 33168, 
+        "DEPT": "MDFR", 
+        "POINT_X": 915810.8124015591, 
+        "POINT_Y": 568108.1875386981, 
+        "ADDRESS": "650 NW 131ST ST", 
+        "LAT": 25.89445, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18924505969972, 
+          25.90228761372999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622190320020", 
+        "LESSOR": "City of North Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.18925, 
+        "ZIPCODE": 33161, 
+        "DEPT": "MDFR", 
+        "POINT_X": 922684.750071961, 
+        "POINT_Y": 571000.4376533921, 
+        "ADDRESS": "13810 NE 5TH AVE", 
+        "LAT": 25.90229, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18699947293449, 
+          25.895338147827882
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "FOLIO": "0622300230350", 
+        "LESSOR": "JLM-Inn Transition North", 
+        "NUMOFEMP": 0, 
+        "LON": -80.187, 
+        "ZIPCODE": 33161, 
+        "DEPT": "DHS", 
+        "POINT_X": 923438.625016663, 
+        "POINT_Y": 568479.0624190491, 
+        "ADDRESS": "13030 NE 6TH AVE", 
+        "LAT": 25.89534, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16272755772147, 
+          25.93265177573079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMIBEACH", 
+        "FOLIO": "0722090060120", 
+        "LESSOR": "City of North Miami Beach", 
+        "NUMOFEMP": 0, 
+        "LON": -80.16273, 
+        "ZIPCODE": 33162, 
+        "DEPT": "MDFR", 
+        "POINT_X": 931331.686656013, 
+        "POINT_Y": 582091.839647725, 
+        "ADDRESS": "17050 NE 19TH AVE", 
+        "LAT": 25.93265, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17776939777056, 
+          25.9251295439729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMIBEACH", 
+        "FOLIO": "0722170150330", 
+        "LESSOR": "R-GEM CORP", 
+        "NUMOFEMP": 0, 
+        "LON": -80.17777, 
+        "ZIPCODE": 33162, 
+        "DEPT": "BCC", 
+        "POINT_X": 926405.212667424, 
+        "POINT_Y": 579326.383517146, 
+        "ADDRESS": "1100 NE 163RD ST", 
+        "LAT": 25.92513, 
+        "UNIT": "Suite 303"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29253966816142, 
+          25.708085954447235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940250630030", 
+        "LESSOR": "City of South Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.29254, 
+        "ZIPCODE": 33143, 
+        "DEPT": "CAA", 
+        "POINT_X": 889107.1536246911, 
+        "POINT_Y": 500218.753619477, 
+        "ADDRESS": "6121-6125 SW 68TH ST", 
+        "LAT": 25.70809, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.294539284007, 
+          25.701347951226584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940360000290", 
+        "LESSOR": "South Miami Hospital Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.29454, 
+        "ZIPCODE": 33143, 
+        "DEPT": "ETSD", 
+        "POINT_X": 888461.81244009, 
+        "POINT_Y": 497766.250065192, 
+        "ADDRESS": "7400 SW 62ND AVE", 
+        "LAT": 25.70135, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29598744486402, 
+          25.699839810802416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940360110421", 
+        "LESSOR": "Lisset Rigueiro", 
+        "NUMOFEMP": 0, 
+        "LON": -80.29599, 
+        "ZIPCODE": 33143, 
+        "DEPT": "BCC", 
+        "POINT_X": 887987.865815647, 
+        "POINT_Y": 497215.560784675, 
+        "ADDRESS": "6330 MANOR LN", 
+        "LAT": 25.69984, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48461971113879, 
+          25.478518581559292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1078120020150", 
+        "LESSOR": "City of Homestead", 
+        "NUMOFEMP": 0, 
+        "LON": -80.48462, 
+        "ZIPCODE": 33030, 
+        "DEPT": "ETSD", 
+        "POINT_X": 826185.249950088, 
+        "POINT_Y": 416490.9688375, 
+        "ADDRESS": "505 NW 9TH ST", 
+        "LAT": 25.47852, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47847820546986, 
+          25.470079114419047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1078130190070", 
+        "LESSOR": "Safespace Foundation, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.47848, 
+        "ZIPCODE": 33030, 
+        "DEPT": "DHS", 
+        "POINT_X": 828223.312287986, 
+        "POINT_Y": 413431.62496265, 
+        "ADDRESS": "51 W MOWRY DR", 
+        "LAT": 25.47008, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28806709880303, 
+          25.7609780759261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "FOLIO": "1540120140310", 
+        "LESSOR": "Interamerican Bank", 
+        "NUMOFEMP": 0, 
+        "LON": -80.28807, 
+        "ZIPCODE": 33144, 
+        "DEPT": "BCC", 
+        "POINT_X": 890476.128729965, 
+        "POINT_Y": 519450.830437384, 
+        "ADDRESS": "1000 SW 57TH AVE", 
+        "LAT": 25.76098, 
+        "UNIT": "Suite 201"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29935113417454, 
+          25.7628616956575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "FOLIO": "1540120210200", 
+        "LESSOR": "Sococri Investments Limited Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.29935, 
+        "ZIPCODE": 33144, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 886758.601174503, 
+        "POINT_Y": 520115.553638004, 
+        "ADDRESS": "6376 SW 8TH ST", 
+        "LAT": 25.76286, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48568052842538, 
+          25.462333179470484
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "FOLIO": "1678240150010", 
+        "LESSOR": "Bennie Lovett", 
+        "NUMOFEMP": 0, 
+        "LON": -80.48568, 
+        "ZIPCODE": 33034, 
+        "DEPT": "BCC", 
+        "POINT_X": 825858.000029783, 
+        "POINT_Y": 410607.218944013, 
+        "ADDRESS": "1634 NW 6TH AVE", 
+        "LAT": 25.46233, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36092909282793, 
+          25.875248527380617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "FOLIO": "2220320060100", 
+        "LESSOR": "Flagler Development Company, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36093, 
+        "ZIPCODE": 33178, 
+        "DEPT": "MDPD", 
+        "POINT_X": 866293.562307443, 
+        "POINT_Y": 560860.749963954, 
+        "ADDRESS": "9955 NW 116TH WAY", 
+        "LAT": 25.87525, 
+        "UNIT": "Suite 10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15741059314637, 
+          25.84907170351458
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH BAY VILLAGE", 
+        "FOLIO": "2332090010070", 
+        "LESSOR": "City of North Bay Village", 
+        "NUMOFEMP": 0, 
+        "LON": -80.15741, 
+        "ZIPCODE": 33141, 
+        "DEPT": "MDFR", 
+        "POINT_X": 933274.249985821, 
+        "POINT_Y": 551723.812483445, 
+        "ADDRESS": "7903 EAST DR", 
+        "LAT": 25.84907, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38130652309489, 
+          25.76602822760642
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "FOLIO": "2540060010770", 
+        "LESSOR": "City of Sweetwater", 
+        "NUMOFEMP": 0, 
+        "LON": -80.38131, 
+        "ZIPCODE": 33174, 
+        "DEPT": "CAA", 
+        "POINT_X": 859779.998397376, 
+        "POINT_Y": 521131.46429494803, 
+        "ADDRESS": "250 SW 114TH AVE", 
+        "LAT": 25.76603, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30231586847772, 
+          25.807680988065403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "VIRGINIA GARDENS", 
+        "FOLIO": "2630250010291", 
+        "LESSOR": "AM Group 36, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.30232, 
+        "ZIPCODE": 33166, 
+        "DEPT": "MDCR", 
+        "POINT_X": 885696.549333513, 
+        "POINT_Y": 536400.472693168, 
+        "ADDRESS": "6501 NW 36TH ST", 
+        "LAT": 25.80768, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34051136213499, 
+          25.876196651903477
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH GARDENS", 
+        "FOLIO": "2720330060010", 
+        "LESSOR": "Biltmore 87 Court Plaza LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.34051, 
+        "ZIPCODE": 33018, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 873005.375177692, 
+        "POINT_Y": 561238.5624442991, 
+        "ADDRESS": "11300 NW 87TH CT", 
+        "LAT": 25.8762, 
+        "UNIT": "Suites 112-114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16719963544776, 
+          25.965565678766605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3012320280010", 
+        "LESSOR": "Florida Department of Transportation", 
+        "NUMOFEMP": 0, 
+        "LON": -80.1672, 
+        "ZIPCODE": 33179, 
+        "DEPT": "MDFR", 
+        "POINT_X": 929785.8032625731, 
+        "POINT_Y": 594045.91351486, 
+        "ADDRESS": "1773 NE 205TH ST", 
+        "LAT": 25.96557, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32666884783283, 
+          25.93354622923029
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3020100000011", 
+        "LESSOR": "Adell Investments, Inc.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32667, 
+        "ZIPCODE": 33015, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 877449.874893833, 
+        "POINT_Y": 582106.312607735, 
+        "ADDRESS": "17601 NW 78TH AVE", 
+        "LAT": 25.93355, 
+        "UNIT": "Suites 104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33669463349617, 
+          25.831959620170526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3030150010470", 
+        "LESSOR": "New Miami Warehouses LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.33669, 
+        "ZIPCODE": 33166, 
+        "DEPT": "VIZCA", 
+        "POINT_X": 874341.519050937, 
+        "POINT_Y": 545166.3415013329, 
+        "ADDRESS": "8551 NW 64TH ST", 
+        "LAT": 25.83196, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32277585123364, 
+          25.817781973086184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530220080010", 
+        "LESSOR": "Corporate Park of Miami", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32278, 
+        "ZIPCODE": 33166, 
+        "DEPT": "SF", 
+        "POINT_X": 878946.360271226, 
+        "POINT_Y": 540036.634744555, 
+        "ADDRESS": "7785 NW 48TH ST", 
+        "LAT": 25.81778, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3440325960388, 
+          25.798433021031606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530280110010", 
+        "LESSOR": "Federal Aviation Admin.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.34403, 
+        "ZIPCODE": 33172, 
+        "DEPT": "MDPD", 
+        "POINT_X": 871988.6005207449, 
+        "POINT_Y": 532968.615281977, 
+        "ADDRESS": "9105 NW 25TH ST", 
+        "LAT": 25.79843, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37745826206736, 
+          25.791565509710992
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "FOLIO": "3030310290011", 
+        "LESSOR": "Monroe County Sheriffs Office (South Florida HIDTA)", 
+        "NUMOFEMP": 0, 
+        "LON": -80.37746, 
+        "ZIPCODE": 33172, 
+        "DEPT": "MDPD", 
+        "POINT_X": 861002.6392945161, 
+        "POINT_Y": 530419.1550555971, 
+        "ADDRESS": "11200 NW 20TH ST", 
+        "LAT": 25.79157, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37746356691022, 
+          25.791380862457707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SWEETWATER", 
+        "FOLIO": "3030310290011", 
+        "LESSOR": "Procacci MTF LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.37746, 
+        "ZIPCODE": 33172, 
+        "DEPT": "MDPD", 
+        "POINT_X": 861001.211070515, 
+        "POINT_Y": 530352.035183541, 
+        "ADDRESS": "11200 NW 20TH ST", 
+        "LAT": 25.79138, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36541560582063, 
+          25.787563939183382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3030320080010", 
+        "LESSOR": "West Dade County Assn.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36542, 
+        "ZIPCODE": 33172, 
+        "DEPT": "CSD", 
+        "POINT_X": 864972.16403421, 
+        "POINT_Y": 528983.6632142661, 
+        "ADDRESS": "1455 NW 107TH AVE", 
+        "LAT": 25.78756, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32351560734398, 
+          25.783782628658418
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3030340010010", 
+        "LESSOR": "Adler Office Assoc", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32352, 
+        "ZIPCODE": 33126, 
+        "DEPT": "MDCR", 
+        "POINT_X": 878766.509263057, 
+        "POINT_Y": 527677.932653047, 
+        "ADDRESS": "7855 NW 12TH ST", 
+        "LAT": 25.78378, 
+        "UNIT": "Suite 114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21327236165564, 
+          25.861120235267272
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3031020000250", 
+        "LESSOR": "Miami Dade Public Housing Agency", 
+        "NUMOFEMP": 0, 
+        "LON": -80.21327, 
+        "ZIPCODE": 33150, 
+        "DEPT": "ETSD", 
+        "POINT_X": 914875.673840687, 
+        "POINT_Y": 555989.185159415, 
+        "ADDRESS": "950 NW 95TH ST", 
+        "LAT": 25.86112, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2429965726944, 
+          25.848509130448324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031090000120", 
+        "LESSOR": "NORTHSIDE CENTER, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.243, 
+        "ZIPCODE": 33147, 
+        "DEPT": "DHS", 
+        "POINT_X": 905127.15799161, 
+        "POINT_Y": 551348.008323088, 
+        "ADDRESS": "7900 NW 27TH AVE", 
+        "LAT": 25.84851, 
+        "UNIT": "Space D-10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24298165162232, 
+          25.847969150417818
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031090000120", 
+        "LESSOR": "NORTHSIDE CENTER, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24298, 
+        "ZIPCODE": 33147, 
+        "DEPT": "MDPD", 
+        "POINT_X": 905133.1960076131, 
+        "POINT_Y": 551151.771266907, 
+        "ADDRESS": "7900 NW 27TH AVE", 
+        "LAT": 25.84797, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2451204093479, 
+          25.849153979202377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031090000129", 
+        "LESSOR": "NORTHSIDE CENTER, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24512, 
+        "ZIPCODE": 33147, 
+        "DEPT": "MDPD", 
+        "POINT_X": 904427.306726958, 
+        "POINT_Y": 551578.371715307, 
+        "ADDRESS": "2950 NW 83RD ST", 
+        "LAT": 25.84915, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24300749680555, 
+          25.848235083208948
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031090000120", 
+        "LESSOR": "NORTHSIDE CENTER, LLC", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24301, 
+        "ZIPCODE": 33147, 
+        "DEPT": "SF", 
+        "POINT_X": 905124.1389836071, 
+        "POINT_Y": 551248.380291, 
+        "ADDRESS": "7900 NW 27TH AVE", 
+        "LAT": 25.84824, 
+        "UNIT": "Suite A-1A"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24304030801005, 
+          25.813769745766844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031210490010", 
+        "LESSOR": "Dade County School Board", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24304, 
+        "ZIPCODE": 33142, 
+        "DEPT": "CAA", 
+        "POINT_X": 905185.463271662, 
+        "POINT_Y": 538721.3087913321, 
+        "ADDRESS": "2900 NW 43RD TER", 
+        "LAT": 25.81377, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23406127756051, 
+          25.8230988736539
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031220580010", 
+        "LESSOR": "Miami Dade Public Housing Agency", 
+        "NUMOFEMP": 0, 
+        "LON": -80.23406, 
+        "ZIPCODE": 33142, 
+        "DEPT": "ETSD", 
+        "POINT_X": 908119.682282396, 
+        "POINT_Y": 542129.232250504, 
+        "ADDRESS": "2200 NW 54TH ST", 
+        "LAT": 25.8231, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24052766263351, 
+          25.806378886698965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031280160010", 
+        "LESSOR": "State of Florida-DJJ", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24053, 
+        "ZIPCODE": 33142, 
+        "DEPT": "JA", 
+        "POINT_X": 906027.588584449, 
+        "POINT_Y": 536039.7464208379, 
+        "ADDRESS": "3300 NW 27TH AVE", 
+        "LAT": 25.80638, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24052769312533, 
+          25.80645331485203
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031280160010", 
+        "LESSOR": "State of Florida-DJJ", 
+        "NUMOFEMP": 0, 
+        "LON": -80.24053, 
+        "ZIPCODE": 33142, 
+        "DEPT": "SAO", 
+        "POINT_X": 906027.422440447, 
+        "POINT_Y": 536066.7984528621, 
+        "ADDRESS": "3302 NW 27TH AVE", 
+        "LAT": 25.80645, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32683501684714, 
+          25.776385043080033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DAD", 
+        "FOLIO": "3040030180010", 
+        "LESSOR": "Acosta & Valdes, L.L.C.", 
+        "NUMOFEMP": 0, 
+        "LON": -80.32684, 
+        "ZIPCODE": 33126, 
+        "DEPT": "DHS", 
+        "POINT_X": 877687.9525900561, 
+        "POINT_Y": 524983.608170539, 
+        "ADDRESS": "8000 NW 7TH ST", 
+        "LAT": 25.77639, 
+        "UNIT": "Suite 200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31323354549374, 
+          25.74349959400272
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040140320010", 
+        "LESSOR": "City of Coral Gables", 
+        "NUMOFEMP": 0, 
+        "LON": -80.31323, 
+        "ZIPCODE": 33155, 
+        "DEPT": "DSWM", 
+        "POINT_X": 882226.24712228, 
+        "POINT_Y": 513054.167135425, 
+        "ADDRESS": "2800 SW 72ND AVE", 
+        "LAT": 25.7435, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35311353883121, 
+          25.74570014977454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040170000031", 
+        "LESSOR": "Coral 97 Associates, LTD", 
+        "NUMOFEMP": 0, 
+        "LON": -80.35311, 
+        "ZIPCODE": 33165, 
+        "DEPT": "BCC", 
+        "POINT_X": 869094.860230051, 
+        "POINT_Y": 513787.612512112, 
+        "ADDRESS": "9766 SW 24TH ST", 
+        "LAT": 25.7457, 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36910594149246, 
+          25.702593589535372
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040300650030", 
+        "LESSOR": "Sunset Owner, LP", 
+        "NUMOFEMP": 0, 
+        "LON": -80.36911, 
+        "ZIPCODE": 33173, 
+        "DEPT": "MDPLS", 
+        "POINT_X": 863905.571009219, 
+        "POINT_Y": 498094.79406549805, 
+        "ADDRESS": "10855 SW 72ND ST", 
+        "LAT": 25.70259, 
+        "UNIT": null
+      }
+    }
+  ]
+}

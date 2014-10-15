@@ -1,0 +1,2735 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13035277354848, 
+            25.783845543782167
+          ], 
+          [
+            -80.13092818370342, 
+            25.78091047219009
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1083.50", 
+        "ANGLE": "S09-41-18W", 
+        "SHAPE_LEN": 1083.51095584
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13092818370342, 
+            25.78091047219009
+          ], 
+          [
+            -80.13162592480516, 
+            25.777759122582363
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1168.23", 
+        "ANGLE": "S10-57-26W", 
+        "SHAPE_LEN": 1168.23673473
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13162592480516, 
+            25.777759122582363
+          ], 
+          [
+            -80.13226451405068, 
+            25.77487548806088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1068.93", 
+        "ANGLE": "S10-57-31W", 
+        "SHAPE_LEN": 1069.00050915
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13226451405068, 
+            25.77487548806088
+          ], 
+          [
+            -80.13177721557005, 
+            25.77479468625255
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "163.00", 
+        "ANGLE": "S80-00-00E", 
+        "SHAPE_LEN": 163.039303148
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13177721557005, 
+            25.77479468625255
+          ], 
+          [
+            -80.13237145989723, 
+            25.77210406513724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "997.39", 
+        "ANGLE": "S10-55-43W", 
+        "SHAPE_LEN": 997.344985898
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13237145989723, 
+            25.77210406513724
+          ], 
+          [
+            -80.13303124066258, 
+            25.76911944359088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1106.35", 
+        "ANGLE": "S10-56-34W", 
+        "SHAPE_LEN": 1106.36294961
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13303124066258, 
+            25.76911944359088
+          ], 
+          [
+            -80.13362469709763, 
+            25.766293737354605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1045.47", 
+        "ANGLE": "S10-23-22W", 
+        "SHAPE_LEN": 1045.48877576
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13362469709763, 
+            25.766293737354605
+          ], 
+          [
+            -80.13475960730831, 
+            25.760888156138215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S10-23-22W", 
+        "SHAPE_LEN": 1999.99996853
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13405212335203, 
+            25.76582813467502
+          ], 
+          [
+            -80.13499433058497, 
+            25.76285094142324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1125.70", 
+        "ANGLE": "S15-36-49W", 
+        "SHAPE_LEN": 1125.70100606
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13499433058497, 
+            25.76285094142324
+          ], 
+          [
+            -80.13121181200259, 
+            25.767157348686926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "N38-07-12E", 
+        "SHAPE_LEN": 2000.00076767
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13121181200259, 
+            25.767157348686926
+          ], 
+          [
+            -80.13499433058497, 
+            25.76285094142324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S38-07-12W", 
+        "SHAPE_LEN": 2000.00076767
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13499433058497, 
+            25.76285094142324
+          ], 
+          [
+            -80.13688567909742, 
+            25.76069735478806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1000.16", 
+        "ANGLE": "S38-07-12W", 
+        "SHAPE_LEN": 1000.13722716
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13688567909742, 
+            25.76069735478806
+          ], 
+          [
+            -80.13821971500664, 
+            25.758112620461958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1037.03", 
+        "ANGLE": "S24-40-30W", 
+        "SHAPE_LEN": 1037.03803025
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13821971500664, 
+            25.758112620461958
+          ], 
+          [
+            -80.13973269510075, 
+            25.756800273802426
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "689.60", 
+        "ANGLE": "S45-51-37W", 
+        "SHAPE_LEN": 689.594677004
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.13973269510075, 
+            25.756800273802426
+          ], 
+          [
+            -80.1441208785401, 
+            25.752994049806404
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S45-51-37W", 
+        "SHAPE_LEN": 2000.07923613
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14262114536804, 
+            25.749591710076295
+          ], 
+          [
+            -80.14348161080616, 
+            25.749439005027416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "288.64", 
+        "ANGLE": "S78-32-28W", 
+        "SHAPE_LEN": 288.629713569
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14348161080616, 
+            25.749439005027416
+          ], 
+          [
+            -80.14293341810598, 
+            25.75491897120437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "N04-48-12E", 
+        "SHAPE_LEN": 1999.99468494
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14293341810598, 
+            25.75491897120437
+          ], 
+          [
+            -80.14348161080616, 
+            25.749439005027416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S04-48-12W", 
+        "SHAPE_LEN": 1999.99468494
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14348161080616, 
+            25.749439005027416
+          ], 
+          [
+            -80.143746077352, 
+            25.746794094497893
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "965.28", 
+        "ANGLE": "S04-48-12W", 
+        "SHAPE_LEN": 965.29532407
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.143746077352, 
+            25.746794094497893
+          ], 
+          [
+            -80.14471087263946, 
+            25.74474250196112
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "810.52", 
+        "ANGLE": "S22-41-56W", 
+        "SHAPE_LEN": 810.519427942
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14471087263946, 
+            25.74474250196112
+          ], 
+          [
+            -80.14595782224558, 
+            25.742311845792962
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "974.16", 
+        "ANGLE": "S24-32-55W", 
+        "SHAPE_LEN": 974.187537655
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14595782224558, 
+            25.742311845792962
+          ], 
+          [
+            -80.14767469504542, 
+            25.74058868532622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "843.66", 
+        "ANGLE": "S41-41-32W", 
+        "SHAPE_LEN": 843.635792069
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14767469504542, 
+            25.74058868532622
+          ], 
+          [
+            -80.1499669601627, 
+            25.7390547453614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "938.24", 
+        "ANGLE": "S53-10-15W", 
+        "SHAPE_LEN": 938.244544643
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1499669601627, 
+            25.7390547453614
+          ], 
+          [
+            -80.15253363232266, 
+            25.737877280760276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "947.08", 
+        "ANGLE": "S62-45-58W", 
+        "SHAPE_LEN": 947.163790558
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15253363232266, 
+            25.737877280760276
+          ], 
+          [
+            -80.1552906475606, 
+            25.73659701347288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1019.97", 
+        "ANGLE": "S62-29-20W", 
+        "SHAPE_LEN": 1019.96782916
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1552906475606, 
+            25.73659701347288
+          ], 
+          [
+            -80.15806048021125, 
+            25.73486357658014
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1108.36", 
+        "ANGLE": "S54-59-31W", 
+        "SHAPE_LEN": 1108.35988338
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15806048021125, 
+            25.73486357658014
+          ], 
+          [
+            -80.16164236250823, 
+            25.733216783686053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1322.46", 
+        "ANGLE": "S62-43-20W", 
+        "SHAPE_LEN": 1322.42878901
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.16164236250823, 
+            25.733216783686053
+          ], 
+          [
+            -80.15764603444862, 
+            25.729072395204078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S41-30-00E", 
+        "SHAPE_LEN": 2000.04909603
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15364041628995, 
+            25.728692031192722
+          ], 
+          [
+            -80.15600674018545, 
+            25.727326589132574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "923.73", 
+        "ANGLE": "S57-08-01W", 
+        "SHAPE_LEN": 923.724178761
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15600674018545, 
+            25.727326589132574
+          ], 
+          [
+            -80.15998291213329, 
+            25.731486639840465
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "N41-15-00W", 
+        "SHAPE_LEN": 2000.00350315
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15998291213329, 
+            25.731486639840465
+          ], 
+          [
+            -80.15600674018545, 
+            25.727326589132574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S41-15-00E", 
+        "SHAPE_LEN": 2000.00350315
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15600674018545, 
+            25.727326589132574
+          ], 
+          [
+            -80.15304194997289, 
+            25.72784708973416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "994.28", 
+        "ANGLE": "N78-39-48E", 
+        "SHAPE_LEN": 994.272786458
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15304194997289, 
+            25.72784708973416
+          ], 
+          [
+            -80.14893087830103, 
+            25.725834991646465
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1538.46", 
+        "ANGLE": "S61-59-04E", 
+        "SHAPE_LEN": 1538.46011623
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14893087830103, 
+            25.725834991646465
+          ], 
+          [
+            -80.14852339405921, 
+            25.722783244894938
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1117.33", 
+        "ANGLE": "S07-15-58E", 
+        "SHAPE_LEN": 1117.31601635
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14852339405921, 
+            25.722783244894938
+          ], 
+          [
+            -80.14900337909111, 
+            25.72026269332895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "929.65", 
+        "ANGLE": "S09-25-12W", 
+        "SHAPE_LEN": 929.686331189
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14900337909111, 
+            25.72026269332895
+          ], 
+          [
+            -80.14991163147029, 
+            25.717522125911955
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1040.06", 
+        "ANGLE": "S16-20-30W", 
+        "SHAPE_LEN": 1040.04626194
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14991163147029, 
+            25.717522125911955
+          ], 
+          [
+            -80.15132995037723, 
+            25.71495897005055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1042.09", 
+        "ANGLE": "S26-15-09W", 
+        "SHAPE_LEN": 1042.13488618
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15132995037723, 
+            25.71495897005055
+          ], 
+          [
+            -80.15234407538375, 
+            25.71210353224379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1090.31", 
+        "ANGLE": "S17-28-10W", 
+        "SHAPE_LEN": 1090.27176078
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15234407538375, 
+            25.71210353224379
+          ], 
+          [
+            -80.15330393924881, 
+            25.70950604805637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "995.56", 
+        "ANGLE": "S18-08-28W", 
+        "SHAPE_LEN": 995.616661081
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15330393924881, 
+            25.70950604805637
+          ], 
+          [
+            -80.15430980070226, 
+            25.70689308791953
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1005.86", 
+        "ANGLE": "S18-51-30W", 
+        "SHAPE_LEN": 1005.83947093
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15430980070226, 
+            25.70689308791953
+          ], 
+          [
+            -80.15564088323981, 
+            25.70426076587277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1052.39", 
+        "ANGLE": "S24-14-54W", 
+        "SHAPE_LEN": 1052.40040806
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15564088323981, 
+            25.70426076587277
+          ], 
+          [
+            -80.15641295516633, 
+            25.701573867697736
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1009.16", 
+        "ANGLE": "S14-13-14W", 
+        "SHAPE_LEN": 1009.16607927
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15641295516633, 
+            25.701573867697736
+          ], 
+          [
+            -80.15724617223619, 
+            25.698581237227277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1121.77", 
+        "ANGLE": "S13-47-30W", 
+        "SHAPE_LEN": 1121.81306751
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15724617223619, 
+            25.698581237227277
+          ], 
+          [
+            -80.15749270469554, 
+            25.695939611908805
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "963.57", 
+        "ANGLE": "S04-28-06W", 
+        "SHAPE_LEN": 963.584471921
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15749270469554, 
+            25.695939611908805
+          ], 
+          [
+            -80.15754621914047, 
+            25.69327013094807
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "970.47", 
+        "ANGLE": "S00-40-42W", 
+        "SHAPE_LEN": 970.442566397
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15754621914047, 
+            25.69327013094807
+          ], 
+          [
+            -80.15748937081995, 
+            25.690533638052145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "994.81", 
+        "ANGLE": "S01-26-39E", 
+        "SHAPE_LEN": 994.815333775
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15748937081995, 
+            25.690533638052145
+          ], 
+          [
+            -80.15732607006369, 
+            25.687822837475103
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "986.77", 
+        "ANGLE": "S03-29-21E", 
+        "SHAPE_LEN": 986.767061109
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15732607006369, 
+            25.687822837475103
+          ], 
+          [
+            -80.15682359744287, 
+            25.68522717822192
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "957.82", 
+        "ANGLE": "S10-18-58E", 
+        "SHAPE_LEN": 957.853283686
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15682359744287, 
+            25.68522717822192
+          ], 
+          [
+            -80.15612244788231, 
+            25.682498733465042
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1018.23", 
+        "ANGLE": "S13-28-25E", 
+        "SHAPE_LEN": 1018.24433957
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15612244788231, 
+            25.682498733465042
+          ], 
+          [
+            -80.15580838409569, 
+            25.67980554433058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "984.35", 
+        "ANGLE": "S06-23-54E", 
+        "SHAPE_LEN": 984.348434879
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15580838409569, 
+            25.67980554433058
+          ], 
+          [
+            -80.15543589738084, 
+            25.67700316516568
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1025.95", 
+        "ANGLE": "S07-14-00E", 
+        "SHAPE_LEN": 1025.94744931
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15543589738084, 
+            25.67700316516568
+          ], 
+          [
+            -80.15438268512794, 
+            25.674025828941968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1136.40", 
+        "ANGLE": "S18-08-24E", 
+        "SHAPE_LEN": 1136.41957961
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15438268512794, 
+            25.674025828941968
+          ], 
+          [
+            -80.15432102107715, 
+            25.671335987483634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "977.88", 
+        "ANGLE": "S01-33-30E", 
+        "SHAPE_LEN": 977.891708078
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15432102107715, 
+            25.671335987483634
+          ], 
+          [
+            -80.1559887799423, 
+            25.668984849793397
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1015.90", 
+        "ANGLE": "S32-22-05W", 
+        "SHAPE_LEN": 1015.90941869
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1559887799423, 
+            25.668984849793397
+          ], 
+          [
+            -80.15927178316616, 
+            25.664356065301806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S32-22-05W", 
+        "SHAPE_LEN": 2000.01081599
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12165088822884, 
+            25.980191406886966
+          ], 
+          [
+            -80.1188877371417, 
+            25.97519945277677
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2028.93", 
+        "ANGLE": "S26-57-54E", 
+        "SHAPE_LEN": 2028.94515081
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1188877371417, 
+            25.97519945277677
+          ], 
+          [
+            -80.11875520209196, 
+            25.977947928970774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1000.00", 
+        "ANGLE": "N02-06-29E", 
+        "SHAPE_LEN": 999.990212413
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11875520209196, 
+            25.977947928970774
+          ], 
+          [
+            -80.1188877371417, 
+            25.97519945277677
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1000.00", 
+        "ANGLE": "S02-06-29W", 
+        "SHAPE_LEN": 999.990212413
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1188877371417, 
+            25.97519945277677
+          ], 
+          [
+            -80.11902458450608, 
+            25.972355915272022
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1034.50", 
+        "ANGLE": "S02-06-29W", 
+        "SHAPE_LEN": 1034.57252716
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11902458450608, 
+            25.972355915272022
+          ], 
+          [
+            -80.11917483523914, 
+            25.969320561177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1104.45", 
+        "ANGLE": "S02-10-24W", 
+        "SHAPE_LEN": 1104.42171425
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11917483523914, 
+            25.969320561177
+          ], 
+          [
+            -80.11930038012822, 
+            25.966383581409225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1068.36", 
+        "ANGLE": "S01-49-40W", 
+        "SHAPE_LEN": 1068.3560395
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11930038012822, 
+            25.966383581409225
+          ], 
+          [
+            -80.11944416363899, 
+            25.963422294441763
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1077.45", 
+        "ANGLE": "S02-07-44W", 
+        "SHAPE_LEN": 1077.43061722
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11944416363899, 
+            25.963422294441763
+          ], 
+          [
+            -80.11953957348719, 
+            25.960621487162804
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1018.50", 
+        "ANGLE": "S01-22-39W", 
+        "SHAPE_LEN": 1018.5439258
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11953957348719, 
+            25.960621487162804
+          ], 
+          [
+            -80.11948365886819, 
+            25.957323337773758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1199.00", 
+        "ANGLE": "S01-15-48E", 
+        "SHAPE_LEN": 1198.97976886
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11948365886819, 
+            25.957323337773758
+          ], 
+          [
+            -80.11959510902798, 
+            25.954819235729552
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "910.92", 
+        "ANGLE": "S01-55-14W", 
+        "SHAPE_LEN": 910.948109062
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11959510902798, 
+            25.954819235729552
+          ], 
+          [
+            -80.11978657512957, 
+            25.952654704424805
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "789.33", 
+        "ANGLE": "S04-11-00W", 
+        "SHAPE_LEN": 789.293096828
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11978657512957, 
+            25.952654704424805
+          ], 
+          [
+            -80.11994454444708, 
+            25.9485474572373
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1493.85", 
+        "ANGLE": "S01-36-26W", 
+        "SHAPE_LEN": 1493.83706543
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11994454444708, 
+            25.9485474572373
+          ], 
+          [
+            -80.12011931354847, 
+            25.945632431200316
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1061.11", 
+        "ANGLE": "S02-42-59W", 
+        "SHAPE_LEN": 1061.13171993
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12011931354847, 
+            25.945632431200316
+          ], 
+          [
+            -80.12028289024914, 
+            25.9426358335803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1090.49", 
+        "ANGLE": "S02-26-30W", 
+        "SHAPE_LEN": 1090.55180474
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12028289024914, 
+            25.9426358335803
+          ], 
+          [
+            -80.12046596219808, 
+            25.939829185369142
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1021.92", 
+        "ANGLE": "S02-59-25W", 
+        "SHAPE_LEN": 1021.95396349
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12046596219808, 
+            25.939829185369142
+          ], 
+          [
+            -80.12084883399478, 
+            25.936774249775564
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1117.56", 
+        "ANGLE": "S06-04-47W", 
+        "SHAPE_LEN": 1117.53697281
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12084883399478, 
+            25.936774249775564
+          ], 
+          [
+            -80.12115766921339, 
+            25.93428887628619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "909.08", 
+        "ANGLE": "S06-01-31W", 
+        "SHAPE_LEN": 909.085470593
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12115766921339, 
+            25.93428887628619
+          ], 
+          [
+            -80.12132456215569, 
+            25.931248273108213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1106.59", 
+        "ANGLE": "S02-27-28W", 
+        "SHAPE_LEN": 1106.57989545
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12132456215569, 
+            25.931248273108213
+          ], 
+          [
+            -80.12162539984966, 
+            25.928119067312384
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1141.72", 
+        "ANGLE": "S04-35-09W", 
+        "SHAPE_LEN": 1141.71466848
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12162539984966, 
+            25.928119067312384
+          ], 
+          [
+            -80.1217729397317, 
+            25.925248574141236
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1044.48", 
+        "ANGLE": "S02-16-33W", 
+        "SHAPE_LEN": 1044.51216452
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1217729397317, 
+            25.925248574141236
+          ], 
+          [
+            -80.12188102510581, 
+            25.92218439574516
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1114.38", 
+        "ANGLE": "S01-26-38W", 
+        "SHAPE_LEN": 1114.35379217
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12188102510581, 
+            25.92218439574516
+          ], 
+          [
+            -80.12191108718376, 
+            25.92133480127453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "309.00", 
+        "ANGLE": "S01-26-38W", 
+        "SHAPE_LEN": 308.974040548
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12191108718376, 
+            25.92133480127453
+          ], 
+          [
+            -80.12230353482816, 
+            25.92133717846491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "129.00", 
+        "ANGLE": "N90-00-00W", 
+        "SHAPE_LEN": 129.00044812
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12230353482816, 
+            25.92133717846491
+          ], 
+          [
+            -80.12236060642876, 
+            25.919176632679168
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "785.53", 
+        "ANGLE": "S00-59-13W", 
+        "SHAPE_LEN": 785.552689579
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12236060642876, 
+            25.919176632679168
+          ], 
+          [
+            -80.12242379371266, 
+            25.916420141546315
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1002.14", 
+        "ANGLE": "S00-48-03W", 
+        "SHAPE_LEN": 1002.1615044
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12242379371266, 
+            25.916420141546315
+          ], 
+          [
+            -80.12251485946673, 
+            25.913699067229288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "989.45", 
+        "ANGLE": "S01-21-10W", 
+        "SHAPE_LEN": 989.525233269
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12251485946673, 
+            25.913699067229288
+          ], 
+          [
+            -80.1225430547991, 
+            25.910993776522595
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "983.41", 
+        "ANGLE": "S00-09-22W", 
+        "SHAPE_LEN": 983.378519859
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1225430547991, 
+            25.910993776522595
+          ], 
+          [
+            -80.12255774155042, 
+            25.908238194356198
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1001.61", 
+        "ANGLE": "S00-06-24E", 
+        "SHAPE_LEN": 1001.62633179
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12255774155042, 
+            25.908238194356198
+          ], 
+          [
+            -80.12256559503508, 
+            25.90679110912101
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "526.00", 
+        "ANGLE": "S00-06-24E", 
+        "SHAPE_LEN": 526.000964814
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12256559503508, 
+            25.90679110912101
+          ], 
+          [
+            -80.12257726799355, 
+            25.90554763679714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "452.01", 
+        "ANGLE": "S00-06-24W", 
+        "SHAPE_LEN": 452.000475682
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12257726799355, 
+            25.90554763679714
+          ], 
+          [
+            -80.12303720105116, 
+            25.902612476693225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1077.58", 
+        "ANGLE": "S07-41-01W", 
+        "SHAPE_LEN": 1077.5489371
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12303720105116, 
+            25.902612476693225
+          ], 
+          [
+            -80.12389094602366, 
+            25.897164575509453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S07-41-01W", 
+        "SHAPE_LEN": 2000.0236761
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12379935004944, 
+            25.89896176480311
+          ], 
+          [
+            -80.12328993341438, 
+            25.899490698254375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "254.97", 
+        "ANGLE": "N40-40-36E", 
+        "SHAPE_LEN": 254.97459956
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12328993341438, 
+            25.899490698254375
+          ], 
+          [
+            -80.12376385927497, 
+            25.90497619808825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "N04-51-00W", 
+        "SHAPE_LEN": 1999.9763521
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12376385927497, 
+            25.90497619808825
+          ], 
+          [
+            -80.12328993341438, 
+            25.899490698254375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2000.00", 
+        "ANGLE": "S04-51-00E", 
+        "SHAPE_LEN": 1999.9763521
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12328993341438, 
+            25.899490698254375
+          ], 
+          [
+            -80.12304721181916, 
+            25.89668059389778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1024.56", 
+        "ANGLE": "S04-51-00E", 
+        "SHAPE_LEN": 1024.5433241
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12304721181916, 
+            25.89668059389778
+          ], 
+          [
+            -80.1228160746489, 
+            25.893898587045882
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1014.06", 
+        "ANGLE": "S04-40-47E", 
+        "SHAPE_LEN": 1014.06893487
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1228160746489, 
+            25.893898587045882
+          ], 
+          [
+            -80.12257097202077, 
+            25.891232730915487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "972.34", 
+        "ANGLE": "S05-08-23E", 
+        "SHAPE_LEN": 972.343344985
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12257097202077, 
+            25.891232730915487
+          ], 
+          [
+            -80.12229480430263, 
+            25.888064935527485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1155.01", 
+        "ANGLE": "S04-53-26E", 
+        "SHAPE_LEN": 1155.01982586
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12229480430263, 
+            25.888064935527485
+          ], 
+          [
+            -80.12215897656694, 
+            25.885276793832364
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1014.37", 
+        "ANGLE": "S02-54-31E", 
+        "SHAPE_LEN": 1014.43005382
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12215897656694, 
+            25.885276793832364
+          ], 
+          [
+            -80.1219559169781, 
+            25.88260998562862
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "971.64", 
+        "ANGLE": "S04-19-21E", 
+        "SHAPE_LEN": 971.640013026
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1219559169781, 
+            25.88260998562862
+          ], 
+          [
+            -80.12173392526552, 
+            25.879830949652337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1012.78", 
+        "ANGLE": "S04-31-00E", 
+        "SHAPE_LEN": 1012.76991745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12173392526552, 
+            25.879830949652337
+          ], 
+          [
+            -80.12137614089659, 
+            25.876447025699466
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1235.60", 
+        "ANGLE": "S05-50-49E", 
+        "SHAPE_LEN": 1235.61642275
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12137614089659, 
+            25.876447025699466
+          ], 
+          [
+            -80.12090595790066, 
+            25.87333152480893
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1142.94", 
+        "ANGLE": "S08-09-22E", 
+        "SHAPE_LEN": 1142.94058396
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12090595790066, 
+            25.87333152480893
+          ], 
+          [
+            -80.12077907902591, 
+            25.870443529175276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1050.59", 
+        "ANGLE": "S02-39-37E", 
+        "SHAPE_LEN": 1050.56890561
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12077907902591, 
+            25.870443529175276
+          ], 
+          [
+            -80.12065444171935, 
+            25.867433286010943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1094.90", 
+        "ANGLE": "S02-31-42E", 
+        "SHAPE_LEN": 1094.94207874
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12065444171935, 
+            25.867433286010943
+          ], 
+          [
+            -80.12054052840374, 
+            25.86428434595676
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1145.21", 
+        "ANGLE": "S02-15-37E", 
+        "SHAPE_LEN": 1145.20118172
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12054052840374, 
+            25.86428434595676
+          ], 
+          [
+            -80.12038540993434, 
+            25.86123350786831
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1110.10", 
+        "ANGLE": "S03-01-04E", 
+        "SHAPE_LEN": 1110.10213942
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12038540993434, 
+            25.86123350786831
+          ], 
+          [
+            -80.12021771910823, 
+            25.858469751677443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1006.06", 
+        "ANGLE": "S03-31-25E", 
+        "SHAPE_LEN": 1006.0921303
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12021771910823, 
+            25.858469751677443
+          ], 
+          [
+            -80.12003076943083, 
+            25.855356130236814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1133.44", 
+        "ANGLE": "S03-29-37E", 
+        "SHAPE_LEN": 1133.41818576
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12003076943083, 
+            25.855356130236814
+          ], 
+          [
+            -80.11986700419273, 
+            25.852295091100803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1113.90", 
+        "ANGLE": "S03-09-25E", 
+        "SHAPE_LEN": 1113.93897713
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11986700419273, 
+            25.852295091100803
+          ], 
+          [
+            -80.11977516900028, 
+            25.849837178572855
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "893.92", 
+        "ANGLE": "S02-19-09E", 
+        "SHAPE_LEN": 893.919867774
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11977516900028, 
+            25.849837178572855
+          ], 
+          [
+            -80.11983433229794, 
+            25.84710780849634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "992.26", 
+        "ANGLE": "S00-44-29W", 
+        "SHAPE_LEN": 992.270126348
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11983433229794, 
+            25.84710780849634
+          ], 
+          [
+            -80.11991735760031, 
+            25.844696520297035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "876.90", 
+        "ANGLE": "S01-23-52W", 
+        "SHAPE_LEN": 876.886978779
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.11991735760031, 
+            25.844696520297035
+          ], 
+          [
+            -80.12049099776318, 
+            25.84190148392337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1033.31", 
+        "ANGLE": "S10-08-22W", 
+        "SHAPE_LEN": 1033.31914933
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12049099776318, 
+            25.84190148392337
+          ], 
+          [
+            -80.12052932741732, 
+            25.836280270164284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "2043.30", 
+        "ANGLE": "S00-01-51E", 
+        "SHAPE_LEN": 2043.25096637
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12052932741732, 
+            25.836280270164284
+          ], 
+          [
+            -80.1203780385693, 
+            25.8336388625449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "961.34", 
+        "ANGLE": "S03-21-03E", 
+        "SHAPE_LEN": 961.393419009
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1203780385693, 
+            25.8336388625449
+          ], 
+          [
+            -80.12070738516914, 
+            25.83098162315263
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "971.88", 
+        "ANGLE": "S06-01-12W", 
+        "SHAPE_LEN": 971.915712173
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12070738516914, 
+            25.83098162315263
+          ], 
+          [
+            -80.12086054532035, 
+            25.827815710323463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1151.86", 
+        "ANGLE": "S02-07-16W", 
+        "SHAPE_LEN": 1151.8543077
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12086054532035, 
+            25.827815710323463
+          ], 
+          [
+            -80.12119351966709, 
+            25.824662921537563
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1151.19", 
+        "ANGLE": "S05-04-39W", 
+        "SHAPE_LEN": 1151.20400002
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12119351966709, 
+            25.824662921537563
+          ], 
+          [
+            -80.12158567849114, 
+            25.821313947304297
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1224.10", 
+        "ANGLE": "S05-40-06W", 
+        "SHAPE_LEN": 1224.10734771
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12158567849114, 
+            25.821313947304297
+          ], 
+          [
+            -80.12171002699307, 
+            25.818339239854364
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1082.06", 
+        "ANGLE": "S01-47-05W", 
+        "SHAPE_LEN": 1082.02418733
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12171002699307, 
+            25.818339239854364
+          ], 
+          [
+            -80.1221542239874, 
+            25.815347545100533
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1097.22", 
+        "ANGLE": "S07-16-17W", 
+        "SHAPE_LEN": 1097.20013397
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1221542239874, 
+            25.815347545100533
+          ], 
+          [
+            -80.12272685467234, 
+            25.812480261086886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1059.08", 
+        "ANGLE": "S09-51-51W", 
+        "SHAPE_LEN": 1059.09382949
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12272685467234, 
+            25.812480261086886
+          ], 
+          [
+            -80.12316480848521, 
+            25.80981334206333
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "980.02", 
+        "ANGLE": "S08-04-13W", 
+        "SHAPE_LEN": 980.024116669
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12316480848521, 
+            25.80981334206333
+          ], 
+          [
+            -80.12346188322947, 
+            25.807030189794826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1016.32", 
+        "ANGLE": "S05-08-14W", 
+        "SHAPE_LEN": 1016.33276675
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12346188322947, 
+            25.807030189794826
+          ], 
+          [
+            -80.12435635174094, 
+            25.804662463278373
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "909.56", 
+        "ANGLE": "S18-29-53W", 
+        "SHAPE_LEN": 909.550361025
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12435635174094, 
+            25.804662463278373
+          ], 
+          [
+            -80.12535369347407, 
+            25.80219802315151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "953.94", 
+        "ANGLE": "S19-44-27W", 
+        "SHAPE_LEN": 953.989980715
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12535369347407, 
+            25.80219802315151
+          ], 
+          [
+            -80.12634271491677, 
+            25.79987779151253
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "903.94", 
+        "ANGLE": "S20-42-55W", 
+        "SHAPE_LEN": 903.96408071
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12634271491677, 
+            25.79987779151253
+          ], 
+          [
+            -80.12741338913091, 
+            25.797321782110654
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "993.61", 
+        "ANGLE": "S20-23-14W", 
+        "SHAPE_LEN": 993.609431053
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12741338913091, 
+            25.797321782110654
+          ], 
+          [
+            -80.12805502798635, 
+            25.795246030329853
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "783.47", 
+        "ANGLE": "S15-15-08W", 
+        "SHAPE_LEN": 783.476754824
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12805502798635, 
+            25.795246030329853
+          ], 
+          [
+            -80.12866845297948, 
+            25.792323756065375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1081.16", 
+        "ANGLE": "S10-22-49W", 
+        "SHAPE_LEN": 1081.19556633
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12866845297948, 
+            25.792323756065375
+          ], 
+          [
+            -80.12930822722136, 
+            25.789143876695857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1174.84", 
+        "ANGLE": "S09-56-33W", 
+        "SHAPE_LEN": 1174.8367223
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12930822722136, 
+            25.789143876695857
+          ], 
+          [
+            -80.1298099823446, 
+            25.7866011147378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "938.90", 
+        "ANGLE": "S09-45-05W", 
+        "SHAPE_LEN": 938.873344239
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1298099823446, 
+            25.7866011147378
+          ], 
+          [
+            -80.13035277354848, 
+            25.783845543782167
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DISTANCE": "1017.41", 
+        "ANGLE": "S09-43-58W", 
+        "SHAPE_LEN": 1017.3944939
+      }
+    }
+  ]
+}

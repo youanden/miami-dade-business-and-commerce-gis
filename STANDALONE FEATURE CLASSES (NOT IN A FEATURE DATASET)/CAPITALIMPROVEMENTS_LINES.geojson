@@ -1,0 +1,5401 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1825984890239, 
+            25.969803196028057
+          ], 
+          [
+            -80.17848294080495, 
+            25.969856413363583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/12/2007", 
+        "DSGNSEND": "1/15/2007", 
+        "FUNDING": "222201", 
+        "SITENO": 70008.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "3/1/2006", 
+        "DESCRIPT": "NE 211 St from NE 10 Ave - NE 12 Ave", 
+        "ZIPCODE1": "33179", 
+        "XCOORD2": 926068.6875, 
+        "SHAPE_LEN": 1352.34852722, 
+        "XCOORD1": 924716.625, 
+        "CONSTEND": "3/10/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 595582.0625, 
+        "YCOORD1": 595554.25, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE 211TH ST and NE 12TH AVE", 
+        "LOCATION1": "NE 211 ST from NE 10 AVE - NE 12 Ave", 
+        "ID": 1
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24295037592672, 
+            25.933760088856953
+          ], 
+          [
+            -80.24494727624717, 
+            25.933653753373996
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/28/2006", 
+        "DSGNSEND": "7/1/2006", 
+        "FUNDING": "211513", 
+        "SITENO": 70009.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "7/1/2005", 
+        "DESCRIPT": "NW 175 St from NW 25 Ave to NW 27 Ave", 
+        "ZIPCODE1": "33056", 
+        "XCOORD2": 904307.5, 
+        "SHAPE_LEN": 657.43360525, 
+        "XCOORD1": 904963.5625, 
+        "CONSTEND": "9/11/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 582291.8125, 
+        "YCOORD1": 582334.25, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33056", 
+        "LOCATION2": "NW 175TH ST and NW 27TH AVE", 
+        "LOCATION1": "NW 175 ST from NW 25  AVE - NW 27 AVE", 
+        "ID": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.23266678791795, 
+            25.82417746219389
+          ], 
+          [
+            -80.2327738427485, 
+            25.826374580770104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/27/2014", 
+        "DSGNSEND": "6/30/2014", 
+        "FUNDING": "0", 
+        "SITENO": 70025.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "1/1/2014", 
+        "DESCRIPT": "Drainage Improvements on NW 22 Ave from NW 54 St to NW 56 St", 
+        "ZIPCODE1": "33142", 
+        "XCOORD2": 908536.25, 
+        "SHAPE_LEN": 799.370162221, 
+        "XCOORD1": 908576.125, 
+        "CONSTEND": "2/20/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 543322.3125, 
+        "YCOORD1": 542523.9375, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33142", 
+        "LOCATION2": "NW 22ND AVE and NW 56TH ST", 
+        "LOCATION1": "NW 22ND AVE and NW 54TH ST", 
+        "ID": 3
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.16600718597846, 
+            25.92584193212877
+          ], 
+          [
+            -80.15591756568519, 
+            25.92610334227021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/28/2019", 
+        "DSGNSEND": "9/1/2018", 
+        "FUNDING": "1500000", 
+        "SITENO": 70035.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "9/1/2017", 
+        "DESCRIPT": "Local Drainage Improvement- N Miami Beach Blvd from NE 17 Ave to US1", 
+        "ZIPCODE1": "33162", 
+        "XCOORD2": 933585.1875, 
+        "SHAPE_LEN": 3317.66230999, 
+        "XCOORD1": 930269.5625, 
+        "CONSTEND": "12/23/2019", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 579726.0, 
+        "YCOORD1": 579609.75, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33160", 
+        "LOCATION2": "N MIAMI BEACH BLVD and W DIXIE HWY", 
+        "LOCATION1": "N MIAMI BEACH BLVD from NE 17 AVE to US-1", 
+        "ID": 4
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.44769691619578, 
+            25.728013400990225
+          ], 
+          [
+            -80.44681441737356, 
+            25.706115141790214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/29/2017", 
+        "DSGNSEND": "11/15/2005", 
+        "FUNDING": "1100000", 
+        "SITENO": 70094.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "11/15/2004", 
+        "DESCRIPT": "(SW 157 Avenue Canal)", 
+        "ZIPCODE1": "33185", 
+        "XCOORD2": 838312.0625, 
+        "SHAPE_LEN": 7964.33801883, 
+        "XCOORD1": 837988.1875, 
+        "CONSTEND": "6/29/2018", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 499260.03125, 
+        "YCOORD1": 507217.78125, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33193", 
+        "LOCATION2": "SW 157TH AVE and SW 64TH ST", 
+        "LOCATION1": "SW 157 AVE and SW 42 ST - SW 64 ST", 
+        "ID": 5
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.34416175971543, 
+            25.76184289090009
+          ], 
+          [
+            -80.3444052841097, 
+            25.76933125486928
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/16/2012", 
+        "DSGNSEND": null, 
+        "FUNDING": "1250000", 
+        "SITENO": 70115.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Local Drainage Improvement- SW 92 AVE FROM W FLAGLER TO SW 8 ST", 
+        "ZIPCODE1": "33174", 
+        "XCOORD2": 871918.625, 
+        "SHAPE_LEN": 2722.92472726, 
+        "XCOORD1": 872012.3125, 
+        "CONSTEND": "9/9/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 522390.6875, 
+        "YCOORD1": 519669.375, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33174", 
+        "LOCATION2": "SW 92ND AVE and W FLAGLER ST", 
+        "LOCATION1": "SW 92 AVE from W FLAGLER ST - SW 8 ST", 
+        "ID": 6
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12274028055417, 
+            25.88707581807761
+          ], 
+          [
+            -80.12203708513138, 
+            25.929890579425788
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2017", 
+        "DSGNSEND": "9/30/2017", 
+        "FUNDING": "0", 
+        "SITENO": 70232.0, 
+        "PROJECTNO": 17.24, 
+        "DSGNSTART": "10/1/2016", 
+        "DESCRIPT": "WASD/MUNI  Bal Harbour/ Force Main", 
+        "ZIPCODE1": "33154", 
+        "XCOORD2": 944711.75, 
+        "SHAPE_LEN": 15564.2681506, 
+        "XCOORD1": 944584.75, 
+        "CONSTEND": "9/30/2019", 
+        "DEPT": "WASD", 
+        "YCOORD2": 581175.75, 
+        "YCOORD1": 565612.0, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33160", 
+        "LOCATION2": "COLLINS AVE and SUNNY ISLES BLVD", 
+        "LOCATION1": "COLLINS AVE and 96TH ST", 
+        "ID": 7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33819960358562, 
+            25.840732782377952
+          ], 
+          [
+            -80.33953842857036, 
+            25.88407470056668
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": null, 
+        "SITENO": 70268.0, 
+        "PROJECTNO": 17.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "WASD/MUNI Hialeah/ 87 Ave Water Main.  (HIALEAH)", 
+        "ZIPCODE1": "33178", 
+        "XCOORD2": 873310.875, 
+        "SHAPE_LEN": 15759.5668148, 
+        "XCOORD1": 873830.4375, 
+        "CONSTEND": null, 
+        "DEPT": "WASD", 
+        "YCOORD2": 564103.5625, 
+        "YCOORD1": 548352.5625, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33016", 
+        "LOCATION2": "NW 122ND ST and NW 87TH AVE", 
+        "LOCATION1": "NW 74TH ST and NW 87TH AVE", 
+        "ID": 8
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24398488638612, 
+            25.79629915146594
+          ], 
+          [
+            -80.24810990992128, 
+            25.799542820608522
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/25/2014", 
+        "DSGNSEND": "3/30/2014", 
+        "FUNDING": "114215", 
+        "SITENO": 70502.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Drainage Improvements on  Riverside Manor- NW North River Drive Between NW 30 AVE to NW 32 AVE", 
+        "ZIPCODE1": "33142", 
+        "XCOORD2": 903547.1875, 
+        "SHAPE_LEN": 1797.82539757, 
+        "XCOORD1": 904911.1875, 
+        "CONSTEND": "1/19/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 533540.75, 
+        "YCOORD1": 532369.5625, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33142", 
+        "LOCATION2": "NW NORTH RIVER DR and NW 32ND AVE", 
+        "LOCATION1": "NW NORTH RIVER DR and NW 30TH AVE", 
+        "ID": 9
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30650412317961, 
+            25.79380677585331
+          ], 
+          [
+            -80.30622199682432, 
+            25.84184486944784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/1/2010", 
+        "DSGNSEND": "2/28/2008", 
+        "FUNDING": "1531387", 
+        "SITENO": 70815.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "5/1/2007", 
+        "DESCRIPT": "FEC Borrow Ditch Canal Dredging - NW 67 AVE FROM NW 20 ST - NW 74 ST (DISTRICT 12)", 
+        "ZIPCODE1": "33122", 
+        "XCOORD2": 884345.9375, 
+        "SHAPE_LEN": 17460.5625161, 
+        "XCOORD1": 884345.1875, 
+        "CONSTEND": "6/1/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 548811.0, 
+        "YCOORD1": 531350.4375, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33010", 
+        "LOCATION2": "W OKEECHOBEE RD and W 12TH AVE", 
+        "LOCATION1": "NW 67TH AVE and NW 22ND ST", 
+        "ID": 10
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30650412317961, 
+            25.79380677585331
+          ], 
+          [
+            -80.30622199682432, 
+            25.84184486944784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/1/2010", 
+        "DSGNSEND": "2/28/2008", 
+        "FUNDING": "1387282", 
+        "SITENO": 70841.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "5/1/2007", 
+        "DESCRIPT": "FEC Borrow Ditch Canal Dredging-NW 67 AVE FROM NW 20 ST - NW 74 ST (DISTRICT 6)", 
+        "ZIPCODE1": "33122", 
+        "XCOORD2": 884345.9375, 
+        "SHAPE_LEN": 17460.5625161, 
+        "XCOORD1": 884345.1875, 
+        "CONSTEND": "6/1/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 548811.0, 
+        "YCOORD1": 531350.4375, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33010", 
+        "LOCATION2": "W 12TH AVE and W OKEECHOBEE RD", 
+        "LOCATION1": "NW 67TH AVE and NW 22ND ST", 
+        "ID": 11
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24616651429285, 
+            25.855571097796183
+          ], 
+          [
+            -80.25027611161369, 
+            25.85547252371505
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/9/2007", 
+        "DSGNSEND": "8/17/2006", 
+        "FUNDING": "408252", 
+        "SITENO": 71160.0, 
+        "PROJECTNO": 17.21, 
+        "DSGNSTART": "2/14/2006", 
+        "DESCRIPT": "ID UWMR-197, Atlas J8.  (Needs Assessment Project)-Replacement of undersized 2-inch water main and installation of new 8-inch water main to improve pressure and fire hydrants to provide fire protection to surrounding area.", 
+        "ZIPCODE1": "33147", 
+        "XCOORD2": 902718.5625, 
+        "SHAPE_LEN": 1352.01448367, 
+        "XCOORD1": 904069.875, 
+        "CONSTEND": "12/6/2007", 
+        "DEPT": "WASD", 
+        "YCOORD2": 553865.25, 
+        "YCOORD1": 553908.8125, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 90TH ST and NW 32ND AVE", 
+        "LOCATION1": "NW 90TH ST and NW 30TH AVE", 
+        "ID": 12
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.31940419019773, 
+            25.941567147735977
+          ], 
+          [
+            -80.29385617650225, 
+            25.939285978278686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/25/2009", 
+        "DSGNSEND": "1/6/2008", 
+        "FUNDING": "568201", 
+        "SITENO": 72332.0, 
+        "PROJECTNO": 17.12, 
+        "DSGNSTART": "5/16/2007", 
+        "DESCRIPT": "Miami Gardens Drive. Design a 30 inch sewage force main that will connect the discharge line of pump station #416 at NW 73rd Ave to an existing 24 inch force main at NW 57th Avenue.", 
+        "ZIPCODE1": "33015", 
+        "XCOORD2": 888222.5, 
+        "SHAPE_LEN": 8436.82016729, 
+        "XCOORD1": 879822.25, 
+        "CONSTEND": "9/23/2009", 
+        "DEPT": "WASD", 
+        "YCOORD2": 584249.3125, 
+        "YCOORD1": 585034.0, 
+        "COMMDIST": "District 13", 
+        "ZIPCODE2": "33055", 
+        "LOCATION2": "NW 183RD ST and NW 57TH AVE", 
+        "LOCATION1": "NW 186TH ST and NW 73RD AVE", 
+        "ID": 13
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.32295163976512, 
+            25.697318887618472
+          ], 
+          [
+            -80.3231185032767, 
+            25.702783865234007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/19/2008", 
+        "DSGNSEND": "11/30/2007", 
+        "FUNDING": "1332362", 
+        "SITENO": 73030.0, 
+        "PROJECTNO": 17.22, 
+        "DSGNSTART": "8/1/2007", 
+        "DESCRIPT": "Water Main Installation South of Sunset Dr. & West of SR-826", 
+        "ZIPCODE1": "33143", 
+        "XCOORD2": 879048.25, 
+        "SHAPE_LEN": 1987.06750404, 
+        "XCOORD1": 879113.375, 
+        "CONSTEND": "9/29/2008", 
+        "DEPT": "WASD", 
+        "YCOORD2": 498238.90625, 
+        "YCOORD1": 496252.90625, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33143", 
+        "LOCATION2": "SW 79TH CT and SW 72ND ST", 
+        "LOCATION1": "SW 79TH CT and SW 78TH ST", 
+        "ID": 14
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.38046375853958, 
+            25.66005472982064
+          ], 
+          [
+            -80.38002564650199, 
+            25.658367983948853
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/10/2009", 
+        "DSGNSEND": "7/12/2008", 
+        "FUNDING": "149341", 
+        "SITENO": 73122.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "1/14/2008", 
+        "DESCRIPT": "Local Drainage Improvements at SW 114 Ct & SW 116 ter-118 St.", 
+        "ZIPCODE1": "33176", 
+        "XCOORD2": 860385.25, 
+        "SHAPE_LEN": 629.815291003, 
+        "XCOORD1": 860238.0625, 
+        "CONSTEND": "8/9/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 482003.84375, 
+        "YCOORD1": 482616.21875, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33176", 
+        "LOCATION2": "SW 114TH CT and SW 118TH ST", 
+        "LOCATION1": "SW 114TH CT and SW 116TH TER", 
+        "ID": 15
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.41911149119551, 
+            25.71433817660398
+          ], 
+          [
+            -80.43681561712087, 
+            25.71371060584673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/23/2009", 
+        "DSGNSEND": "10/10/2008", 
+        "FUNDING": "573097", 
+        "SITENO": 73123.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "1/14/2008", 
+        "DESCRIPT": "Local Drainage Imp. at SW 56 St & SW 139-150 Avenue", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 841592.625, 
+        "SHAPE_LEN": 5833.62872244, 
+        "XCOORD1": 847420.75, 
+        "CONSTEND": "12/22/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 502034.53125, 
+        "YCOORD1": 502287.875, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33185", 
+        "LOCATION2": "SW 56TH ST and SW 150TH AVE", 
+        "LOCATION1": "SW 56TH ST and SW 140TH AVE", 
+        "ID": 16
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.43133949190454, 
+            25.721194105871895
+          ], 
+          [
+            -80.43108228082542, 
+            25.713927283137355
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/26/2009", 
+        "DSGNSEND": "10/10/2008", 
+        "FUNDING": "476522", 
+        "SITENO": 73124.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "1/14/2008", 
+        "DESCRIPT": "Local Drainage Imp. at SW 147 Ave & SW 47-56 Street", 
+        "ZIPCODE1": "33185", 
+        "XCOORD2": 843480.0, 
+        "SHAPE_LEN": 2642.52788335, 
+        "XCOORD1": 843383.9375, 
+        "CONSTEND": "12/28/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 502121.375, 
+        "YCOORD1": 504762.15625, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33185", 
+        "LOCATION2": "SW 147TH AVE and SW 56TH ST", 
+        "LOCATION1": "SW 147TH AVE and SW 47TH ST", 
+        "ID": 17
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.43064341057566, 
+            25.703275700636954
+          ], 
+          [
+            -80.43048891444906, 
+            25.699444724442618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/25/2009", 
+        "DSGNSEND": "7/12/2008", 
+        "FUNDING": "234194", 
+        "SITENO": 73125.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "1/14/2008", 
+        "DESCRIPT": "Local Drainage Imp. at SW 147 Ave & SW 67 Ter- 72 Street.", 
+        "ZIPCODE1": "33193", 
+        "XCOORD2": 843698.0625, 
+        "SHAPE_LEN": 1393.31754817, 
+        "XCOORD1": 843641.1875, 
+        "CONSTEND": "9/23/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 496858.5, 
+        "YCOORD1": 498250.65625, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33193", 
+        "LOCATION2": "SW 147TH AVE and SUNSET DR", 
+        "LOCATION1": "SW 147TH AVE and SW 67TH LN", 
+        "ID": 18
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.39125689687384, 
+            25.65087958951922
+          ], 
+          [
+            -80.39139433057034, 
+            25.65355744848307
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/21/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "359758", 
+        "SITENO": 73243.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Drainage Imp.for SW 122 Ave & SW 126-123 Terr & Canal C-100 to SW 111 St.", 
+        "ZIPCODE1": "33186", 
+        "XCOORD2": 856648.375, 
+        "SHAPE_LEN": 974.333460067, 
+        "XCOORD1": 856698.125, 
+        "CONSTEND": "8/20/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 480238.0625, 
+        "YCOORD1": 479265.0, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33186", 
+        "LOCATION2": "SW 122ND AVE and SW 123RD TER", 
+        "LOCATION1": "SW 122ND AVE and SW 126TH TER", 
+        "ID": 19
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24490506728122, 
+            25.82475743473709
+          ], 
+          [
+            -80.24891499006263, 
+            25.824598866118443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/9/2008", 
+        "DSGNSEND": "2/9/2008", 
+        "FUNDING": "130972", 
+        "SITENO": 73315.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "3/12/2007", 
+        "DESCRIPT": "Drainage Improvements at NW 55 St & NW 30-32 Ave", 
+        "ZIPCODE1": "33142", 
+        "XCOORD2": 903230.3125, 
+        "SHAPE_LEN": 1320.36016778, 
+        "XCOORD1": 904549.0625, 
+        "CONSTEND": "10/9/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 542646.25, 
+        "YCOORD1": 542711.4375, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33142", 
+        "LOCATION2": "NW 55TH ST and NW 32ND AVE", 
+        "LOCATION1": "NW 55TH ST and NW 30TH AVE", 
+        "ID": 20
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.22834746698581, 
+            25.87222684177691
+          ], 
+          [
+            -80.22836306612089, 
+            25.874331295145712
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/20/2008", 
+        "DSGNSEND": "2/11/2007", 
+        "FUNDING": "816197", 
+        "SITENO": 73320.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "6/19/2006", 
+        "DESCRIPT": "Drainage Imp. at NW 18 Ave, from NW 107 St to NW 110 Street ; NW 134 St, from NW 19 Ave to NW 21 Ave ; NW 88 Ter, from NW 18 Ave to NW 20 Ave; NW 32 Ct and NW 96 Street; West Golf Drive and NW 123 Street; NW 91 St and NW 29th Court", 
+        "ZIPCODE1": "33167", 
+        "XCOORD2": 909884.8125, 
+        "SHAPE_LEN": 764.935556926, 
+        "XCOORD1": 909894.4375, 
+        "CONSTEND": "10/19/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 560761.5625, 
+        "YCOORD1": 559996.6875, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33167", 
+        "LOCATION2": "NW 18TH AVE and NW 110TH ST", 
+        "LOCATION1": "NW 18TH AVE and NW 107TH ST", 
+        "ID": 21
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.20294590732233, 
+            25.874471452210745
+          ], 
+          [
+            -80.20610415345244, 
+            25.87436272263053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/16/2009", 
+        "DSGNSEND": "11/15/2008", 
+        "FUNDING": "262510", 
+        "SITENO": 73353.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "5/19/2008", 
+        "DESCRIPT": "Local Drainage Improvements at NW 108 Ter & NW 2 Ct to 5 Ave", 
+        "ZIPCODE1": "33168", 
+        "XCOORD2": 917203.875, 
+        "SHAPE_LEN": 1039.26024058, 
+        "XCOORD1": 918242.125, 
+        "CONSTEND": "8/15/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 560816.625, 
+        "YCOORD1": 560862.4375, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33168", 
+        "LOCATION2": "NW 108TH TER and NW 5TH AVE", 
+        "LOCATION1": "NW 108TH TER and NW 2ND CT", 
+        "ID": 22
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.31939402507645, 
+            25.68845308627638
+          ], 
+          [
+            -80.31836471081216, 
+            25.67953841331673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/15/2009", 
+        "DSGNSEND": "11/15/2008", 
+        "FUNDING": "364012", 
+        "SITENO": 73354.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "5/19/2008", 
+        "DESCRIPT": "Local Drainage Improvements SW 77th Avenue from SW 88th Street to SW 98 Street", 
+        "ZIPCODE1": "33156", 
+        "XCOORD2": 880657.1875, 
+        "SHAPE_LEN": 3257.81887784, 
+        "XCOORD1": 880301.5, 
+        "CONSTEND": "9/14/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 489798.25, 
+        "YCOORD1": 493036.59375, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33156", 
+        "LOCATION2": "SW 77TH AVE and SW 98TH ST", 
+        "LOCATION1": "SW 77TH AVE and SW 88TH ST", 
+        "ID": 23
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24951294749528, 
+            25.83546901567922
+          ], 
+          [
+            -80.25153707206205, 
+            25.835392620755858
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/29/2009", 
+        "DSGNSEND": "11/21/2008", 
+        "FUNDING": "824581", 
+        "SITENO": 75113.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "9/22/2008", 
+        "DESCRIPT": "Local Drainage Improvements. Various Sites:NW 68 St from NW 32 Ave to NW 33 Ave; NW 37 AV & NW 41 St; NW 19th Ave from NW 95 St to NW 96 St; NW 33 Ave Rd & NW 92nd St; 8935 NW 33 Ave Rd; NW 59 St bet NW 18 Ave & NW 21 Ave; NW 47 Terr bet NW 21 Ave & NW 2", 
+        "ZIPCODE1": "33147", 
+        "XCOORD2": 902345.4375, 
+        "SHAPE_LEN": 666.372892629, 
+        "XCOORD1": 903011.0625, 
+        "CONSTEND": "2/27/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 546564.5, 
+        "YCOORD1": 546596.0625, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 68TH ST and NW 33RD AVE", 
+        "LOCATION1": "NW 68TH ST and NW 32ND AVE", 
+        "ID": 24
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.31821890959937, 
+            25.760762624192434
+          ], 
+          [
+            -80.31824382495611, 
+            25.762617743429782
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/22/2010", 
+        "DSGNSEND": "11/21/2009", 
+        "FUNDING": "133088", 
+        "SITENO": 75475.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "5/25/2009", 
+        "DESCRIPT": "Local Drainage Improvements - SW 76 Ave from SW 8 St to SW 12 St", 
+        "ZIPCODE1": "33144", 
+        "XCOORD2": 880541.0625, 
+        "SHAPE_LEN": 674.320043086, 
+        "XCOORD1": 880552.75, 
+        "CONSTEND": "9/20/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 519994.28125, 
+        "YCOORD1": 519320.0625, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33144", 
+        "LOCATION2": "SW 76TH AVE and SW 8TH ST", 
+        "LOCATION1": "SW 76TH AVE and SW 10TH ST", 
+        "ID": 25
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.28651954982956, 
+            25.734039744174094
+          ], 
+          [
+            -80.30287758980772, 
+            25.73340281643525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/1/2014", 
+        "DSGNSEND": "4/30/2014", 
+        "FUNDING": "2011269", 
+        "SITENO": 77157.0, 
+        "PROJECTNO": 17.21, 
+        "DSGNSTART": "11/1/2013", 
+        "DESCRIPT": "East Bird Road Dist. 6 - Sanitary Sewer Collection System", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 885654.5625, 
+        "SHAPE_LEN": 5390.16292376, 
+        "XCOORD1": 891038.4375, 
+        "CONSTEND": "3/31/2016", 
+        "DEPT": "WASD", 
+        "YCOORD2": 509402.28125, 
+        "YCOORD1": 509662.5625, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 67TH AVE and SW 40TH ST", 
+        "LOCATION1": "SW 57TH AVE and SW 40TH ST", 
+        "ID": 26
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.28651954982956, 
+            25.734039744174094
+          ], 
+          [
+            -80.30287758980772, 
+            25.73340281643525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/1/2014", 
+        "DSGNSEND": "4/30/2014", 
+        "FUNDING": "2065797", 
+        "SITENO": 77158.0, 
+        "PROJECTNO": 17.21, 
+        "DSGNSTART": "11/1/2013", 
+        "DESCRIPT": "East Bird Road Dist. 7 - Sanitary Sewer Collection System", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 885654.5625, 
+        "SHAPE_LEN": 5390.16292376, 
+        "XCOORD1": 891038.4375, 
+        "CONSTEND": "3/31/2016", 
+        "DEPT": "WASD", 
+        "YCOORD2": 509402.28125, 
+        "YCOORD1": 509662.5625, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 67TH AVE and SW 40TH ST", 
+        "LOCATION1": "SW 57TH AVE and SW 40TH ST", 
+        "ID": 27
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.32859232473109, 
+            25.78260726672064
+          ], 
+          [
+            -80.36864283737414, 
+            25.78422175184205
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/29/2013", 
+        "DSGNSEND": "3/1/2013", 
+        "FUNDING": "579843", 
+        "SITENO": 77206.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/15/2012", 
+        "DESCRIPT": "Local Drainage Improvements - NW 107 AVE fr NW 44 ST to NW 58 ST; NW 12 ST fr NW 82 AVE to NW 107 AVE", 
+        "ZIPCODE1": "33126", 
+        "XCOORD2": 863916.0625, 
+        "SHAPE_LEN": 13192.3790271, 
+        "XCOORD1": 877098.125, 
+        "CONSTEND": "11/28/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 527763.8125, 
+        "YCOORD1": 527242.1875, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33172", 
+        "LOCATION2": "NW 107TH AVE and NW 12TH ST", 
+        "LOCATION1": "NW 82ND AVE and NW 12TH ST", 
+        "ID": 28
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30110081852695, 
+            25.69544608220015
+          ], 
+          [
+            -80.30512942928716, 
+            25.695300681176622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/1/2015", 
+        "DSGNSEND": "8/29/2014", 
+        "FUNDING": "991249", 
+        "SITENO": 77340.0, 
+        "PROJECTNO": 17.21, 
+        "DSGNSTART": "5/1/2014", 
+        "DESCRIPT": "Industrial Park - Installation of 1,730 Linear Feet (LF) of 3-inch and 680 LF 2-inch SDR-11 HDPE Mains.", 
+        "ZIPCODE1": "33143", 
+        "XCOORD2": 884986.125, 
+        "SHAPE_LEN": 1327.72433699, 
+        "XCOORD1": 886312.5, 
+        "CONSTEND": "9/28/2015", 
+        "DEPT": "WASD", 
+        "YCOORD2": 495549.84375, 
+        "YCOORD1": 495609.6875, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33143", 
+        "LOCATION2": "SW 81ST ST and SW 69TH AVE", 
+        "LOCATION1": "SW 81ST ST and SW 67TH AVE", 
+        "ID": 29
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.22163702554703, 
+            25.95059818385318
+          ], 
+          [
+            -80.22180627837369, 
+            25.954130811028378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "240000", 
+        "SITENO": 77446.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-NW 12 AVE from NW 192 TER to NW 196 TER and NW 191 ST from from NW 5 CT to NW 10 CT", 
+        "ZIPCODE1": "33169", 
+        "XCOORD2": 911868.62506, 
+        "SHAPE_LEN": 1285.24478608, 
+        "XCOORD1": 911931.8751, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 589779.18778, 
+        "YCOORD1": 588495.50011, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33169", 
+        "LOCATION2": "NW 12TH AVE & NW 196TH TER", 
+        "LOCATION1": "NW 12TH AVE & NW 192ND TER", 
+        "ID": 30
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2006435520861, 
+            25.95440570979651
+          ], 
+          [
+            -80.20070555806322, 
+            25.955739857628874
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "304000", 
+        "SITENO": 77447.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-NE 6 AVE & NE 185 ST & NE Miami CT from NE 196 ST & NW 22 AVE & 175 ST & North DR & NE 14 AVE", 
+        "ZIPCODE1": "33179", 
+        "XCOORD2": 918798.68764, 
+        "SHAPE_LEN": 485.366647245, 
+        "XCOORD1": 918822.02331, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 590405.8125, 
+        "YCOORD1": 589921.00716, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE MIAMI CT & NE 198TH ST", 
+        "LOCATION1": "NE MIAMI CT & NE 196TH ST", 
+        "ID": 31
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.16315760983262, 
+            25.908401704026886
+          ], 
+          [
+            -80.16715782069637, 
+            25.908358708807434
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/26/2013", 
+        "DSGNSEND": "9/26/2013", 
+        "FUNDING": "718000", 
+        "SITENO": 77449.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "9/26/2013", 
+        "DESCRIPT": "Local Drainage Improvements-NE 144 street between NE 16 Ave and NE 18 Ave & NE 145 Street between Dixie HWY and NE 18 Ave", 
+        "ZIPCODE1": "33181", 
+        "XCOORD2": 929931.74988, 
+        "SHAPE_LEN": 1315.09401399, 
+        "XCOORD1": 931246.6249, 
+        "CONSTEND": "9/26/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 573252.62492, 
+        "YCOORD1": 573276.62502, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33161", 
+        "LOCATION2": "NE 144TH ST & NE 16TH AVE", 
+        "LOCATION1": "NE 144TH ST & NE 18TH AVE", 
+        "ID": 32
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24516325699724, 
+            25.724839930115348
+          ], 
+          [
+            -80.2422748074097, 
+            25.72808868793608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "700000", 
+        "SITENO": 77454.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-Main HWY from Franklin AVE to McFarland", 
+        "ZIPCODE1": "33133", 
+        "XCOORD2": 905616.37162, 
+        "SHAPE_LEN": 1516.1359823, 
+        "XCOORD1": 904672.18763, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 507580.77947, 
+        "YCOORD1": 506394.53125, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33133", 
+        "LOCATION2": "MAIN HWY & MCFARLAND RD", 
+        "LOCATION1": "MAIN HWY & FRANKLIN AVE", 
+        "ID": 33
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.4164137221309, 
+            25.670811897799176
+          ], 
+          [
+            -80.41829819486635, 
+            25.67075747341283
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "667000", 
+        "SITENO": 77460.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-SW 104 ST from SW 137 AVE to SW 142 Avenue", 
+        "ZIPCODE1": "33186", 
+        "XCOORD2": 847758.25007, 
+        "SHAPE_LEN": 621.011793494, 
+        "XCOORD1": 848378.85349, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 486449.56255, 
+        "YCOORD1": 486472.07756, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33186", 
+        "LOCATION2": "SW 104TH ST & SW 137TH PL", 
+        "LOCATION1": "SW 104TH ST & SW 137TH AVE", 
+        "ID": 34
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.46208450438604, 
+            25.68219109596224
+          ], 
+          [
+            -80.46564685027704, 
+            25.669292667565305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "200000", 
+        "SITENO": 77461.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-SW 167 AVE from SW 90 ST to SW 104 ST", 
+        "ZIPCODE1": "33196", 
+        "XCOORD2": 832165.16512, 
+        "SHAPE_LEN": 4832.55742368, 
+        "XCOORD1": 833319.4375, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 485851.37997, 
+        "YCOORD1": 490544.06249, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33196", 
+        "LOCATION2": "SW 167TH AVE & SW 104TH ST", 
+        "LOCATION1": "SW 167TH AVE & SW 90TH ST", 
+        "ID": 35
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.40040116648504, 
+            25.75129144713396
+          ], 
+          [
+            -80.40013065386543, 
+            25.744018292373084
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "135000", 
+        "SITENO": 77462.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-SW 127 AVE from SW 18 ST to SW 26 ST", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 853621.18745, 
+        "SHAPE_LEN": 2644.99395232, 
+        "XCOORD1": 853520.12499, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 513103.18736, 
+        "YCOORD1": 515746.25001, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 127TH AVE & SW 26TH ST", 
+        "LOCATION1": "SW 127TH AVE & SW 18TH ST", 
+        "ID": 36
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.4481824653615, 
+            25.669770297257035
+          ], 
+          [
+            -80.44933002017379, 
+            25.669705416364362
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "455000", 
+        "SITENO": 77463.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-SW 104 ST from SW 156 AVE to SW 157 AVE", 
+        "ZIPCODE1": "33196", 
+        "XCOORD2": 837538.87492, 
+        "SHAPE_LEN": 378.711437032, 
+        "XCOORD1": 837916.7499, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 486023.43757, 
+        "YCOORD1": 486048.59383, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33196", 
+        "LOCATION2": "SW 104TH ST & SW 157TH AVE", 
+        "LOCATION1": "SW 104TH ST & SW 156TH AVE", 
+        "ID": 37
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.49631869965496, 
+            25.670464689530935
+          ], 
+          [
+            -80.48123097179788, 
+            25.670512038505212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "15134", 
+        "SITENO": 77464.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-SW 100 ST from Krome AVE to SW 187 AVE", 
+        "ZIPCODE1": "33196", 
+        "XCOORD2": 827030.43604, 
+        "SHAPE_LEN": 4969.50192739, 
+        "XCOORD1": 822061.06799, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 486274.12346, 
+        "YCOORD1": 486237.70632, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33196", 
+        "LOCATION2": "SW 100TH ST & KROME AVE", 
+        "LOCATION1": "SW 100TH ST & SW 186TH AVE", 
+        "ID": 38
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33782425784679, 
+            25.826264649878517
+          ], 
+          [
+            -80.3698629773165, 
+            25.82617221942196
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "859627", 
+        "SITENO": 77465.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "10/1/2013", 
+        "DESCRIPT": "Local Drainage Improvements-NW 58 ST from NW 87 AVE to NW 107 AVE", 
+        "ZIPCODE1": "33178", 
+        "XCOORD2": 863441.5623, 
+        "SHAPE_LEN": 10539.1583061, 
+        "XCOORD1": 873980.37507, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 543009.18722, 
+        "YCOORD1": 543094.56253, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33178", 
+        "LOCATION2": "NW 58TH ST & NW 107TH AVE", 
+        "LOCATION1": "NW 58TH ST & NW 87TH AVE", 
+        "ID": 39
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.44600870084396, 
+            25.684450203508593
+          ], 
+          [
+            -80.44620826883468, 
+            25.681593624743414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "205000", 
+        "SITENO": 77510.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "11/25/2013", 
+        "DESCRIPT": "Local Drainage Improvements - SW 157TH Ave from SW 88 ST to SW 91 ST", 
+        "ZIPCODE1": "33196", 
+        "XCOORD2": 838549.00004, 
+        "SHAPE_LEN": 1040.31204003, 
+        "XCOORD1": 838610.37497, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 490348.50004, 
+        "YCOORD1": 491387.00012, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33196", 
+        "LOCATION2": "SW 157TH AVE & SW 91ST ST", 
+        "LOCATION1": "SW 157TH AVE & SW 88TH ST", 
+        "ID": 40
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36103156031695, 
+            25.63341331030227
+          ], 
+          [
+            -80.360938566859, 
+            25.631140505606755
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": "9/30/2014", 
+        "FUNDING": "350000", 
+        "SITENO": 77511.0, 
+        "PROJECTNO": 1.0, 
+        "DSGNSTART": "11/25/2013", 
+        "DESCRIPT": "Local Drainage Improvements - SW 103 CT from SW  146 Terrace to SW 149 Street & NW 82nd Avenue from NW 186 Terrace to  NW 188th Terrace (Intersection)  and NW 82 Avenue & NW 192nd Street", 
+        "ZIPCODE1": "33176", 
+        "XCOORD2": 866720.43748, 
+        "SHAPE_LEN": 826.631734459, 
+        "XCOORD1": 866685.81256, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 472137.87507, 
+        "YCOORD1": 472963.78118, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33176", 
+        "LOCATION2": "SW 103RD CT & SW 149TH ST", 
+        "LOCATION1": "SW 103RD CT & SW 146TH TER", 
+        "ID": 41
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.12075031801962, 
+            25.844556609435887
+          ], 
+          [
+            -80.1212633262453, 
+            25.869035947313602
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "17500000", 
+        "SITENO": 70220.0, 
+        "PROJECTNO": 52.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Beach Renourishment", 
+        "ZIPCODE1": "33141", 
+        "XCOORD2": 945114.25, 
+        "SHAPE_LEN": 8899.42752723, 
+        "XCOORD1": 945342.5, 
+        "CONSTEND": "9/30/2012", 
+        "DEPT": "Regulatory and Economic Resources", 
+        "YCOORD2": 559058.1875, 
+        "YCOORD1": 550161.6875, 
+        "COMMDIST": "District 5", 
+        "ZIPCODE2": "33141", 
+        "LOCATION2": "84TH ST and COLLINS AVE", 
+        "LOCATION1": "COLLINS AVE BETWEEN 63RD AND 84TH STREET", 
+        "ID": 42
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.34672446211594, 
+            25.47060001832213
+          ], 
+          [
+            -80.34750755404507, 
+            25.537414885824607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/17/2014", 
+        "DSGNSEND": "11/22/2012", 
+        "FUNDING": "1646421", 
+        "SITENO": 73452.0, 
+        "PROJECTNO": 51.0, 
+        "DSGNSTART": "6/1/2011", 
+        "DESCRIPT": "South Dade Greenway in CD 9/ Biscayne Trail C and D", 
+        "ZIPCODE1": "33033", 
+        "XCOORD2": 871313.25, 
+        "SHAPE_LEN": 24285.2457145, 
+        "XCOORD1": 871690.6875, 
+        "CONSTEND": "10/26/2015", 
+        "DEPT": "PROS", 
+        "YCOORD2": 438094.90625, 
+        "YCOORD1": 413812.59375, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33032", 
+        "LOCATION2": "SW 97TH AVE and SW 248TH ST", 
+        "LOCATION1": "SW 97TH AVE and SW 320TH ST", 
+        "ID": 43
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33185855030239, 
+            25.57998683160714
+          ], 
+          [
+            -80.33128795969955, 
+            25.54144454338654
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/7/2010", 
+        "DSGNSEND": "3/5/2009", 
+        "FUNDING": "205159", 
+        "SITENO": 73453.0, 
+        "PROJECTNO": 51.0, 
+        "DSGNSTART": "8/3/2008", 
+        "DESCRIPT": "South Dade Greenway in CD 8 / Biscayne Trail A & B", 
+        "ZIPCODE1": "33189", 
+        "XCOORD2": 876654.125, 
+        "SHAPE_LEN": 14009.60613, 
+        "XCOORD1": 876395.5, 
+        "CONSTEND": "7/31/2010", 
+        "DEPT": "PROS", 
+        "YCOORD2": 439586.0625, 
+        "YCOORD1": 453593.28125, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33032", 
+        "LOCATION2": "SW 87TH AVE and SW 244TH ST", 
+        "LOCATION1": "SW 87TH AVE and OLD CUTLER RD", 
+        "ID": 44
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33530018007166, 
+            25.72406063275221
+          ], 
+          [
+            -80.3672957187686, 
+            25.72270743675061
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/26/2009", 
+        "DSGNSEND": "7/23/2007", 
+        "FUNDING": "700000", 
+        "SITENO": 70620.0, 
+        "PROJECTNO": 319.0, 
+        "DSGNSTART": "3/19/2007", 
+        "DESCRIPT": "Bikeways in District 10- SW 48 St between 87-117 Avenue", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 864466.625, 
+        "SHAPE_LEN": 10545.45731, 
+        "XCOORD1": 874998.0625, 
+        "CONSTEND": "5/25/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 505408.125, 
+        "YCOORD1": 505951.71875, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33165", 
+        "LOCATION2": "SW 48TH ST and SW 107TH AVE", 
+        "LOCATION1": "SW 48TH ST and SW 87TH AVE", 
+        "ID": 45
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.25455880268022, 
+            25.74983831204977
+          ], 
+          [
+            -80.26276615324458, 
+            25.74945364061795
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/2/2012", 
+        "DSGNSEND": "6/1/2012", 
+        "FUNDING": "1364000", 
+        "SITENO": 70661.0, 
+        "PROJECTNO": 156.0, 
+        "DSGNSTART": "1/1/2009", 
+        "DESCRIPT": "Coral Gables - Miracle Mile Streetscape Improvement", 
+        "ZIPCODE1": "33145", 
+        "XCOORD2": 898826.8125, 
+        "SHAPE_LEN": 2705.19418203, 
+        "XCOORD1": 901527.5625, 
+        "CONSTEND": "12/31/2014", 
+        "DEPT": "Muni-Coral Gables", 
+        "YCOORD2": 515307.90625, 
+        "YCOORD1": 515462.90625, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33134", 
+        "LOCATION2": "CORAL WAY and SW 42ND AVE", 
+        "LOCATION1": "CORAL WAY and SW 37TH AVE", 
+        "ID": 46
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.38420055131819, 
+            25.753758873442603
+          ], 
+          [
+            -80.38386390275926, 
+            25.746356884529188
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/1/1900", 
+        "DSGNSEND": null, 
+        "FUNDING": "50000", 
+        "SITENO": 71134.0, 
+        "PROJECTNO": 141.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Bike Path Improvements on Snapper Creek Trail", 
+        "ZIPCODE1": "33184", 
+        "XCOORD2": 858971.75, 
+        "SHAPE_LEN": 2692.6092482, 
+        "XCOORD1": 858848.375, 
+        "CONSTEND": "1/1/1900", 
+        "DEPT": "PROS", 
+        "YCOORD2": 513977.84375, 
+        "YCOORD1": 516667.625, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 117TH AVE and SW 24TH ST", 
+        "LOCATION1": "SW 117TH AVE and SW 17TH ST", 
+        "ID": 47
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.43108228082542, 
+            25.713927283137355
+          ], 
+          [
+            -80.43912877475917, 
+            25.713637928498724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/30/2005", 
+        "DSGNSEND": null, 
+        "FUNDING": "65917", 
+        "SITENO": 71674.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 56 Street SW 147-152 Avenue", 
+        "ZIPCODE1": "33185", 
+        "XCOORD2": 840831.125, 
+        "SHAPE_LEN": 2651.4356518, 
+        "XCOORD1": 843480.0, 
+        "CONSTEND": "2/27/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 502004.875, 
+        "YCOORD1": 502121.375, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33185", 
+        "LOCATION2": "SW 56TH ST and SW 152ND AVE", 
+        "LOCATION1": "SW 56TH ST and SW 147TH AVE", 
+        "ID": 48
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.43912877475917, 
+            25.713637928498724
+          ], 
+          [
+            -80.43856293892411, 
+            25.6991481010136
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/30/2005", 
+        "DSGNSEND": null, 
+        "FUNDING": "301850", 
+        "SITENO": 71675.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Resurfacing - SW 152 Ave SW 56-72 Street", 
+        "ZIPCODE1": "33185", 
+        "XCOORD2": 841039.8125, 
+        "SHAPE_LEN": 5269.6962829, 
+        "XCOORD1": 840831.125, 
+        "CONSTEND": "2/27/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 496739.3125, 
+        "YCOORD1": 502004.875, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33193", 
+        "LOCATION2": "SW 152ND AVE and SW 72ND ST", 
+        "LOCATION1": "SW 152ND AVE and SW 56TH ST", 
+        "ID": 49
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.18407165354877, 
+            25.833337348595414
+          ], 
+          [
+            -80.20692411658477, 
+            25.83229116706986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "73308", 
+        "SITENO": 71677.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - NE 62nd Street between Biscayne Blvd an NW 6 Av", 
+        "ZIPCODE1": "33138", 
+        "XCOORD2": 917026.5625, 
+        "SHAPE_LEN": 7526.70432215, 
+        "XCOORD1": 924541.1875, 
+        "CONSTEND": "9/11/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 545523.25, 
+        "YCOORD1": 545949.5, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33150", 
+        "LOCATION2": "NW 62ND ST and NW 6TH AVE", 
+        "LOCATION1": "NE 62ND ST and BISCAYNE BLVD", 
+        "ID": 50
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.20667967410604, 
+            25.78047349356013
+          ], 
+          [
+            -80.25571410683074, 
+            25.778935820145826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/6/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 71678.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk- NW 7th Street between NW 17 Avenue and NW 7 Avenue", 
+        "ZIPCODE1": "33136", 
+        "XCOORD2": 901087.5625, 
+        "SHAPE_LEN": 16146.1500986, 
+        "XCOORD1": 917220.5, 
+        "CONSTEND": "10/15/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 526036.625, 
+        "YCOORD1": 526689.6875, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33125", 
+        "LOCATION2": "NW 7TH ST and NW 37TH AVE", 
+        "LOCATION1": "NW 7TH ST and NW 7TH AVE", 
+        "ID": 51
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36769678970587, 
+            25.67241081856875
+          ], 
+          [
+            -80.41635832447695, 
+            25.67079624440724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 71679.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - SW 104th Street from SW 107th Avenue to SW 122nd Avenue", 
+        "ZIPCODE1": "33176", 
+        "XCOORD2": 848397.125, 
+        "SHAPE_LEN": 16038.5436411, 
+        "XCOORD1": 864422.0625, 
+        "CONSTEND": "1/28/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 486466.46875, 
+        "YCOORD1": 487126.96875, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33186", 
+        "LOCATION2": "SW 104TH ST and SW 137TH AVE", 
+        "LOCATION1": "SW 104TH ST and SW 107TH AVE", 
+        "ID": 52
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36850962991527, 
+            25.579716520614046
+          ], 
+          [
+            -80.34263920502117, 
+            25.586654958954785
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 71680.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - Caribbean Blvd between Franjo Rd and US-1.", 
+        "ZIPCODE1": "33189", 
+        "XCOORD2": 872829.9375, 
+        "SHAPE_LEN": 8892.42122035, 
+        "XCOORD1": 864314.9375, 
+        "CONSTEND": "11/15/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 455999.0625, 
+        "YCOORD1": 453435.875, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "CARIBBEAN BLVD and FRANJO RD", 
+        "LOCATION1": "CARIBBEAN BLVD and S DIXIE HWY", 
+        "ID": 53
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.38812150703264, 
+            25.518254797449263
+          ], 
+          [
+            -80.42675148943427, 
+            25.517969454275043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "69367", 
+        "SITENO": 71681.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - SW 268th Street between SW 145 Avenue and SW 122 Avenue", 
+        "ZIPCODE1": "33032", 
+        "XCOORD2": 845214.0, 
+        "SHAPE_LEN": 12740.3231196, 
+        "XCOORD1": 857953.3125, 
+        "CONSTEND": "11/21/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 430907.09375, 
+        "YCOORD1": 431067.5625, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33032", 
+        "LOCATION2": "SW 268TH ST and SW 145TH AVENUE RD", 
+        "LOCATION1": "SW 268TH ST and SW 122ND AVE", 
+        "ID": 54
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.37369355266537, 
+            25.61282175509089
+          ], 
+          [
+            -80.34912542985971, 
+            25.61386657638919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/1/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "6532", 
+        "SITENO": 71682.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - SW 168th Street between SW 97 Av and SW 112th Avenue", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 870643.5, 
+        "SHAPE_LEN": 8104.94978875, 
+        "XCOORD1": 862549.375, 
+        "CONSTEND": "11/26/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 465878.59375, 
+        "YCOORD1": 465459.84375, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 168TH ST and SW 97TH AVE", 
+        "LOCATION1": "SW 168TH ST and SW 112TH AVE", 
+        "ID": 55
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30953228240735, 
+            25.748058057219364
+          ], 
+          [
+            -80.31155313662552, 
+            25.74808989340485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/30/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "11158", 
+        "SITENO": 71704.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects- Sidewalk- Coral Way and SW 70th CT", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 882770.6875, 
+        "SHAPE_LEN": 665.299234397, 
+        "XCOORD1": 883435.9375, 
+        "CONSTEND": "7/30/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 514725.4375, 
+        "YCOORD1": 514717.34375, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "CORAL WAY and SW 72ND AVE", 
+        "LOCATION1": "CORAL WAY and SW 70TH CT", 
+        "ID": 56
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.29141969427532, 
+            25.74831118624933
+          ], 
+          [
+            -80.29745145343495, 
+            25.748153921600707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/24/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "1156", 
+        "SITENO": 71705.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - Coral Way and SW 59th Ave", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 887412.3125, 
+        "SHAPE_LEN": 1986.28184392, 
+        "XCOORD1": 889397.4375, 
+        "CONSTEND": "7/18/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 514773.1875, 
+        "YCOORD1": 514840.96875, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "CORAL WAY and SW 63RD AVE", 
+        "LOCATION1": "CORAL WAY and SW 59TH AVE", 
+        "ID": 57
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2709339791127, 
+            25.7489113103235
+          ], 
+          [
+            -80.28495957989826, 
+            25.748529292685895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "2/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "55155", 
+        "SITENO": 71706.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalks - Coral Way and Anderson Rd.", 
+        "ZIPCODE1": "33134", 
+        "XCOORD2": 891523.4375, 
+        "SHAPE_LEN": 4618.85440554, 
+        "XCOORD1": 896139.375, 
+        "CONSTEND": "2/23/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 514931.71875, 
+        "YCOORD1": 515095.84375, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33134", 
+        "LOCATION2": "CORAL WAY and ALHAMBRA CIR", 
+        "LOCATION1": "CORAL WAY and ANDERSON RD", 
+        "ID": 58
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.3029598721064, 
+            25.73498480134672
+          ], 
+          [
+            -80.3029112373668, 
+            25.73417653420717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "2/23/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "40100", 
+        "SITENO": 71708.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 67 Av & SW 39 St", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 885642.0, 
+        "SHAPE_LEN": 294.212149753, 
+        "XCOORD1": 885624.4375, 
+        "CONSTEND": "2/25/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 509683.4375, 
+        "YCOORD1": 509977.125, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 67TH AVE and SW 39TH TER", 
+        "LOCATION1": "SW 67TH AVE and SW 39TH ST", 
+        "ID": 59
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30348895009168, 
+            25.74655499193292
+          ], 
+          [
+            -80.30346736316157, 
+            25.74612163913544
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "2/23/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "40067", 
+        "SITENO": 71709.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - SW 67th Ave and SW 25th Terrace", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 885436.0, 
+        "SHAPE_LEN": 157.668675179, 
+        "XCOORD1": 885428.0625, 
+        "CONSTEND": "2/25/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 514024.03125, 
+        "YCOORD1": 514181.5, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 67TH AVE and SW 26TH ST", 
+        "LOCATION1": "SW 67TH AVE and SW 25TH TER", 
+        "ID": 60
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2695384967834, 
+            25.778712864683612
+          ], 
+          [
+            -80.27191829071808, 
+            25.778704329502215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "19158", 
+        "SITENO": 71713.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - NW 7th Street and NW 45th Avenue", 
+        "ZIPCODE1": "33126", 
+        "XCOORD2": 895755.5625, 
+        "SHAPE_LEN": 783.160316941, 
+        "XCOORD1": 896538.6875, 
+        "CONSTEND": "7/30/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 525922.6875, 
+        "YCOORD1": 525930.125, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33126", 
+        "LOCATION2": "NW 7TH ST and NW 47TH AVE", 
+        "LOCATION1": "NW 7TH ST and NW 45TH AVE", 
+        "ID": 61
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33760251658556, 
+            25.818003143015453
+          ], 
+          [
+            -80.33764352095221, 
+            25.81978498273331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/11/2005", 
+        "DSGNSEND": null, 
+        "FUNDING": "15020", 
+        "SITENO": 71714.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - NW 87th Avenue and NW 52nd Street", 
+        "ZIPCODE1": "33178", 
+        "XCOORD2": 874051.6875, 
+        "SHAPE_LEN": 647.779093446, 
+        "XCOORD1": 874068.4375, 
+        "CONSTEND": "10/11/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 540739.75, 
+        "YCOORD1": 540092.1875, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33178", 
+        "LOCATION2": "NW 87TH AVE and NW 53RD ST", 
+        "LOCATION1": "NW 87TH AVE and NW 52ND ST", 
+        "ID": 62
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30823022951355, 
+            25.908702033728108
+          ], 
+          [
+            -80.30929649823604, 
+            25.92302785058989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/30/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "49158", 
+        "SITENO": 71730.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 67th Ave and Miami LakesDr.", 
+        "ZIPCODE1": "33014", 
+        "XCOORD2": 883179.4375, 
+        "SHAPE_LEN": 5218.82774381, 
+        "XCOORD1": 883557.375, 
+        "CONSTEND": "9/30/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 578312.9375, 
+        "YCOORD1": 573107.8125, 
+        "COMMDIST": "District 13", 
+        "ZIPCODE2": "33014", 
+        "LOCATION2": "NW 67TH AVE and WINDMILL GATE RD", 
+        "LOCATION1": "NW 67TH AVE and MIAMI LAKES DR", 
+        "ID": 63
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2872697138943, 
+            25.881322130141804
+          ], 
+          [
+            -80.28355060410995, 
+            25.88142366595036
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/30/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 71732.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - W 65th Street Between W 1 AV & W 2 Av", 
+        "ZIPCODE1": "33012", 
+        "XCOORD2": 891724.1875, 
+        "SHAPE_LEN": 1223.4008264, 
+        "XCOORD1": 890501.5625, 
+        "CONSTEND": "9/10/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 563236.5625, 
+        "YCOORD1": 563193.0, 
+        "COMMDIST": "District 13", 
+        "ZIPCODE2": "33012", 
+        "LOCATION2": "W 65TH ST and PALM AVE", 
+        "LOCATION1": "W 65TH ST and W 2ND AVE", 
+        "ID": 64
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.40780112424022, 
+            25.729451313604105
+          ], 
+          [
+            -80.4396947251265, 
+            25.72828696406719
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/20/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "102828", 
+        "SITENO": 71833.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Sidewalk - SW 42nd Street between SW 132 Ave and SW 148 Av", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 840622.1875, 
+        "SHAPE_LEN": 10508.347626, 
+        "XCOORD1": 851120.0625, 
+        "CONSTEND": "10/21/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 507328.3125, 
+        "YCOORD1": 507797.34375, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33185", 
+        "LOCATION2": "SW 42ND ST and SW 152ND AVE", 
+        "LOCATION1": "SW 42ND ST and SW 132ND AVE", 
+        "ID": 65
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.23203442288845, 
+            25.861003184240786
+          ], 
+          [
+            -80.2422432639521, 
+            25.860720487332273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/1/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "157484", 
+        "SITENO": 71834.0, 
+        "PROJECTNO": 158.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements- Sidewalk- NW 94-95 Street NW 21-30 Avenue and NW 21 Ave  Btwn 91-94 Sts", 
+        "ZIPCODE1": "33147", 
+        "XCOORD2": 905349.3125, 
+        "SHAPE_LEN": 3358.85046603, 
+        "XCOORD1": 908705.9375, 
+        "CONSTEND": "9/15/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 555787.875, 
+        "YCOORD1": 555910.125, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 95TH ST and NW 27TH AVE", 
+        "LOCATION1": "NW 95TH ST and NW 21ST AVE", 
+        "ID": 66
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2331826207987, 
+            25.835618969928976
+          ], 
+          [
+            -80.24137005119647, 
+            25.836253652982304
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/1/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "3000", 
+        "SITENO": 71837.0, 
+        "PROJECTNO": 158.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements- Sidewalk - NW 65/66/67/68 St. btwn NW 22-27 Aves ; NW 63-79 St. btwn 17-22 Ave (HOPE VI) NW 91-93 STs", 
+        "ZIPCODE1": "33147", 
+        "XCOORD2": 905687.8125, 
+        "SHAPE_LEN": 2702.94441666, 
+        "XCOORD1": 908382.1875, 
+        "CONSTEND": "1/16/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 546896.625, 
+        "YCOORD1": 546681.5625, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 68TH ST and NW 27TH AVE", 
+        "LOCATION1": "NW 68TH ST and NW 22ND AVE", 
+        "ID": 67
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.16177084914399, 
+            25.97341401021241
+          ], 
+          [
+            -80.16034502717348, 
+            25.973472117609017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/12/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "181354", 
+        "SITENO": 71839.0, 
+        "PROJECTNO": 160.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk- Highland Lakes - NE 214 Terrace & NE 20-21 Ave.  Revised Area: NE 1800 Blk. (I-95) - Highland Lakes Blvd. (2000 Blk. +/-) & NE 210 St. - 214 Ter.", 
+        "ZIPCODE1": "33179", 
+        "XCOORD2": 932019.5625, 
+        "SHAPE_LEN": 468.933484922, 
+        "XCOORD1": 931551.25, 
+        "CONSTEND": "8/1/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 596934.125, 
+        "YCOORD1": 596910.0, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE 214TH TER and NE 21ST AVE", 
+        "LOCATION1": "NE 214TH TER and NE 20TH AVE", 
+        "ID": 68
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.29639134296352, 
+            25.726104399238913
+          ], 
+          [
+            -80.30665579397913, 
+            25.725751818724614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/5/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "170376", 
+        "SITENO": 71840.0, 
+        "PROJECTNO": 163.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA  - Infrastructure Improvements - Sidewalk - SW 48 Street SW 63 - 69 Avenue", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 884425.375, 
+        "SHAPE_LEN": 3381.77941572, 
+        "XCOORD1": 887804.0, 
+        "CONSTEND": "1/5/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 506614.90625, 
+        "YCOORD1": 506760.9375, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 48TH ST and SW 69TH AVE", 
+        "LOCATION1": "SW 48TH ST and SW 63RD AVE", 
+        "ID": 69
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.35014287032148, 
+            25.701630178046646
+          ], 
+          [
+            -80.35813719308058, 
+            25.701345912151545
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/5/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "482253", 
+        "SITENO": 71841.0, 
+        "PROJECTNO": 163.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 97 - 102 Aves & SW 72 St - Snapper Crk Dr./ SW 79 St & SW 93-94th Avenue.", 
+        "ZIPCODE1": "33173", 
+        "XCOORD2": 867519.625, 
+        "SHAPE_LEN": 2634.50081402, 
+        "XCOORD1": 870151.5625, 
+        "CONSTEND": "1/5/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 497658.71875, 
+        "YCOORD1": 497774.90625, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33173", 
+        "LOCATION2": "SW 72ND ST and SW 102ND AVE", 
+        "LOCATION1": "SW 72ND ST and SW 97TH AVE", 
+        "ID": 70
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.34369729569926, 
+            25.73215329293747
+          ], 
+          [
+            -80.33975573420321, 
+            25.732232813137585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/15/2007", 
+        "DSGNSEND": null, 
+        "FUNDING": "140687", 
+        "SITENO": 71853.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk SW 40 St to SW 40th Terr from SW 92 Avenue to 89 Avenue", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 873516.3125, 
+        "SHAPE_LEN": 1297.91966509, 
+        "XCOORD1": 872218.875, 
+        "CONSTEND": "5/20/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 508914.59375, 
+        "YCOORD1": 508879.21875, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33165", 
+        "LOCATION2": "SW 40TH TER and SW 89TH AVE", 
+        "LOCATION1": "SW 40TH TER and SW 92ND AVE", 
+        "ID": 71
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.32690061498661, 
+            25.75152851039979
+          ], 
+          [
+            -80.32663390864721, 
+            25.747911237743114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/21/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 71857.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements -Sidewalk- SW 81 Avenue from 24 Street to 20 Street and on SW 80 Court from 24 Street to 20 Street", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 877807.0, 
+        "SHAPE_LEN": 1317.67425948, 
+        "XCOORD1": 877712.5, 
+        "CONSTEND": "4/21/2007", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 514634.875, 
+        "YCOORD1": 515949.15625, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 81ST AVE and SW 24TH ST", 
+        "LOCATION1": "SW 81ST AVE and SW 20TH ST", 
+        "ID": 72
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.34190883301062, 
+            25.75474112932356
+          ], 
+          [
+            -80.34204376214221, 
+            25.758408338396507
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": null, 
+        "SITENO": 71859.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 90 Avenue from 16 -12 Street- Cancelled.", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 872715.625, 
+        "SHAPE_LEN": 1333.63415507, 
+        "XCOORD1": 872766.6875, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 518424.53125, 
+        "YCOORD1": 517091.875, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33174", 
+        "LOCATION2": "SW 90TH AVE and SW 12TH ST", 
+        "LOCATION1": "SW 90TH AVE and SW 16TH ST", 
+        "ID": 73
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24107441446989, 
+            25.830321379706728
+          ], 
+          [
+            -80.24313709412124, 
+            25.830264044875985
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "6000", 
+        "SITENO": 71895.0, 
+        "PROJECTNO": 158.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - NW 27-29 Avenue &NW 61Street", 
+        "ZIPCODE1": "33142", 
+        "XCOORD2": 905119.125, 
+        "SHAPE_LEN": 678.826342392, 
+        "XCOORD1": 905797.5, 
+        "CONSTEND": "7/15/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 544716.25, 
+        "YCOORD1": 544741.0, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33142", 
+        "LOCATION2": "NW 61ST ST and NW 29TH AVE", 
+        "LOCATION1": "NW 61ST ST and NW 27TH AVE", 
+        "ID": 74
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24313709412124, 
+            25.830264044875985
+          ], 
+          [
+            -80.24318190376023, 
+            25.831135403058852
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/15/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "19602", 
+        "SITENO": 72132.0, 
+        "PROJECTNO": 158.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk- NW 29 Avenue between NW 61 Street and NW 62 Street.", 
+        "ZIPCODE1": "33142", 
+        "XCOORD2": 905102.5625, 
+        "SHAPE_LEN": 317.057892239, 
+        "XCOORD1": 905119.125, 
+        "CONSTEND": "7/15/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 545032.875, 
+        "YCOORD1": 544716.25, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 29TH AVE and NW 62ND ST", 
+        "LOCATION1": "NW 29TH AVE and NW 61ST ST", 
+        "ID": 75
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.37220898664803, 
+            25.700876245117325
+          ], 
+          [
+            -80.3721077853072, 
+            25.69740958872445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/19/2006", 
+        "DSGNSEND": null, 
+        "FUNDING": "51911", 
+        "SITENO": 72350.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA- Sidewalk Improvements- SW 110th Ave and SW 72nd Street", 
+        "ZIPCODE1": "33173", 
+        "XCOORD2": 862926.0625, 
+        "SHAPE_LEN": 1260.42572483, 
+        "XCOORD1": 862886.75, 
+        "CONSTEND": "7/3/2006", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 496205.9375, 
+        "YCOORD1": 497465.75, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33173", 
+        "LOCATION2": "SW 110TH AVE and SW 76TH ST", 
+        "LOCATION1": "SW 110TH AVE and SW 72ND ST", 
+        "ID": 76
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24690320263551, 
+            25.761902112655708
+          ], 
+          [
+            -80.24640219473154, 
+            25.750118662469525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": null, 
+        "SITENO": 72729.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 32 Ave & SW 10 - 22 Street", 
+        "ZIPCODE1": "33135", 
+        "XCOORD2": 904211.8125, 
+        "SHAPE_LEN": 4286.09192907, 
+        "XCOORD1": 904022.4375, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 515580.0625, 
+        "YCOORD1": 519861.96875, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33145", 
+        "LOCATION2": "SW 32ND AVE and SW 22ND ST", 
+        "LOCATION1": "SW 32ND AVE and SW 11TH ST", 
+        "ID": 77
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36270904262588, 
+            25.743293350266633
+          ], 
+          [
+            -80.36771668766981, 
+            25.743180702767056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/15/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "422986", 
+        "SITENO": 73054.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA- Infrastructure Sidewalk Imp.- CD#10- SW 24-28 St & 103 Ct-107 Ave.Except SW 24-26 St & SW 104 Ave SW 105 Ct.", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 864292.375, 
+        "SHAPE_LEN": 1648.91200517, 
+        "XCOORD1": 865940.5625, 
+        "CONSTEND": "7/14/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 512848.59375, 
+        "YCOORD1": 512897.46875, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33165", 
+        "LOCATION2": "SW 28TH ST and SW 107TH AVE", 
+        "LOCATION1": "SW 28TH ST and SW 103RD CT", 
+        "ID": 78
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.35659317305267, 
+            25.73080796445182
+          ], 
+          [
+            -80.35544264361113, 
+            25.72320980718332
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/3/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "1000000", 
+        "SITENO": 73055.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Infrastructure Impr.- CD# 10- New Sidewalks at SW 99 Ct-102 Ave & SW 41-48 St, SW 97 Ave-99 Ct & SW 44-48 St. Excludes SW 41 St to 44 St from 99 Ct to 102 Ave (GOB Site 75321. Repair Sidewalks at SW 40 Terr-44 St & SW 97-99 Ave.", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 868368.125, 
+        "SHAPE_LEN": 2787.48634526, 
+        "XCOORD1": 867975.875, 
+        "CONSTEND": "10/2/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 505609.59375, 
+        "YCOORD1": 508369.34375, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33165", 
+        "LOCATION2": "SW 99TH CT and SW 48TH ST", 
+        "LOCATION1": "SW 99TH CT and SW 41ST ST", 
+        "ID": 79
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.32686385765389, 
+            25.67000533376736
+          ], 
+          [
+            -80.3265924091089, 
+            25.662659974283635
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/12/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "150000", 
+        "SITENO": 73127.0, 
+        "PROJECTNO": 164.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - CD 8- SW 82 Av between SW 104-120 St & SW 116 St (North side) to Busway.", 
+        "ZIPCODE1": "33156", 
+        "XCOORD2": 877978.625, 
+        "SHAPE_LEN": 2671.23652313, 
+        "XCOORD1": 877875.625, 
+        "CONSTEND": "11/11/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 483649.8125, 
+        "YCOORD1": 486319.0625, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33156", 
+        "LOCATION2": "SW 82ND AVE and SW 116TH ST", 
+        "LOCATION1": "SW 82ND AVE and SW 108TH ST", 
+        "ID": 80
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.23332449521668, 
+            25.83931468225479
+          ], 
+          [
+            -80.23383907721252, 
+            25.8536769775368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": null, 
+        "SITENO": 73137.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D2", 
+        "ZIPCODE1": "33147", 
+        "XCOORD2": 908128.0, 
+        "SHAPE_LEN": 5223.06860573, 
+        "XCOORD1": 908327.6875, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 553243.8125, 
+        "YCOORD1": 548024.5625, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 22ND AVE and NW 87TH ST", 
+        "LOCATION1": "NW 22ND AVE and NW 71ST ST- NW87 ST", 
+        "ID": 81
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1649155826836, 
+            25.946005802842855
+          ], 
+          [
+            -80.16538448951728, 
+            25.951414625733566
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/16/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "15961", 
+        "SITENO": 73144.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D4 - NE 18 Av Between Miami Gardens Dr and NE 191 St", 
+        "ZIPCODE1": "33179", 
+        "XCOORD2": 930415.0, 
+        "SHAPE_LEN": 1972.05194927, 
+        "XCOORD1": 930581.625, 
+        "CONSTEND": "8/15/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 588906.125, 
+        "YCOORD1": 586941.125, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE 18TH AVE and NE 191ST ST", 
+        "LOCATION1": "NE 18TH AVE and NE MIAMI GARDENS DR - NE 191 ST", 
+        "ID": 82
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.17327662052185, 
+            25.944783054212436
+          ], 
+          [
+            -80.17311025610749, 
+            25.951201880477385
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/31/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "28865", 
+        "SITENO": 73145.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D4 - NE 14 Av Between Miami Gardens Dr and NE 191 St", 
+        "ZIPCODE1": "33179", 
+        "XCOORD2": 927876.75, 
+        "SHAPE_LEN": 2333.77924627, 
+        "XCOORD1": 927836.8125, 
+        "CONSTEND": "8/30/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 588812.6875, 
+        "YCOORD1": 586479.25, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE 14TH AVE and NE 191ST ST", 
+        "LOCATION1": "NE 14TH AVE and NE MIAMI GARDENS DR - NE 191 ST", 
+        "ID": 83
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.37445547817772, 
+            25.627709878890894
+          ], 
+          [
+            -80.37369355266537, 
+            25.61282175509089
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "2/15/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "83128", 
+        "SITENO": 73153.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D9 - SW 112 Av between SW 152 St & SW 168 St", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 862549.375, 
+        "SHAPE_LEN": 5416.97397302, 
+        "XCOORD1": 862272.75, 
+        "CONSTEND": "3/17/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 465459.84375, 
+        "YCOORD1": 470869.75, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 112TH AVE and SW 168TH ST", 
+        "LOCATION1": "SW 112TH AVE and SW 152ND ST - SW168 ST", 
+        "ID": 84
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.40708726749524, 
+            25.714754488915148
+          ], 
+          [
+            -80.43912877475917, 
+            25.713637928498724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/18/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73156.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D11 - SW 56 St between SW 132 Av & SW 152 Av", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 840831.125, 
+        "SHAPE_LEN": 10557.6135922, 
+        "XCOORD1": 851379.0625, 
+        "CONSTEND": "4/17/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 502004.875, 
+        "YCOORD1": 502456.78125, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33185", 
+        "LOCATION2": "SW 56TH ST and SW 152ND AVE", 
+        "LOCATION1": "SW 56TH ST and SW 132ND AVE - SW 152 AVE", 
+        "ID": 85
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.39808637054975, 
+            25.75711694270733
+          ], 
+          [
+            -80.3977120482112, 
+            25.75592121626538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/2/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "19469", 
+        "SITENO": 73161.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA - Guardrail Installation at SW 124 Ct. from SW 11 Ter to SW 12 Lane.", 
+        "ZIPCODE1": "33184", 
+        "XCOORD2": 854397.5625, 
+        "SHAPE_LEN": 451.72451354, 
+        "XCOORD1": 854272.375, 
+        "CONSTEND": "3/17/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 517433.0, 
+        "YCOORD1": 517867.03125, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33184", 
+        "LOCATION2": "SW 124TH CT and SW 12TH ST", 
+        "LOCATION1": "SW 124TH CT and SW 11TH TER", 
+        "ID": 86
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.41651653005896, 
+            25.75075195508919
+          ], 
+          [
+            -80.42051303472914, 
+            25.750664049610684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/13/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "24658", 
+        "SITENO": 73265.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA- Sidewalks at SW 18 St & SW 137-139 Ave", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 846901.3125, 
+        "SHAPE_LEN": 1315.85410861, 
+        "XCOORD1": 848216.625, 
+        "CONSTEND": "12/11/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 515488.625, 
+        "YCOORD1": 515526.375, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 18TH ST and SW 139TH AVE", 
+        "LOCATION1": "SW 18TH ST and SW 137TH AVE", 
+        "ID": 87
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.37966550561475, 
+            25.732108740429474
+          ], 
+          [
+            -80.37973536172741, 
+            25.734854301153607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/28/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "68553", 
+        "SITENO": 73301.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "UMSA CD #10- Brick Paver Installation at SW 114 Ave & SW 38-Bird Rd.", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 860350.375, 
+        "SHAPE_LEN": 998.165327242, 
+        "XCOORD1": 860378.0625, 
+        "CONSTEND": "7/28/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 509803.53125, 
+        "YCOORD1": 508805.75, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33165", 
+        "LOCATION2": "SW 114TH AVE and SW 38TH ST", 
+        "LOCATION1": "SW 114TH AVE and SW 40TH ST", 
+        "ID": 88
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.31425507904947, 
+            25.713274808509606
+          ], 
+          [
+            -80.31526589568182, 
+            25.713204671861444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": null, 
+        "SITENO": 73364.0, 
+        "PROJECTNO": 163.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Ramps and Connectors at SW 61 St from SW 74 Ave-SW 74 Ct and SW 74 Ct from SW 61 St to dead-end south of SW 61 St.", 
+        "ZIPCODE1": "33143", 
+        "XCOORD2": 881614.375, 
+        "SHAPE_LEN": 333.799090783, 
+        "XCOORD1": 881947.0625, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 502039.75, 
+        "YCOORD1": 502066.96875, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33143", 
+        "LOCATION2": "SW 61ST ST and SW 74TH CT", 
+        "LOCATION1": "SW 61ST ST and SW 74TH AVE", 
+        "ID": 89
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.28667958588353, 
+            25.953762316752766
+          ], 
+          [
+            -80.26205107561346, 
+            25.954796658934686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/7/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "99033", 
+        "SITENO": 73370.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects. Ives Dairy Rd Between NW 37 Av & NW 52 Av (CD1)", 
+        "ZIPCODE1": "33055", 
+        "XCOORD2": 898643.0, 
+        "SHAPE_LEN": 8101.62374977, 
+        "XCOORD1": 890552.3125, 
+        "CONSTEND": "4/6/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 589944.625, 
+        "YCOORD1": 589523.8125, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33056", 
+        "LOCATION2": "NW 199TH ST and NW 37TH AVE", 
+        "LOCATION1": "NW 199TH ST and NW 52ND AVE", 
+        "ID": 90
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.18023136607343, 
+            25.92892914789676
+          ], 
+          [
+            -80.18090631572579, 
+            25.943493783158733
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/17/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "54998", 
+        "SITENO": 73372.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at NE 10 Ave & NE 167 St to Miami Gardens Dr. (CD 4)", 
+        "ZIPCODE1": "33162", 
+        "XCOORD2": 925332.4375, 
+        "SHAPE_LEN": 5298.63655848, 
+        "XCOORD1": 925587.375, 
+        "CONSTEND": "8/16/2008", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 585994.875, 
+        "YCOORD1": 580702.375, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE 10TH AVE and NE MIAMI GARDENS DR", 
+        "LOCATION1": "NE 10TH AVE and NE 167TH ST", 
+        "ID": 91
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.44726985193071, 
+            25.71706897646762
+          ], 
+          [
+            -80.45528875575842, 
+            25.71679307216126
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/1/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "45794", 
+        "SITENO": 73375.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Guardrail Installation at SW 52 St from SW 157-162 Avenue", 
+        "ZIPCODE1": "33185", 
+        "XCOORD2": 835505.6875, 
+        "SHAPE_LEN": 2642.09322792, 
+        "XCOORD1": 838145.4375, 
+        "CONSTEND": "5/1/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 503129.34375, 
+        "YCOORD1": 503240.59375, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33185", 
+        "LOCATION2": "SW 52ND ST and SW 162ND AVE", 
+        "LOCATION1": "SW 52ND ST and SW 157TH AVE", 
+        "ID": 92
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.40186942072984, 
+            25.73667549594207
+          ], 
+          [
+            -80.40390050984655, 
+            25.736605665061827
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/19/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "7266", 
+        "SITENO": 73376.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "New Roadway at SW 34 St from SW 128-129 Avenue", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 852392.4375, 
+        "SHAPE_LEN": 669.103254393, 
+        "XCOORD1": 853060.9375, 
+        "CONSTEND": "4/18/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 510403.40625, 
+        "YCOORD1": 510431.8125, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 34TH ST and SW 129TH AVE", 
+        "LOCATION1": "SW 34TH ST and SW 128TH AVE", 
+        "ID": 93
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.39961678010083, 
+            25.72963646773013
+          ], 
+          [
+            -80.40780112424022, 
+            25.729451313604105
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/6/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "37828", 
+        "SITENO": 73380.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at Bird Rd from SW 125-132 Avenue (CD 10)", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 851120.0625, 
+        "SHAPE_LEN": 2695.23431934, 
+        "XCOORD1": 853814.125, 
+        "CONSTEND": "1/5/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 507797.34375, 
+        "YCOORD1": 507876.8125, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 42ND ST and SW 132ND AVE", 
+        "LOCATION1": "SW 42ND ST and SW 127TH AVE", 
+        "ID": 94
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.3029598721064, 
+            25.73498480134672
+          ], 
+          [
+            -80.30287758980772, 
+            25.73340281643525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/4/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "17374", 
+        "SITENO": 73403.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at SW 67 Ave between SW 39-40 St. (CD 6)", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 885654.5625, 
+        "SHAPE_LEN": 575.632567302, 
+        "XCOORD1": 885624.4375, 
+        "CONSTEND": "6/3/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 509402.28125, 
+        "YCOORD1": 509977.125, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33155", 
+        "LOCATION2": "SW 67TH AVE and SW 40TH ST", 
+        "LOCATION1": "SW 67TH AVE and SW 39TH ST", 
+        "ID": 95
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30335871982179, 
+            25.74323015182125
+          ], 
+          [
+            -80.3042002432128, 
+            25.77049756369717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/6/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "145812", 
+        "SITENO": 73405.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at SW 67 Ave between SW 39 St & W. Flagler St. (CD6)", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 885148.0, 
+        "SHAPE_LEN": 9914.6267862, 
+        "XCOORD1": 885477.3125, 
+        "CONSTEND": "5/6/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 522882.4375, 
+        "YCOORD1": 512973.28125, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33144", 
+        "LOCATION2": "SW 67TH AVE and W FLAGLER ST", 
+        "LOCATION1": "SW 67TH AVE and SW 29TH ST", 
+        "ID": 96
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.25496864770055, 
+            25.759896896381182
+          ], 
+          [
+            -80.25389181759459, 
+            25.73265195813446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/2/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "275059", 
+        "SITENO": 73406.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Project at SW 37 Ave between Sidonia Av & US1 (CD 7)", 
+        "ZIPCODE1": "33145", 
+        "XCOORD2": 901782.4375, 
+        "SHAPE_LEN": 9909.00394547, 
+        "XCOORD1": 901372.0, 
+        "CONSTEND": "9/1/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 509217.5625, 
+        "YCOORD1": 519118.0625, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33133", 
+        "LOCATION2": "SW 37TH AVE and S DIXIE HWY", 
+        "LOCATION1": "SW 37TH AVE and SIDONIA AVE", 
+        "ID": 97
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.25380775597469, 
+            25.731368035330494
+          ], 
+          [
+            -80.25309069159685, 
+            25.717937633845192
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/20/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "40258", 
+        "SITENO": 73407.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 37 Av (West side) Between US1 & Oak Av", 
+        "ZIPCODE1": "33133", 
+        "XCOORD2": 902076.4375, 
+        "SHAPE_LEN": 4887.21250883, 
+        "XCOORD1": 901812.75, 
+        "CONSTEND": "8/19/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 503870.96875, 
+        "YCOORD1": 508751.0625, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33133", 
+        "LOCATION2": "SW 37TH AVE and MAIN HWY", 
+        "LOCATION1": "SW 37TH AVE and DAY AVE", 
+        "ID": 98
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.28727156321148, 
+            25.748424726764956
+          ], 
+          [
+            -80.2709339791127, 
+            25.7489113103235
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/6/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73408.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Coral Way between Greenway Dr & SW 57 Av (CD 6)", 
+        "ZIPCODE1": "33155", 
+        "XCOORD2": 896139.375, 
+        "SHAPE_LEN": 5380.70438, 
+        "XCOORD1": 890762.625, 
+        "CONSTEND": "2/5/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 515095.84375, 
+        "YCOORD1": 514889.59375, 
+        "COMMDIST": "District 6", 
+        "ZIPCODE2": "33134", 
+        "LOCATION2": "SW 24TH ST and S GREENWAY DR", 
+        "LOCATION1": "SW 24TH ST and SW 57TH AVE", 
+        "ID": 99
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.43256985652052, 
+            25.67024876175848
+          ], 
+          [
+            -80.46557457306055, 
+            25.669230739633722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/4/2011", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73415.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 104 St between SW 147 Av & SW 167 Av (CD 11)", 
+        "ZIPCODE1": "33196", 
+        "XCOORD2": 832189.0625, 
+        "SHAPE_LEN": 10877.2428832, 
+        "XCOORD1": 843058.375, 
+        "CONSTEND": "5/4/2011", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 485828.96875, 
+        "YCOORD1": 486244.25, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33196", 
+        "LOCATION2": "SW 104TH ST and SW 167TH AVE", 
+        "LOCATION1": "SW 104TH ST and SW 147TH AVE", 
+        "ID": 100
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.4001946425671, 
+            25.745719590543043
+          ], 
+          [
+            -80.42429830244266, 
+            25.744723623185635
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/18/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73416.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at Coral Way between SW 127-142 Avenue (CD 11)", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 845664.8125, 
+        "SHAPE_LEN": 7942.44536057, 
+        "XCOORD1": 853597.3125, 
+        "CONSTEND": "1/17/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 513324.09375, 
+        "YCOORD1": 513721.4375, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 24TH ST and SW 142ND AVE", 
+        "LOCATION1": "SW 24TH ST and SW 127TH AVE", 
+        "ID": 101
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33760251658556, 
+            25.818003143015453
+          ], 
+          [
+            -80.33770504889463, 
+            25.821532008172884
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/4/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "39297", 
+        "SITENO": 73417.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 87 Av Between NW 41 St to NW 53 Ter (CD 12)", 
+        "ZIPCODE1": "33178", 
+        "XCOORD2": 874028.25, 
+        "SHAPE_LEN": 1283.06701951, 
+        "XCOORD1": 874068.4375, 
+        "CONSTEND": "1/3/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 541374.625, 
+        "YCOORD1": 540092.1875, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33178", 
+        "LOCATION2": "NW 87TH AVE and NW 53RD TER", 
+        "LOCATION1": "NW 87TH AVE and NW 52ND ST", 
+        "ID": 102
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33270237176875, 
+            25.614355529913205
+          ], 
+          [
+            -80.34717272287428, 
+            25.61392269825832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/20/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73421.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 168 St from SW 87 Av to US-1 (CD8)", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 871286.875, 
+        "SHAPE_LEN": 4771.06191215, 
+        "XCOORD1": 876054.5, 
+        "CONSTEND": "7/20/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 465902.15625, 
+        "YCOORD1": 466083.21875, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 168TH ST and S DIXIE HWY", 
+        "LOCATION1": "SW 168TH ST and SW 87TH AVE", 
+        "ID": 103
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33270237176875, 
+            25.614355529913205
+          ], 
+          [
+            -80.3319993736078, 
+            25.593759810525388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/20/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73422.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 87 Av from SW 168 St to Caribbean Blvd (CD 8)", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 876323.875, 
+        "SHAPE_LEN": 7489.22105637, 
+        "XCOORD1": 876054.5, 
+        "CONSTEND": "7/20/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 458598.84375, 
+        "YCOORD1": 466083.21875, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 87TH AVE and CARIBBEAN BLVD", 
+        "LOCATION1": "SW 87TH AVE and SW 168TH ST", 
+        "ID": 104
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.26037170636977, 
+            25.72741629502672
+          ], 
+          [
+            -80.24227479748835, 
+            25.728088693258158
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/21/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "143083", 
+        "SITENO": 73423.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Grand Av Between US-1 & Douglas Rd (CD 7)", 
+        "ZIPCODE1": "33133", 
+        "XCOORD2": 905616.375, 
+        "SHAPE_LEN": 5962.99258218, 
+        "XCOORD1": 899659.875, 
+        "CONSTEND": "6/20/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 507580.78125, 
+        "YCOORD1": 507302.59375, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33133", 
+        "LOCATION2": "GRAND AVE and MCFARLANE RD", 
+        "LOCATION1": "GRAND AVE and S DIXIE HWY", 
+        "ID": 105
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33192777856017, 
+            25.587291446565445
+          ], 
+          [
+            -80.33155837669125, 
+            25.570396451292034
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/21/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "683", 
+        "SITENO": 73424.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 87 Av from SW 193 Ter to SW 212 St (CD 8)", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 876512.0, 
+        "SHAPE_LEN": 6141.77323648, 
+        "XCOORD1": 876359.3125, 
+        "CONSTEND": "8/20/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 450108.15625, 
+        "YCOORD1": 456248.03125, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33189", 
+        "LOCATION2": "SW 87TH AVE and SW 212TH ST", 
+        "LOCATION1": "SW 87TH AVE and SW 193RD TER", 
+        "ID": 106
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.39527952857938, 
+            25.7297810341817
+          ], 
+          [
+            -80.39531713777644, 
+            25.731203392705524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/6/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "50612", 
+        "SITENO": 73425.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - Bird Rd from Turnpike to SW 124 Av (CD10)", 
+        "ZIPCODE1": "33175", 
+        "XCOORD2": 855227.0, 
+        "SHAPE_LEN": 517.116653947, 
+        "XCOORD1": 855241.75, 
+        "CONSTEND": "1/5/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 508452.78125, 
+        "YCOORD1": 507935.875, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 40TH ST and SW 124TH AVE", 
+        "LOCATION1": "SW 42ND ST and SW 124TH AVE", 
+        "ID": 107
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.3368752555928, 
+            25.79387206979535
+          ], 
+          [
+            -80.33666064895141, 
+            25.783487389290624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/4/2008", 
+        "DSGNSEND": null, 
+        "FUNDING": "108684", 
+        "SITENO": 73426.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 87 Av Between NW 25 St to Dolphin Expwy (SR-836)", 
+        "ZIPCODE1": "33172", 
+        "XCOORD2": 874441.5, 
+        "SHAPE_LEN": 3775.1265402, 
+        "XCOORD1": 874351.875, 
+        "CONSTEND": "1/3/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 527548.625, 
+        "YCOORD1": 531322.6875, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33172", 
+        "LOCATION2": "NW 87TH AVE and NW 12TH ST", 
+        "LOCATION1": "NW 87TH AVE and NW 21ST TER", 
+        "ID": 108
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2218928341298, 
+            25.956442994986798
+          ], 
+          [
+            -80.22661722895123, 
+            25.95623290428348
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "6/3/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "481478", 
+        "SITENO": 73427.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at Ives Dairy Rd between I-95 & NW 12 Ave.", 
+        "ZIPCODE1": "33169", 
+        "XCOORD2": 910283.25, 
+        "SHAPE_LEN": 1554.29435607, 
+        "XCOORD1": 911835.1875, 
+        "CONSTEND": "7/3/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 590533.875, 
+        "YCOORD1": 590619.4375, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33169", 
+        "LOCATION2": "NW 199TH ST and NW 14TH CT", 
+        "LOCATION1": "NW 199TH ST and NW 12TH AVE", 
+        "ID": 109
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14192447736798, 
+            25.963720471337044
+          ], 
+          [
+            -80.16118390307497, 
+            25.96309912308741
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/6/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "78115", 
+        "SITENO": 73428.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at Ives Dairy Rd between I-95 & NE 26 Ave.", 
+        "ZIPCODE1": "33180", 
+        "XCOORD2": 931768.125, 
+        "SHAPE_LEN": 6332.31371525, 
+        "XCOORD1": 938094.8125, 
+        "CONSTEND": "5/6/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 593162.0, 
+        "YCOORD1": 593428.875, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33179", 
+        "LOCATION2": "NE 203RD ST and NE 20TH CT", 
+        "LOCATION1": "NE 203RD ST and NE 29TH PL", 
+        "ID": 110
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.35167081745902, 
+            25.74343000594703
+          ], 
+          [
+            -80.35972567482614, 
+            25.743390234088533
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/26/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "41806", 
+        "SITENO": 75077.0, 
+        "PROJECTNO": 166.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Infrastructure Improvements-Sidewalks Priority 2.4-SW 28 ST from SW 97 AV to SW 102 AV", 
+        "ZIPCODE1": "33165", 
+        "XCOORD2": 866922.4375, 
+        "SHAPE_LEN": 2651.51664018, 
+        "XCOORD1": 869573.8125, 
+        "CONSTEND": "2/25/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 512937.4375, 
+        "YCOORD1": 512964.84375, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33165", 
+        "LOCATION2": "SW 28TH ST and SW 102ND AVE", 
+        "LOCATION1": "SW 28TH ST and SW 97TH AVE", 
+        "ID": 111
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30693868170086, 
+            25.94238225701275
+          ], 
+          [
+            -80.3079251292723, 
+            25.95000384708427
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/16/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 75349.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 67 Av Between NW 186 ST & NW 199 St", 
+        "ZIPCODE1": "33015", 
+        "XCOORD2": 883578.375, 
+        "SHAPE_LEN": 2789.1550979, 
+        "XCOORD1": 883917.1875, 
+        "CONSTEND": "1/14/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 588120.25, 
+        "YCOORD1": 585351.75, 
+        "COMMDIST": "District 13", 
+        "ZIPCODE2": "33015", 
+        "LOCATION2": "NW 67TH AVE and NW 199TH ST", 
+        "LOCATION1": "NW 67TH AVE and NW 186TH ST", 
+        "ID": 112
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2267367204781, 
+            25.88309794734545
+          ], 
+          [
+            -80.22743343526675, 
+            25.899095211783916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/16/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "7000", 
+        "SITENO": 75352.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 17 Av Between NW 119 St to Opa-Locka Blvd (NW 13600 Blk)", 
+        "ZIPCODE1": "33167", 
+        "XCOORD2": 910137.5, 
+        "SHAPE_LEN": 5819.14790866, 
+        "XCOORD1": 910400.8125, 
+        "CONSTEND": "10/16/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 569764.3125, 
+        "YCOORD1": 563951.125, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33054", 
+        "LOCATION2": "NW 17TH AVE and OPA LOCKA BLVD", 
+        "LOCATION1": "NW 17TH AVE and NW 119TH ST", 
+        "ID": 113
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.17541749105362, 
+            25.91252278433984
+          ], 
+          [
+            -80.17620032336028, 
+            25.929094229144344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "9/16/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 75353.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NE 12 Av Between NE 149 St to NE 167 St", 
+        "ZIPCODE1": "33161", 
+        "XCOORD2": 926911.875, 
+        "SHAPE_LEN": 6028.91831159, 
+        "XCOORD1": 927207.0625, 
+        "CONSTEND": "10/16/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 580770.6875, 
+        "YCOORD1": 574749.0, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33162", 
+        "LOCATION2": "NE 12TH AVE and NE 167TH ST", 
+        "LOCATION1": "NE 12TH AVE and NE 149TH ST", 
+        "ID": 114
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.22250396975356, 
+            25.779985615672057
+          ], 
+          [
+            -80.23933877581393, 
+            25.779465189579742
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/16/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "164183", 
+        "SITENO": 75354.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 7 St Between NW 17 Av to NW 27 Av", 
+        "ZIPCODE1": "33125", 
+        "XCOORD2": 906475.25, 
+        "SHAPE_LEN": 5543.30213101, 
+        "XCOORD1": 912014.125, 
+        "CONSTEND": "6/15/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 526259.8125, 
+        "YCOORD1": 526481.3125, 
+        "COMMDIST": "District 5", 
+        "ZIPCODE2": "33125", 
+        "LOCATION2": "NW 7TH ST and NW 27TH AVE", 
+        "LOCATION1": "NW 7TH ST and NW 17TH AVE", 
+        "ID": 115
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.231474811872, 
+            25.794519870532493
+          ], 
+          [
+            -80.23297826254898, 
+            25.83141858228265
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/25/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "295250", 
+        "SITENO": 75355.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 22 Av Between NW 20 St to NW 62 St", 
+        "ZIPCODE1": "33142", 
+        "XCOORD2": 908458.3125, 
+        "SHAPE_LEN": 13420.7948379, 
+        "XCOORD1": 909031.1875, 
+        "CONSTEND": "2/21/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 545155.25, 
+        "YCOORD1": 531746.6875, 
+        "COMMDIST": "District 5", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 22ND AVE and NW 62ND ST", 
+        "LOCATION1": "NW 22ND AVE and NW 20TH ST", 
+        "ID": 116
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2038748536556, 
+            25.751980427042664
+          ], 
+          [
+            -80.21679216528486, 
+            25.743002305815583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "2/25/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "71386", 
+        "SITENO": 75356.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - S Miami Av Between S 25 Rd & Mercy Way", 
+        "ZIPCODE1": "33129", 
+        "XCOORD2": 913973.625, 
+        "SHAPE_LEN": 5359.94334523, 
+        "XCOORD1": 918206.0625, 
+        "CONSTEND": "2/25/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 513050.3125, 
+        "YCOORD1": 516339.0, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33133", 
+        "LOCATION2": "S MIAMI AVE and MERCY WAY", 
+        "LOCATION1": "S MIAMI AVE and SW 25TH RD", 
+        "ID": 117
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.17643723057306, 
+            25.848059892145447
+          ], 
+          [
+            -80.17690397755153, 
+            25.85865019471154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": null, 
+        "SITENO": 75357.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NE 10 Av Between NE 79 St to NE 90 St", 
+        "ZIPCODE1": "33138", 
+        "XCOORD2": 926841.25, 
+        "SHAPE_LEN": 3852.40960157, 
+        "XCOORD1": 927018.875, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 555164.6875, 
+        "YCOORD1": 551316.375, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33138", 
+        "LOCATION2": "NE 10TH AVE and NE 90TH ST", 
+        "LOCATION1": "NE 10TH AVE and NE 79TH ST", 
+        "ID": 118
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.190798879495, 
+            25.79576498428892
+          ], 
+          [
+            -80.23981888166608, 
+            25.794274664951587
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/16/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "345168", 
+        "SITENO": 75358.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - N 20 St Between NE 2 Av to NW 17 Av", 
+        "ZIPCODE1": "33137", 
+        "XCOORD2": 906286.1875, 
+        "SHAPE_LEN": 16138.7957441, 
+        "XCOORD1": 922412.375, 
+        "CONSTEND": "5/16/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 531641.625, 
+        "YCOORD1": 532279.4375, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33142", 
+        "LOCATION2": "NW 20TH ST and NW 27TH AVE", 
+        "LOCATION1": "NE 20TH ST and NE 2ND AVE", 
+        "ID": 119
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36587392494768, 
+            25.62062258714279
+          ], 
+          [
+            -80.36547673054598, 
+            25.613227231739035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/14/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "21408", 
+        "SITENO": 75377.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D9 - SW 107 Ave from SW 160 St to SW 168 St", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 865256.375, 
+        "SHAPE_LEN": 2691.06088241, 
+        "XCOORD1": 865112.625, 
+        "CONSTEND": "11/13/2009", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 465620.09375, 
+        "YCOORD1": 468307.3125, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 107TH AVE and SW 168TH ST", 
+        "LOCATION1": "SW 107TH AVE and SW 160TH ST", 
+        "ID": 120
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.21586072697603, 
+            25.81357306119647
+          ], 
+          [
+            -80.21719723834647, 
+            25.839396323106445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "4/14/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "154095", 
+        "SITENO": 75665.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 12 Ave & SR 112 (NW 41 St.) - NW 71 St.", 
+        "ZIPCODE1": "33127", 
+        "XCOORD2": 913632.0, 
+        "SHAPE_LEN": 9396.38950151, 
+        "XCOORD1": 914127.5625, 
+        "CONSTEND": "10/15/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 548085.5, 
+        "YCOORD1": 538702.1875, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33150", 
+        "LOCATION2": "NW 12TH AVE and NW 71ST ST", 
+        "LOCATION1": "NW 12TH AVE and NW 41ST ST", 
+        "ID": 121
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36134907896565, 
+            25.613371159084156
+          ], 
+          [
+            -80.3604462875161, 
+            25.598398858993008
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/15/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "64125", 
+        "SITENO": 75666.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 104 Av. & SW 168 St. - SW 184 St.", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 866940.0625, 
+        "SHAPE_LEN": 5449.87468893, 
+        "XCOORD1": 866616.3125, 
+        "CONSTEND": "10/15/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 460238.6875, 
+        "YCOORD1": 465678.9375, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 104TH AVE and SW 184TH ST", 
+        "LOCATION1": "SW 104TH AVE and SW 168TH ST", 
+        "ID": 122
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.190798879495, 
+            25.79576498428892
+          ], 
+          [
+            -80.19156842606209, 
+            25.817869184680365
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/14/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "0", 
+        "SITENO": 75667.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NE 2 Ave. & NE 20 St. - NE 46 St.", 
+        "ZIPCODE1": "33137", 
+        "XCOORD2": 922109.8125, 
+        "SHAPE_LEN": 8038.3212462, 
+        "XCOORD1": 922412.375, 
+        "CONSTEND": "10/15/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 540312.0625, 
+        "YCOORD1": 532279.4375, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33137", 
+        "LOCATION2": "NE 2ND AVE and NE 46TH ST", 
+        "LOCATION1": "NE 2ND AVE and NE 20TH ST", 
+        "ID": 123
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.48157659216695, 
+            25.48901245417635
+          ], 
+          [
+            -80.19724900469265, 
+            25.761472543721457
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/15/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "249327", 
+        "SITENO": 75668.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - W. 2 Ave. & NW 20 St. - SW 13 St. (Coral Way)", 
+        "ZIPCODE1": "33030", 
+        "XCOORD2": 920366.0, 
+        "SHAPE_LEN": 136321.874179, 
+        "XCOORD1": 827174.3125, 
+        "CONSTEND": "10/15/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 519802.28125, 
+        "YCOORD1": 420308.75, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33130", 
+        "LOCATION2": "SW 2ND AVE and SW 13TH ST", 
+        "LOCATION1": "NW 2ND AVE and NW 20TH ST", 
+        "ID": 124
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.28805405780217, 
+            25.88128350800242
+          ], 
+          [
+            -80.2671972606674, 
+            25.881840317816014
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/25/2009", 
+        "DSGNSEND": null, 
+        "FUNDING": "81184", 
+        "SITENO": 75669.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - 65 St. & NW 37 Av./42 Av. Connector - W. 2 Ct., Hialeah", 
+        "ZIPCODE1": "33012", 
+        "XCOORD2": 897100.25, 
+        "SHAPE_LEN": 6860.70348183, 
+        "XCOORD1": 890243.75, 
+        "CONSTEND": "4/24/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 563417.6875, 
+        "YCOORD1": 563177.5625, 
+        "COMMDIST": "District 13", 
+        "ZIPCODE2": "33013", 
+        "LOCATION2": "E 65TH ST and LE JEUNE RD", 
+        "LOCATION1": "W 65TH ST and W 2ND CT", 
+        "ID": 125
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.18407165354877, 
+            25.833337348595414
+          ], 
+          [
+            -80.25075712099913, 
+            25.830918107070744
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "2/1/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "434846", 
+        "SITENO": 75670.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - N. 62 St. & NW 500 Blk- NW 33 Av (CD 2 & 3)", 
+        "ZIPCODE1": "33138", 
+        "XCOORD2": 902611.25, 
+        "SHAPE_LEN": 21953.1775893, 
+        "XCOORD1": 924541.1875, 
+        "CONSTEND": "4/1/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 544939.625, 
+        "YCOORD1": 545949.5, 
+        "COMMDIST": "District 3", 
+        "ZIPCODE2": "33147", 
+        "LOCATION2": "NW 62ND ST and NW 33 AVE", 
+        "LOCATION1": "NE 62ND ST and BISCAYNE BLVD", 
+        "ID": 126
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.35682982622286, 
+            25.665366215291233
+          ], 
+          [
+            -80.37581254847994, 
+            25.665153109666768
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/16/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "217380", 
+        "SITENO": 76205.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "SW 112 St Between SW 99 Ct & SW 112 Ave. Remove barriers or construct new access in County rights-of-way", 
+        "ZIPCODE1": "33176", 
+        "XCOORD2": 861761.4375, 
+        "SHAPE_LEN": 6253.23497881, 
+        "XCOORD1": 868013.75, 
+        "CONSTEND": "3/16/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 484476.4375, 
+        "YCOORD1": 484583.84375, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33176", 
+        "LOCATION2": "SW 112TH ST and SW 112TH AVE", 
+        "LOCATION1": "SW 112TH ST and SW 99TH CT", 
+        "ID": 127
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.1662488347993, 
+            25.889285087560044
+          ], 
+          [
+            -80.1668104474809, 
+            25.90026777271247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": "110654", 
+        "SITENO": 76280.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "NE 16 Ave between NE 123 St & NE 135 St - Remove barriers or construct new access in County rights-of-way", 
+        "ZIPCODE1": "0", 
+        "XCOORD2": 930064.625, 
+        "SHAPE_LEN": 3996.27145756, 
+        "XCOORD1": 930274.625, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 570312.5, 
+        "YCOORD1": 566321.75, 
+        "COMMDIST": "District 4", 
+        "ZIPCODE2": "33181", 
+        "LOCATION2": "NE 16TH AVE and NE 135TH ST", 
+        "LOCATION1": "NE 16TH AVE and NE 123RD ST", 
+        "ID": 128
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.25309069159685, 
+            25.717937633845192
+          ], 
+          [
+            -80.25296829521406, 
+            25.71428375780415
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "5/1/2010", 
+        "DSGNSEND": null, 
+        "FUNDING": "26046", 
+        "SITENO": 76340.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "SW 37 Ave (Douglas Rd) Between Main Hwy & Ingraham Hwy", 
+        "ZIPCODE1": "33133", 
+        "XCOORD2": 902124.25, 
+        "SHAPE_LEN": 1328.67304869, 
+        "XCOORD1": 902076.4375, 
+        "CONSTEND": "8/1/2010", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 502543.15625, 
+        "YCOORD1": 503870.96875, 
+        "COMMDIST": "District 7", 
+        "ZIPCODE2": "33133", 
+        "LOCATION2": "SW 37TH AVE and INGRAHAM HWY", 
+        "LOCATION1": "SW 37TH AVE and MAIN HWY", 
+        "ID": 129
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.17437107832494, 
+            25.890767171409024
+          ], 
+          [
+            -80.17478618824948, 
+            25.89993422467997
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": "48467", 
+        "SITENO": 76612.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects at NE 12 Ave from NE 125 to 135 ST.", 
+        "ZIPCODE1": "33161", 
+        "XCOORD2": 927443.375, 
+        "SHAPE_LEN": 3334.84337444, 
+        "XCOORD1": 927600.8125, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 570174.6875, 
+        "YCOORD1": 566843.5625, 
+        "COMMDIST": "District 2", 
+        "ZIPCODE2": "33161", 
+        "LOCATION2": "NE 12TH AVE and NE 135TH ST", 
+        "LOCATION1": "NE 12TH AVE and NE 125TH ST", 
+        "ID": 130
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36098854478435, 
+            25.76875001652047
+          ], 
+          [
+            -80.37703032818293, 
+            25.768371264839583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "1/19/2011", 
+        "DSGNSEND": null, 
+        "FUNDING": "48282", 
+        "SITENO": 76700.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - W Flagler St & SW 102 Ave to the 11200 Block", 
+        "ZIPCODE1": "33174", 
+        "XCOORD2": 861183.3125, 
+        "SHAPE_LEN": 5281.26407136, 
+        "XCOORD1": 866462.0625, 
+        "CONSTEND": "1/19/2011", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 521989.6875, 
+        "YCOORD1": 522152.625, 
+        "COMMDIST": "District 10", 
+        "ZIPCODE2": "33174", 
+        "LOCATION2": "W FLAGLER ST and SW 112TH AVE", 
+        "LOCATION1": "W FLAGLER ST and SW 102ND AVE", 
+        "ID": 131
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.37595086476509, 
+            25.671533058951404
+          ], 
+          [
+            -80.37581254847994, 
+            25.665153109666768
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "3/9/2011", 
+        "DSGNSEND": null, 
+        "FUNDING": "56000", 
+        "SITENO": 76892.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 112 Ave from SW 104 St to SW 112 St; SW 107 Ave between SW 128 St & SW 136 St", 
+        "ZIPCODE1": "33176", 
+        "XCOORD2": 861761.4375, 
+        "SHAPE_LEN": 2319.28205002, 
+        "XCOORD1": 861704.9375, 
+        "CONSTEND": "3/9/2011", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 484476.4375, 
+        "YCOORD1": 486795.03125, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33176", 
+        "LOCATION2": "SW 112TH AVE and SW 112TH ST", 
+        "LOCATION1": "SW 112TH AVE and SW 104TH ST", 
+        "ID": 132
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.26137764024085, 
+            25.940334740472004
+          ], 
+          [
+            -80.26208930775826, 
+            25.954796509866135
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": null, 
+        "DSGNSEND": null, 
+        "FUNDING": "30000", 
+        "SITENO": 76902.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Bus Stop Compliance Projects D1 - NW 37 Ave from NW 183 St to NW 199 St", 
+        "ZIPCODE1": "33056", 
+        "XCOORD2": 898630.4375, 
+        "SHAPE_LEN": 5261.72699934, 
+        "XCOORD1": 898893.9375, 
+        "CONSTEND": null, 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 589944.5, 
+        "YCOORD1": 584689.375, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33056", 
+        "LOCATION2": "NW 37TH AVE and NW 199TH ST", 
+        "LOCATION1": "NW 37TH AVE and NW 183RD ST", 
+        "ID": 133
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.4170062293699, 
+            25.761020658529663
+          ], 
+          [
+            -80.4162393626582, 
+            25.743513010067637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/15/2012", 
+        "DSGNSEND": null, 
+        "FUNDING": "20000", 
+        "SITENO": 77176.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 137 Ave from SW 8th ST to SW 26th ST (work not completed by ARRA Proj. 20090072 - WO #1).", 
+        "ZIPCODE1": "33184", 
+        "XCOORD2": 848319.5, 
+        "SHAPE_LEN": 6368.3082394, 
+        "XCOORD1": 848038.9375, 
+        "CONSTEND": "2/13/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 512895.75, 
+        "YCOORD1": 519257.875, 
+        "COMMDIST": "District 12", 
+        "ZIPCODE2": "33175", 
+        "LOCATION2": "SW 137TH AVE and CORAL WAY", 
+        "LOCATION1": "SW 137TH AVE and SW 8TH ST", 
+        "ID": 134
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.2603761192092, 
+            25.918985072042947
+          ], 
+          [
+            -80.26065181015112, 
+            25.926090734709344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/15/2012", 
+        "DSGNSEND": null, 
+        "FUNDING": "40000", 
+        "SITENO": 77177.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - NW 37 AVE from NW 159 ST to NW167 ST", 
+        "ZIPCODE1": "33054", 
+        "XCOORD2": 899161.6875, 
+        "SHAPE_LEN": 2584.32906096, 
+        "XCOORD1": 899266.875, 
+        "CONSTEND": "3/15/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 579513.4375, 
+        "YCOORD1": 576931.25, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33056", 
+        "LOCATION2": "NW 37TH AVE and NW 167TH ST", 
+        "LOCATION1": "NW 37TH AVE and NW 159TH ST", 
+        "ID": 135
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33440443722002, 
+            25.651272241762754
+          ], 
+          [
+            -80.34047932738117, 
+            25.651037650893734
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "12/15/2012", 
+        "DSGNSEND": null, 
+        "FUNDING": "65636", 
+        "SITENO": 77179.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 128 ST from 87 AVE to SW 90 AVE", 
+        "ZIPCODE1": "33176", 
+        "XCOORD2": 873425.375, 
+        "SHAPE_LEN": 2003.07992271, 
+        "XCOORD1": 875426.1875, 
+        "CONSTEND": "3/15/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 479402.59375, 
+        "YCOORD1": 479497.875, 
+        "COMMDIST": "District 8", 
+        "ZIPCODE2": "33176", 
+        "LOCATION2": "SW 128TH ST and SW 90TH AVE", 
+        "LOCATION1": "SW 128TH ST and SW 87TH AVE", 
+        "ID": 136
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.41473015032301, 
+            25.641106073478067
+          ], 
+          [
+            -80.41454212927228, 
+            25.622592669515416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "8/13/2012", 
+        "DSGNSEND": null, 
+        "FUNDING": "94818", 
+        "SITENO": 77180.0, 
+        "PROJECTNO": 139.2, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "ADA Compliance Projects - SW 137 AVE from SW 136 ST to SW 156 ST", 
+        "ZIPCODE1": "33186", 
+        "XCOORD2": 849072.8125, 
+        "SHAPE_LEN": 6729.03093043, 
+        "XCOORD1": 848981.125, 
+        "CONSTEND": "2/9/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 468949.53125, 
+        "YCOORD1": 475677.9375, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33177", 
+        "LOCATION2": "SW 137TH AVE and SW 156TH ST", 
+        "LOCATION1": "SW 137TH AVE and SW 136TH ST", 
+        "ID": 137
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.23612200058588, 
+            25.912035383481726
+          ], 
+          [
+            -80.36626203914092, 
+            25.62888389578896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/1/2013", 
+        "DSGNSEND": null, 
+        "FUNDING": "147000", 
+        "SITENO": 77495.0, 
+        "PROJECTNO": 157.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Resurfacing @ NW 151 St between NW 22-17 Ave", 
+        "ZIPCODE1": "33054", 
+        "XCOORD2": 864970.37384, 
+        "SHAPE_LEN": 111472.37252, 
+        "XCOORD1": 907253.74795, 
+        "CONSTEND": "9/30/2014", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 471309.28003, 
+        "YCOORD1": 574450.95944, 
+        "COMMDIST": "District 1", 
+        "ZIPCODE2": "33176", 
+        "LOCATION2": "NW 151ST ST & NW17TH AVE", 
+        "LOCATION1": "NW 151ST ST & NW 22ND AVE", 
+        "ID": 138
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.45739777822484, 
+            25.684039845615022
+          ], 
+          [
+            -80.45453630510079, 
+            25.69858931413386
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/13/2013", 
+        "DSGNSEND": null, 
+        "FUNDING": "500000", 
+        "SITENO": 77498.0, 
+        "PROJECTNO": 167.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Resurfacing SW 162 Ave between SW 88-72 St", 
+        "ZIPCODE1": "33196", 
+        "XCOORD2": 835780.75002, 
+        "SHAPE_LEN": 5371.36015761, 
+        "XCOORD1": 834860.19741, 
+        "CONSTEND": "11/13/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 496514.18748, 
+        "YCOORD1": 491222.29807, 
+        "COMMDIST": "District 11", 
+        "ZIPCODE2": "33193", 
+        "LOCATION2": "SW 162ND AVE & SW 72ND ST", 
+        "LOCATION1": "SW 162ND AVE & SW 88TH ST", 
+        "ID": 139
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.36222242895782, 
+            25.590930250955655
+          ], 
+          [
+            -80.36444176139985, 
+            25.595968724011666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "11/13/2013", 
+        "DSGNSEND": null, 
+        "FUNDING": "575000", 
+        "SITENO": 77499.0, 
+        "PROJECTNO": 165.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Marlin Rd from SW 186 St to US-1/The loop corresponds to SW 106 Ave between Marlin Rd and SW 108 Ave; SW 108 Ave between SW106 Ave and SW 190 Street and SW 190 Street between SW 108 Ave and SW 106 Ave", 
+        "ZIPCODE1": "33157", 
+        "XCOORD2": 865627.50005, 
+        "SHAPE_LEN": 1971.93455561, 
+        "XCOORD1": 866367.75, 
+        "CONSTEND": "11/13/2013", 
+        "DEPT": "PWWMD", 
+        "YCOORD2": 459349.12497, 
+        "YCOORD1": 457521.40622, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33157", 
+        "LOCATION2": "SW 186TH ST & MARLIN RD", 
+        "LOCATION1": "SW 106TH AVE & MARLIN RD", 
+        "ID": 140
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.18766640544955, 
+            25.774302694902385
+          ], 
+          [
+            -80.19557164059039, 
+            25.7740977923668
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "7/3/2014", 
+        "DSGNSEND": null, 
+        "FUNDING": "6000000", 
+        "SITENO": 77754.0, 
+        "PROJECTNO": 124.0, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "Economic Development Fund - Flagler Street Reconstruction and Economic Development", 
+        "ZIPCODE1": "33132", 
+        "XCOORD2": 920890.06246, 
+        "SHAPE_LEN": 2602.6966956, 
+        "XCOORD1": 923491.18718, 
+        "CONSTEND": "7/3/2014", 
+        "DEPT": "Regulatory and Economic Resources", 
+        "YCOORD2": 524394.49988, 
+        "YCOORD1": 524484.93655, 
+        "COMMDIST": "District 5", 
+        "ZIPCODE2": "33128", 
+        "LOCATION2": "W FLAGLER ST & NW 1ST AVE", 
+        "LOCATION1": "E FLAGLER ST & BISCAYNE BLVD", 
+        "ID": 141
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.49359878729045, 
+            25.469722349779037
+          ], 
+          [
+            -80.47734623277215, 
+            25.469832182318573
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CONSTSTART": "10/1/2014", 
+        "DSGNSEND": null, 
+        "FUNDING": "1890000", 
+        "SITENO": 73224.0, 
+        "PROJECTNO": 305.3, 
+        "DSGNSTART": null, 
+        "DESCRIPT": "(CHI) Children's Center Project", 
+        "ZIPCODE1": "33030", 
+        "XCOORD2": 828597.12322, 
+        "SHAPE_LEN": 5362.21576976, 
+        "XCOORD1": 823235.25003, 
+        "CONSTEND": "9/30/2015", 
+        "DEPT": "ND", 
+        "YCOORD2": 413343.34383, 
+        "YCOORD1": 413282.71885, 
+        "COMMDIST": "District 9", 
+        "ZIPCODE2": "33030", 
+        "LOCATION2": null, 
+        "LOCATION1": "790 W Mowry DR 33030", 
+        "ID": 142
+      }
+    }
+  ]
+}

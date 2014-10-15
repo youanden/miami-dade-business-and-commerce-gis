@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1443476817622, 
+          25.95903639572056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Aventura", 
+        "LON": -80.14435, 
+        "STATE": "FL", 
+        "ZIPCODE": 33180, 
+        "PHONE": "(305) 935-1110", 
+        "MALL": "Aventura Mall", 
+        "POINT_X": 937309.74245, 
+        "POINT_Y": 591721.09938, 
+        "ADDRESS": "19501 Biscayne Blvd", 
+        "LAT": 25.95904
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18593919407279, 
+          25.776381436428043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.18594, 
+        "STATE": "FL", 
+        "ZIPCODE": 33132, 
+        "PHONE": "(305) 577-3344", 
+        "MALL": "Bayside Marketplace", 
+        "POINT_X": 924054.93751, 
+        "POINT_Y": 525243.99972, 
+        "ADDRESS": "401 Biscayne Blvd", 
+        "LAT": 25.77638
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24202640313311, 
+          25.72876009934837
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.24203, 
+        "STATE": "FL", 
+        "ZIPCODE": 33133, 
+        "PHONE": "(305) 444-0777", 
+        "MALL": "CocoWalk", 
+        "POINT_X": 905696.74998, 
+        "POINT_Y": 507825.28128, 
+        "ADDRESS": "3015 Grand Ave", 
+        "LAT": 25.72876
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31347265511963, 
+          25.690208391738828
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.31347, 
+        "STATE": "FL", 
+        "ZIPCODE": 33156, 
+        "PHONE": "(305) 665-6343", 
+        "MALL": "Dadeland Mall", 
+        "POINT_X": 882248.24988, 
+        "POINT_Y": 493684.65626, 
+        "ADDRESS": "7535 N. Kendall Drive", 
+        "LAT": 25.69021
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30568341130447, 
+          25.692915055972893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.30568, 
+        "STATE": "FL", 
+        "ZIPCODE": 33143, 
+        "PHONE": "(305) 667-5290", 
+        "MALL": "Dadeland Station Mall", 
+        "POINT_X": 884808.25009, 
+        "POINT_Y": 494681.81265, 
+        "ADDRESS": "8310 South Dixie Hwy", 
+        "LAT": 25.69292
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3803468381477, 
+          25.787360290395483
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.38035, 
+        "STATE": "FL", 
+        "ZIPCODE": 33172, 
+        "PHONE": "(305) 365-7446", 
+        "MALL": "Dolphin Mall", 
+        "POINT_X": 860059.37489, 
+        "POINT_Y": 528886.25007, 
+        "ADDRESS": "11401 NW 12th St", 
+        "LAT": 25.78736
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17551651247375, 
+          25.925866108834736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "LON": -80.17552, 
+        "STATE": "FL", 
+        "ZIPCODE": 33162, 
+        "PHONE": "(305) 944-7132", 
+        "MALL": "Mall at 163rd Street", 
+        "POINT_X": 927144.00491, 
+        "POINT_Y": 579598.75896, 
+        "ADDRESS": "1205 NE 163rd St", 
+        "LAT": 25.92587
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32252064550475, 
+          25.773728235778442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.32252, 
+        "STATE": "FL", 
+        "ZIPCODE": 33144, 
+        "PHONE": "(305) 260-0586", 
+        "MALL": "Mall of the Americas", 
+        "POINT_X": 879112.70784, 
+        "POINT_Y": 524025.24191, 
+        "ADDRESS": "7757 W Flagler St", 
+        "LAT": 25.77373
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36548297803387, 
+          25.787564621865037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.36548, 
+        "STATE": "FL", 
+        "ZIPCODE": 33172, 
+        "PHONE": "(305) 593-1775", 
+        "MALL": "Miami International Mall", 
+        "POINT_X": 864949.9938, 
+        "POINT_Y": 528983.80441, 
+        "ADDRESS": "1455 NW 107th Ave", 
+        "LAT": 25.78756
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36691712965323, 
+          25.575815946789195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "LON": -80.36692, 
+        "STATE": "FL", 
+        "ZIPCODE": 33189, 
+        "PHONE": "(305) 235-8880", 
+        "MALL": "Southland Mall", 
+        "POINT_X": 864846.62499, 
+        "POINT_Y": 452020.71851, 
+        "ADDRESS": "20505 S Dixie Hwy", 
+        "LAT": 25.57582
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3380249434917, 
+          25.646140985351114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.33802, 
+        "STATE": "FL", 
+        "ZIPCODE": 33176, 
+        "PHONE": "(305) 255-4571", 
+        "MALL": "The Falls Shopping Center", 
+        "POINT_X": 874242.81929, 
+        "POINT_Y": 477626.9214, 
+        "ADDRESS": "8888 SW 136th St", 
+        "LAT": 25.64614
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3878311666308, 
+          25.689422875716794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.38783, 
+        "STATE": "FL", 
+        "ZIPCODE": 33183, 
+        "PHONE": "(305) 274-7982", 
+        "MALL": "The Palms at Town and Country", 
+        "POINT_X": 857761.81264, 
+        "POINT_Y": 493278.84384, 
+        "ADDRESS": "8268 Mills Drive", 
+        "LAT": 25.68942
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19447779812685, 
+          25.808433956676883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.19448, 
+        "STATE": "FL", 
+        "ZIPCODE": 33127, 
+        "PHONE": "(305) 573-3371", 
+        "MALL": "The Shops at Midtown Miami", 
+        "POINT_X": 921173.69615, 
+        "POINT_Y": 536876.78157, 
+        "ADDRESS": "3401 N. Miami Ave", 
+        "LAT": 25.80843
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28561872743175, 
+          25.704826711187934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "LON": -80.28562, 
+        "STATE": "FL", 
+        "ZIPCODE": 33143, 
+        "PHONE": "(305) 663-0873", 
+        "MALL": "The Shops at Sunset Place", 
+        "POINT_X": 891392.44378, 
+        "POINT_Y": 499046.42006, 
+        "ADDRESS": "5701 Sunset Drive", 
+        "LAT": 25.70483
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26160789823646, 
+          25.73183737722625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "LON": -80.26161, 
+        "STATE": "FL", 
+        "ZIPCODE": 33146, 
+        "PHONE": "(305) 529-0200", 
+        "MALL": "Village of Merrick Park", 
+        "POINT_X": 899243.90323, 
+        "POINT_Y": 508907.20579, 
+        "ADDRESS": "358 San Lorenzo Ave", 
+        "LAT": 25.73184
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31815900770779, 
+          25.86788692222146
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "LON": -80.31816, 
+        "STATE": "FL", 
+        "ZIPCODE": 33012, 
+        "PHONE": "(305) 823-9310", 
+        "MALL": "Westland Mall", 
+        "POINT_X": 880370.68761, 
+        "POINT_Y": 558255.81239, 
+        "ADDRESS": "1675 West 49th St", 
+        "LAT": 25.86789
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39237520242594, 
+          25.687697580451935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "LON": -80.39238, 
+        "STATE": "FL", 
+        "ZIPCODE": 33183, 
+        "PHONE": null, 
+        "MALL": "Kendall Village Center", 
+        "POINT_X": 856268.25017, 
+        "POINT_Y": 492644.87488, 
+        "ADDRESS": "8625 SW 124th Ave", 
+        "LAT": 25.6877
+      }
+    }
+  ]
+}

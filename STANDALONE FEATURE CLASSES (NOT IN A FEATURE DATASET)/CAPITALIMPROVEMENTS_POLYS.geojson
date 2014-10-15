@@ -1,0 +1,3644 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.20893600228376, 
+              25.841993470132074
+            ], 
+            [
+              -80.21709353954414, 
+              25.841726948135936
+            ], 
+            [
+              -80.21726879049035, 
+              25.846771996527664
+            ], 
+            [
+              -80.20912494697278, 
+              25.84704186373327
+            ], 
+            [
+              -80.20893600228376, 
+              25.841993470132074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4923426.64648, 
+        "XCOORD4": 916270.375, 
+        "XCOORD2": 913661.0625, 
+        "XCOORD3": 913592.5, 
+        "XCOORD1": 916343.5625, 
+        "COMMDIST": "District 2", 
+        "DSGNSTART": "6/19/2006", 
+        "DSGNSEND": "12/16/2006", 
+        "ZIPCODE2": "33150", 
+        "ZIPCODE3": "33150", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Local Drainage Improvement NW 22 Ct from NW 107-112 St", 
+        "SHAPE_LEN": 9035.86048698, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "384524", 
+        "LOCATION4": "NW 79TH ST and NW 7TH AVE", 
+        "ZIPCODE4": "33150", 
+        "LOCATION2": "NW 73RD ST and NW 12TH AVE", 
+        "LOCATION3": "NW 79TH ST and NW 12TH AVE", 
+        "LOCATION1": "NW 73 ST - NW 79 St from NW 7 AVE - NW 12 AVE", 
+        "YCOORD4": 550880.3125, 
+        "YCOORD3": 550766.1875, 
+        "YCOORD2": 548932.8125, 
+        "YCOORD1": 549045.75, 
+        "CONSTEND": "12/11/2007", 
+        "ID": 1, 
+        "CONSTSTART": "11/11/2007", 
+        "ZIPCODE1": "33150", 
+        "SITENO": 70020.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.20968698400425, 
+              25.86185994231702
+            ], 
+            [
+              -80.22589050043497, 
+              25.861186698990867
+            ], 
+            [
+              -80.22613584498951, 
+              25.8686011126863
+            ], 
+            [
+              -80.20991848280025, 
+              25.86923216094765
+            ], 
+            [
+              -80.20968698400425, 
+              25.86185994231702
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 14343987.5684, 
+        "XCOORD4": 915960.875, 
+        "XCOORD2": 910726.0, 
+        "XCOORD3": 910629.4375, 
+        "XCOORD1": 916053.125, 
+        "COMMDIST": "District 2", 
+        "DSGNSTART": "9/1/2009", 
+        "DSGNSEND": "9/1/2010", 
+        "ZIPCODE2": "33147", 
+        "ZIPCODE3": "33147", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Local Drainage Improvement - NW 103 St from NW 7 Ave - NW 17 Ave", 
+        "SHAPE_LEN": 16049.0010719, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "0", 
+        "LOCATION4": "NW 103RD ST and NW 7TH AVE", 
+        "ZIPCODE4": "33150", 
+        "LOCATION2": "NW 95TH ST and NW 17TH AVE", 
+        "LOCATION3": "NW 103RD ST and NW 17TH AVE", 
+        "LOCATION1": "NW 95 ST - NW 103 ST from NW 7 AVE - NW 17 AVE", 
+        "YCOORD4": 558944.25, 
+        "YCOORD3": 558683.125, 
+        "YCOORD2": 555988.6875, 
+        "YCOORD1": 556265.125, 
+        "CONSTEND": "1/3/2012", 
+        "ID": 2, 
+        "CONSTSTART": "3/29/2011", 
+        "ZIPCODE1": "33150", 
+        "SITENO": 70021.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.31064016932503, 
+              25.756320928444325
+            ], 
+            [
+              -80.31037400979791, 
+              25.754896023678334
+            ], 
+            [
+              -80.31567910627915, 
+              25.754756232042034
+            ], 
+            [
+              -80.31571308178106, 
+              25.75621657825452
+            ], 
+            [
+              -80.31064016932503, 
+              25.756320928444325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 897738.13379, 
+        "XCOORD4": 881386.0625, 
+        "XCOORD2": 883145.875, 
+        "XCOORD3": 881400.0, 
+        "XCOORD1": 883055.5625, 
+        "COMMDIST": "District 6", 
+        "DSGNSTART": "9/1/2005", 
+        "DSGNSEND": "12/30/2005", 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Hardwood Village Drainage Improvement Phase II. The design of the Hardwood Village Phase II (SW 71 CT to SW 74 AVE from SW 15 ST to SW 16 TERR ) Drainage Improvement Project", 
+        "SHAPE_LEN": 4473.21499594, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "1121497", 
+        "LOCATION4": "SW 74TH AVE and SW 15TH ST", 
+        "ZIPCODE4": "33144", 
+        "LOCATION2": "SW 71ST CT and SW 16TH TER", 
+        "LOCATION3": "SW 74TH AVE and SW 16TH TER", 
+        "LOCATION1": "SW 71 CT - SW 74 AVE from SW 15 ST - SW 16 TER", 
+        "YCOORD4": 517672.03125, 
+        "YCOORD3": 517141.3125, 
+        "YCOORD2": 517201.21875, 
+        "YCOORD1": 517718.65625, 
+        "CONSTEND": "12/12/2006", 
+        "ID": 3, 
+        "CONSTSTART": "6/28/2006", 
+        "ZIPCODE1": "33144", 
+        "SITENO": 70043.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3035430786998, 
+              25.748017844029462
+            ], 
+            [
+              -80.31155313662552, 
+              25.74808989340485
+            ], 
+            [
+              -80.31163974348239, 
+              25.751314355580927
+            ], 
+            [
+              -80.30361150054803, 
+              25.751262855630376
+            ], 
+            [
+              -80.3035430786998, 
+              25.748017844029462
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3102845.32227, 
+        "XCOORD4": 885378.6875, 
+        "XCOORD2": 882770.6875, 
+        "XCOORD3": 882736.0625, 
+        "XCOORD1": 885407.4375, 
+        "COMMDIST": "District 6", 
+        "DSGNSTART": "8/1/2013", 
+        "DSGNSEND": "5/28/2014", 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Local Drainage Improvements - Coral Way to SW 21 St from SW 67 Ave to SW 72 Ave", 
+        "SHAPE_LEN": 7631.39516496, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "750000", 
+        "LOCATION4": "SW 21ST ST and SW 67TH AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "CORAL WAY and SW 72ND AVE", 
+        "LOCATION3": "SW 21ST ST and SW 72ND AVE", 
+        "LOCATION1": "CORAL WAY to SW 21 St from SW 67 Ave - SW 72 Ave", 
+        "YCOORD4": 515892.40625, 
+        "YCOORD3": 515897.25, 
+        "YCOORD2": 514725.4375, 
+        "YCOORD1": 514713.09375, 
+        "CONSTEND": "7/26/2015", 
+        "ID": 4, 
+        "CONSTSTART": "11/24/2014", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 70044.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3035430786998, 
+              25.748017844029462
+            ], 
+            [
+              -80.30287758980772, 
+              25.73340281643525
+            ], 
+            [
+              -80.31092583786575, 
+              25.733167862910634
+            ], 
+            [
+              -80.31155313662552, 
+              25.74808989340485
+            ], 
+            [
+              -80.3035430786998, 
+              25.748017844029462
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 14194006.4248, 
+        "XCOORD4": 885654.5625, 
+        "XCOORD2": 882770.6875, 
+        "XCOORD3": 883005.5, 
+        "XCOORD1": 885407.4375, 
+        "COMMDIST": "District 6", 
+        "DSGNSTART": "12/1/2004", 
+        "DSGNSEND": "5/30/2005", 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "SW 24 ST - SW 40 ST from SW 67 AVE - SW 72 AVE Drainage Improvement Project", 
+        "SHAPE_LEN": 16031.8118742, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "398749", 
+        "LOCATION4": "SW 40TH ST and SW 67TH AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 24TH ST and SW 72ND AVE", 
+        "LOCATION3": "SW 40TH ST and SW 72ND AVE", 
+        "LOCATION1": "SW 24 ST - SW 40 ST from SW 67 AVE - SW 72 AVE", 
+        "YCOORD4": 509402.28125, 
+        "YCOORD3": 509302.96875, 
+        "YCOORD2": 514725.4375, 
+        "YCOORD1": 514713.09375, 
+        "CONSTEND": "7/18/2007", 
+        "ID": 5, 
+        "CONSTSTART": "6/18/2007", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 70047.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35158724114082, 
+              25.680220769737335
+            ], 
+            [
+              -80.35149436579741, 
+              25.678377105208103
+            ], 
+            [
+              -80.35564958714868, 
+              25.678217362308697
+            ], 
+            [
+              -80.3556432640803, 
+              25.68009876251409
+            ], 
+            [
+              -80.35158724114082, 
+              25.680220769737335
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 916108.02734, 
+        "XCOORD4": 868378.5, 
+        "XCOORD2": 869748.0, 
+        "XCOORD3": 868379.75, 
+        "XCOORD1": 869714.125, 
+        "COMMDIST": "District 8", 
+        "DSGNSTART": "6/30/2006", 
+        "DSGNSEND": "9/30/2007", 
+        "ZIPCODE2": "33176", 
+        "ZIPCODE3": "33176", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Replaced w/ SW 126 TER to SW 128 ST from SW 96 AVE to SW 94 CT", 
+        "SHAPE_LEN": 4060.98184618, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "777802", 
+        "LOCATION4": "SW 99TH AVE and SW 96TH ST", 
+        "ZIPCODE4": "33176", 
+        "LOCATION2": "SW 97TH AVE and SW 98TH ST", 
+        "LOCATION3": "SW 99TH AVE and SW 98TH ST", 
+        "LOCATION1": "SW 97 AVE - SW 99 AVE FROM SW 96 ST - SW 98 ST", 
+        "YCOORD4": 489940.34375, 
+        "YCOORD3": 489256.53125, 
+        "YCOORD2": 489321.28125, 
+        "YCOORD1": 489991.21875, 
+        "CONSTEND": "11/29/2008", 
+        "ID": 6, 
+        "CONSTSTART": "8/31/2008", 
+        "ZIPCODE1": "33176", 
+        "SITENO": 70074.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3674441565078, 
+              25.65749925675815
+            ], 
+            [
+              -80.36720942227156, 
+              25.65016921520667
+            ], 
+            [
+              -80.38308880169663, 
+              25.64809898219432
+            ], 
+            [
+              -80.38341112739404, 
+              25.657364648548256
+            ], 
+            [
+              -80.3674441565078, 
+              25.65749925675815
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 15856623.8438, 
+        "XCOORD4": 859271.75, 
+        "XCOORD2": 864621.25, 
+        "XCOORD3": 859393.625, 
+        "XCOORD1": 864531.1875, 
+        "COMMDIST": "District 8", 
+        "DSGNSTART": "9/1/2006", 
+        "DSGNSEND": "9/1/2007", 
+        "ZIPCODE2": "33176", 
+        "ZIPCODE3": "33186", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Pine Shores Drainage Improvement Project", 
+        "SHAPE_LEN": 16579.6286211, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "998680", 
+        "LOCATION4": "SW 117TH AVE and SW 120TH ST", 
+        "ZIPCODE4": "33186", 
+        "LOCATION2": "SW 107TH AVE and SW 128TH ST", 
+        "LOCATION3": "SW 117TH AVE and SW 128TH ST", 
+        "LOCATION1": "SW 107 AVE  - SW 117 AVE from SW 120 ST - SW 128 ST", 
+        "YCOORD4": 481633.96875, 
+        "YCOORD3": 478266.84375, 
+        "YCOORD2": 479043.96875, 
+        "YCOORD1": 481707.71875, 
+        "CONSTEND": "3/8/2009", 
+        "ID": 7, 
+        "CONSTSTART": "2/28/2008", 
+        "ZIPCODE1": "33176", 
+        "SITENO": 70075.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.37548027316706, 
+              25.727192393628986
+            ], 
+            [
+              -80.37492513724628, 
+              25.71514090019764
+            ], 
+            [
+              -80.38258300628505, 
+              25.71485738835724
+            ], 
+            [
+              -80.38301024402635, 
+              25.72708423832816
+            ], 
+            [
+              -80.37548027316706, 
+              25.727192393628986
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11042647.3643, 
+        "XCOORD4": 859285.5, 
+        "XCOORD2": 861967.8125, 
+        "XCOORD3": 859446.9375, 
+        "XCOORD1": 861764.3125, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": "10/1/2009", 
+        "DSGNSEND": "10/1/2010", 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33175", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Local Drainage Improvement- 9770 SW 45 St;10380 SW 27 Street;SW 82nd Ave from SW 48 St  to SW 56 St;2000 SW 81 Ave;SW 72 St & SW 133 Ave; 9990 SW 35 Ter; SW 34 St Bet SW 90-91 Ave. Original location SW 112 AVE - SW 117 AVE AND SW 44 ST - SW 48 ST.", 
+        "SHAPE_LEN": 13833.0488332, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "564214", 
+        "LOCATION4": "SW 117TH AVE and SW 43RD TER", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 112TH AVE and SW 56TH ST", 
+        "LOCATION3": "SW 117TH AVE and SW 56TH ST", 
+        "LOCATION1": "SW 112 AVE - SW 117 AVE and SW 44 ST - SW 48 ST", 
+        "YCOORD4": 506974.40625, 
+        "YCOORD3": 502531.15625, 
+        "YCOORD2": 502646.0625, 
+        "YCOORD1": 507025.375, 
+        "CONSTEND": "10/31/2011", 
+        "ID": 8, 
+        "CONSTSTART": "3/1/2011", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 70085.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3523741735033, 
+              25.761657142860802
+            ], 
+            [
+              -80.3603973942379, 
+              25.761549201280488
+            ], 
+            [
+              -80.36098854478435, 
+              25.76875001652047
+            ], 
+            [
+              -80.35318014743251, 
+              25.769007339080307
+            ], 
+            [
+              -80.3523741735033, 
+              25.761657142860802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 6904459.39258, 
+        "XCOORD4": 869031.375, 
+        "XCOORD2": 866669.3125, 
+        "XCOORD3": 866462.0625, 
+        "XCOORD1": 869309.75, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": "9/1/2005", 
+        "DSGNSEND": "9/1/2006", 
+        "ZIPCODE2": "33174", 
+        "ZIPCODE3": "33174", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Flagler Hills Drainage Improvement Project", 
+        "SHAPE_LEN": 10521.55764, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "638363", 
+        "LOCATION4": "W FLAGLER ST and NW 97TH AVE", 
+        "ZIPCODE4": "33174", 
+        "LOCATION2": "SW 8TH ST and SW 102ND AVE", 
+        "LOCATION3": "W FLAGLER ST and NW 102ND AVE", 
+        "LOCATION1": "SW 97 AVE - SW 102 AVE FROM FLAGLER ST - SW 4 ST", 
+        "YCOORD4": 522258.6875, 
+        "YCOORD3": 522152.625, 
+        "YCOORD2": 519536.375, 
+        "YCOORD1": 519588.5, 
+        "CONSTEND": "10/21/2007", 
+        "ID": 9, 
+        "CONSTSTART": "2/28/2007", 
+        "ZIPCODE1": "33174", 
+        "SITENO": 70086.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.41623548587663, 
+              25.743568108023744
+            ], 
+            [
+              -80.41568139584588, 
+              25.729210484392965
+            ], 
+            [
+              -80.42764975247752, 
+              25.728668849073404
+            ], 
+            [
+              -80.42820163823495, 
+              25.74311302100141
+            ], 
+            [
+              -80.41623548587663, 
+              25.743568108023744
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 20653025.3193, 
+        "XCOORD4": 848526.1875, 
+        "XCOORD2": 844382.5, 
+        "XCOORD3": 844586.9375, 
+        "XCOORD1": 848320.6875, 
+        "COMMDIST": "District 11", 
+        "DSGNSTART": "9/1/2005", 
+        "DSGNSEND": "9/1/2006", 
+        "ZIPCODE2": "33175", 
+        "ZIPCODE3": "33175", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "(JG Head Farms Phase 2) Local Drainage Improvement", 
+        "SHAPE_LEN": 18362.0427122, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "2059768", 
+        "LOCATION4": "SW 42ND ST and SW 137TH AVE", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 26TH ST and SW 144TH AVE", 
+        "LOCATION3": "SW 42ND ST and SW 144TH AVE", 
+        "LOCATION1": "SW 26 ST - SW 42 ST and SW 137 AVE - SW 144 AVE", 
+        "YCOORD4": 507698.25, 
+        "YCOORD3": 507484.125, 
+        "YCOORD2": 512733.125, 
+        "YCOORD1": 512915.78125, 
+        "CONSTEND": "1/23/2009", 
+        "ID": 10, 
+        "CONSTSTART": "9/1/2007", 
+        "ZIPCODE1": "33175", 
+        "SITENO": 70096.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.37619128296646, 
+              25.76114545006298
+            ], 
+            [
+              -80.39276737886694, 
+              25.76098433644097
+            ], 
+            [
+              -80.3930555851857, 
+              25.773281020587444
+            ], 
+            [
+              -80.37753674006152, 
+              25.77450189837958
+            ], 
+            [
+              -80.37619128296646, 
+              25.76114545006298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 24689055.5732, 
+        "XCOORD4": 856016.5625, 
+        "XCOORD2": 861006.125, 
+        "XCOORD3": 855901.125, 
+        "XCOORD1": 861471.875, 
+        "COMMDIST": "District 12", 
+        "DSGNSTART": "1/1/2005", 
+        "DSGNSEND": "12/1/2005", 
+        "ZIPCODE2": "33172", 
+        "ZIPCODE3": "33182", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "(Belen Pump Stations)", 
+        "SHAPE_LEN": 19927.3995838, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "2694394", 
+        "LOCATION4": "SW 122ND AVE and SW 8TH ST", 
+        "ZIPCODE4": "33184", 
+        "LOCATION2": "NW 112TH AVE and NW 6TH ST", 
+        "LOCATION3": "NW 122ND AVE and NW 6TH ST", 
+        "LOCATION1": "SW/NW 118 AVE - SW/NW 122 AVE FROM NW 6 ST - SW 7 ST", 
+        "YCOORD4": 519280.6875, 
+        "YCOORD3": 523749.5625, 
+        "YCOORD2": 524217.125, 
+        "YCOORD1": 519364.71875, 
+        "CONSTEND": "6/1/2008", 
+        "ID": 11, 
+        "CONSTSTART": "6/1/2006", 
+        "ZIPCODE1": "33174", 
+        "SITENO": 70102.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.30841844012014, 
+              25.757112749987623
+            ], 
+            [
+              -80.30851432321839, 
+              25.752196311015542
+            ], 
+            [
+              -80.31110899437269, 
+              25.75220860966615
+            ], 
+            [
+              -80.31030314235502, 
+              25.757072510345587
+            ], 
+            [
+              -80.30841844012014, 
+              25.757112749987623
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1309535.84277, 
+        "XCOORD4": 883763.125, 
+        "XCOORD2": 883165.0625, 
+        "XCOORD3": 882909.0625, 
+        "XCOORD1": 883785.3125, 
+        "COMMDIST": "District 6", 
+        "DSGNSTART": "2/1/2005", 
+        "DSGNSEND": "2/1/2006", 
+        "ZIPCODE2": "33144", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Hardwood Village Drainage Improvement", 
+        "SHAPE_LEN": 5049.44547083, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "800527", 
+        "LOCATION4": "SW 19TH TER and SW 70TH AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 14TH ST and SW 71ST CT", 
+        "LOCATION3": "SW 19TH TER and SW 71ST CT", 
+        "LOCATION1": "SW 14 TER - SW 19 TER from SW 70 AVE - SW 71 CT", 
+        "YCOORD4": 516223.1875, 
+        "YCOORD3": 516223.1875, 
+        "YCOORD2": 517992.40625, 
+        "YCOORD1": 518010.28125, 
+        "CONSTEND": "6/17/2007", 
+        "ID": 12, 
+        "CONSTSTART": "7/31/2006", 
+        "ZIPCODE1": "33144", 
+        "SITENO": 70172.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3990757462703, 
+              25.714934654885266
+            ], 
+            [
+              -80.39847352886038, 
+              25.700453702831812
+            ], 
+            [
+              -80.40306743535646, 
+              25.700277060286385
+            ], 
+            [
+              -80.40454691432339, 
+              25.714815497537842
+            ], 
+            [
+              -80.3990757462703, 
+              25.714934654885266
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 8757254.67285, 
+        "XCOORD4": 854238.8125, 
+        "XCOORD2": 852215.375, 
+        "XCOORD3": 852726.375, 
+        "XCOORD1": 854016.5625, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": "10/1/2010", 
+        "DSGNSEND": "10/1/2011", 
+        "ZIPCODE2": "33175", 
+        "ZIPCODE3": "33183", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "(Sunset Harbor) Local Drainage Improvement", 
+        "SHAPE_LEN": 13889.4749003, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "750000", 
+        "LOCATION4": "SW 72ND ST and SW 127TH AVE", 
+        "ZIPCODE4": "33183", 
+        "LOCATION2": "SW 56TH ST and SW 129TH CT", 
+        "LOCATION3": "SW 72ND ST and SW 129TH AVE", 
+        "LOCATION1": "SW 127 AVE - SW 128 AVE from SW 58 ST - SW 65 ST", 
+        "YCOORD4": 497271.9375, 
+        "YCOORD3": 497200.875, 
+        "YCOORD2": 502482.71875, 
+        "YCOORD1": 502534.1875, 
+        "CONSTEND": "10/30/2012", 
+        "ID": 13, 
+        "CONSTSTART": "2/29/2012", 
+        "ZIPCODE1": "33175", 
+        "SITENO": 70179.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.25357939750049, 
+              25.86093328669223
+            ], 
+            [
+              -80.2565933169442, 
+              25.860258869127417
+            ], 
+            [
+              -80.2567660021404, 
+              25.86525400657261
+            ], 
+            [
+              -80.25378019912955, 
+              25.865365590360547
+            ], 
+            [
+              -80.25357939750049, 
+              25.86093328669223
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1698978.69922, 
+        "XCOORD4": 901545.75, 
+        "XCOORD2": 900631.1875, 
+        "XCOORD3": 900564.125, 
+        "XCOORD1": 901620.9375, 
+        "COMMDIST": "District 2", 
+        "DSGNSTART": "1/1/2015", 
+        "DSGNSEND": "6/30/2015", 
+        "ZIPCODE2": "33147", 
+        "ZIPCODE3": "33147", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Local Drainage Improvement-NW 95 ST - NW 100 ST FROM NW 34 AVE - NW 36 AVE", 
+        "SHAPE_LEN": 5432.59483534, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "500000", 
+        "LOCATION4": "NW 100TH ST and NW 34TH AVE", 
+        "ZIPCODE4": "33147", 
+        "LOCATION2": "NW 95TH ST and NW 36TH AVE", 
+        "LOCATION3": "NW 100TH ST and NW 36TH AVE", 
+        "LOCATION1": "NW 95 ST  - NW 100 ST from NW 34 AVE- NW 36 AVE", 
+        "YCOORD4": 557454.5, 
+        "YCOORD3": 557408.375, 
+        "YCOORD2": 555593.125, 
+        "YCOORD1": 555843.875, 
+        "CONSTEND": "6/8/2016", 
+        "ID": 14, 
+        "CONSTSTART": "12/29/2015", 
+        "ZIPCODE1": "33147", 
+        "SITENO": 70196.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.32813959847127, 
+                25.93509974789786
+              ], 
+              [
+                -80.32633338803372, 
+                25.93498324234817
+              ], 
+              [
+                -80.20700126067707, 
+                25.792318493029185
+              ], 
+              [
+                -80.32813959847127, 
+                25.93509974789786
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.33428362477933, 
+                25.94232978724263
+              ], 
+              [
+                -80.32813959847127, 
+                25.93509974789786
+              ], 
+              [
+                -80.33508644537409, 
+                25.93554762423203
+              ], 
+              [
+                -80.33428362477933, 
+                25.94232978724263
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 17389644.9228, 
+        "XCOORD4": 874679.75, 
+        "XCOORD2": 917088.75, 
+        "XCOORD3": 874931.0625, 
+        "XCOORD1": 877557.4375, 
+        "COMMDIST": "District 13", 
+        "DSGNSTART": "10/1/2006", 
+        "DSGNSEND": "3/30/2007", 
+        "ZIPCODE2": "33136", 
+        "ZIPCODE3": "33015", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "Palm Springs North Phase 5 Drainage Improvement Project", 
+        "SHAPE_LEN": 139130.71898, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "517949", 
+        "LOCATION4": "NW 82ND AVE and NW 178TH ST", 
+        "ZIPCODE4": "33015", 
+        "LOCATION2": "NW 7TH AVE and NW 18TH ST", 
+        "LOCATION3": "NW 82ND AVE and NW 186TH ST", 
+        "LOCATION1": "NW 77  AVE - NW 78 Ct from NW 179 ST - NW 186 St", 
+        "YCOORD4": 582819.625, 
+        "YCOORD3": 585286.0625, 
+        "YCOORD2": 530994.3125, 
+        "YCOORD1": 582629.1875, 
+        "CONSTEND": "1/12/2008", 
+        "ID": 15, 
+        "CONSTSTART": "8/27/2007", 
+        "ZIPCODE1": "33015", 
+        "SITENO": 70203.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35728436566389, 
+              25.613554711921196
+            ], 
+            [
+              -80.34499698566991, 
+              25.614010639616616
+            ], 
+            [
+              -80.34447700924578, 
+              25.598867937905567
+            ], 
+            [
+              -80.38901363179716, 
+              25.59733015658535
+            ], 
+            [
+              -80.35728436566389, 
+              25.613554711921196
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 51508678.2627, 
+        "XCOORD4": 872003.6875, 
+        "XCOORD2": 857526.875, 
+        "XCOORD3": 872202.25, 
+        "XCOORD1": 867955.4375, 
+        "COMMDIST": "District 8", 
+        "DSGNSTART": "4/9/2007", 
+        "DSGNSEND": "7/25/2008", 
+        "ZIPCODE2": "33177", 
+        "ZIPCODE3": "33157", 
+        "PROJECTNO": 17.17, 
+        "DESCRIPT": "Eco Dev Perrine DIST8 /Cutler Ridge Water and Sewer Improvements (NORTH BASIN, Basin A).Total Area: 8.07 Acres (2,094,046 SF).Commercial Properties: 33 Parcels. Residential Properties: 0 Parcels\r\n", 
+        "SHAPE_LEN": 36252.409625, 
+        "DEPT": "WASD", 
+        "FUNDING": "1113365", 
+        "LOCATION4": "SW 168TH ST and SW 94TH AVE", 
+        "ZIPCODE4": "33157", 
+        "LOCATION2": "SW95TH AVE", 
+        "LOCATION3": "SW 174TH ST, E.  OF S.B. US 1", 
+        "LOCATION1": "SW 168th St, West of S.B. US 1, East of MDX-Bus way, SW 174th St.", 
+        "YCOORD4": 465937.65625, 
+        "YCOORD3": 460434.875, 
+        "YCOORD2": 459805.875, 
+        "YCOORD1": 465752.125, 
+        "CONSTEND": "11/4/2011", 
+        "ID": 16, 
+        "CONSTSTART": "10/10/2011", 
+        "ZIPCODE1": "33157", 
+        "SITENO": 70229.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.25649450943456, 
+              25.808594539284464
+            ], 
+            [
+              -80.25815401370288, 
+              25.846436169186436
+            ], 
+            [
+              -80.25019088105329, 
+              25.853166857958545
+            ], 
+            [
+              -80.24837454802943, 
+              25.808842531518827
+            ], 
+            [
+              -80.25649450943456, 
+              25.808594539284464
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 40225258.5781, 
+        "XCOORD4": 900146.3125, 
+        "XCOORD2": 903440.8125, 
+        "XCOORD3": 902751.375, 
+        "XCOORD1": 900769.875, 
+        "COMMDIST": "District 2", 
+        "DSGNSTART": "3/3/2007", 
+        "DSGNSEND": "6/30/2008", 
+        "ZIPCODE2": "33142", 
+        "ZIPCODE3": "33147", 
+        "PROJECTNO": 17.18, 
+        "DESCRIPT": "WASD Enhancements-Eco Dev NW 37 Avenue Industrial Development Area - Phase 1", 
+        "SHAPE_LEN": 36143.8216877, 
+        "DEPT": "WASD", 
+        "FUNDING": "10221000", 
+        "LOCATION4": "NW 37TH AVE and NW 80TH ST", 
+        "ZIPCODE4": "33147", 
+        "LOCATION2": "NW 32ND AVE and NW 36TH ST", 
+        "LOCATION3": "NW 32ND AVE and NW 87TH ST", 
+        "LOCATION1": "NW 37TH AVE and NW 36TH ST", 
+        "YCOORD4": 550566.125, 
+        "YCOORD3": 553027.375, 
+        "YCOORD2": 536920.375, 
+        "YCOORD1": 536815.0625, 
+        "CONSTEND": "10/22/2010", 
+        "ID": 17, 
+        "CONSTSTART": "6/6/2009", 
+        "ZIPCODE1": "33142", 
+        "SITENO": 70267.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.29980542079191, 
+              25.890672530961073
+            ], 
+            [
+              -80.35197754759102, 
+              25.88965368736359
+            ], 
+            [
+              -80.35008766187661, 
+              25.892722216601054
+            ], 
+            [
+              -80.29990040152646, 
+              25.892489178937737
+            ], 
+            [
+              -80.29980542079191, 
+              25.890672530961073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 14895370.0605, 
+        "XCOORD4": 869211.0625, 
+        "XCOORD2": 886327.0, 
+        "XCOORD3": 869826.875, 
+        "XCOORD1": 886361.75, 
+        "COMMDIST": "District 13", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33014", 
+        "ZIPCODE3": "33018", 
+        "PROJECTNO": 17.24, 
+        "DESCRIPT": "WASD/MUNIHialeah Sewer Mains", 
+        "SHAPE_LEN": 35594.6871402, 
+        "DEPT": "WASD", 
+        "FUNDING": "0", 
+        "LOCATION4": "W 74TH ST and W 34TH AVE", 
+        "ZIPCODE4": "33018", 
+        "LOCATION2": "W 77TH ST and W 8TH AVE", 
+        "LOCATION3": "W 77TH PL and W 34TH AVE", 
+        "LOCATION1": "W 75TH ST and W 8TH AVE", 
+        "YCOORD4": 566110.9375, 
+        "YCOORD3": 567229.3125, 
+        "YCOORD2": 567229.5, 
+        "YCOORD1": 566569.375, 
+        "CONSTEND": "9/30/2019", 
+        "ID": 18, 
+        "CONSTSTART": "10/1/2015", 
+        "ZIPCODE1": "33014", 
+        "SITENO": 70274.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.40040116648504, 
+              25.75129144713396
+            ], 
+            [
+              -80.4009499647554, 
+              25.744545284798207
+            ], 
+            [
+              -80.40457584489317, 
+              25.748072192571865
+            ], 
+            [
+              -80.40178977214342, 
+              25.74901868110487
+            ], 
+            [
+              -80.40040116648504, 
+              25.75129144713396
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1278825.16504, 
+        "XCOORD4": 853350.625, 
+        "XCOORD2": 853066.8125, 
+        "XCOORD3": 852151.3125, 
+        "XCOORD1": 853520.125, 
+        "COMMDIST": "District 11", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33175", 
+        "ZIPCODE3": "33175", 
+        "PROJECTNO": 17.12, 
+        "DESCRIPT": "12 in WM SW18 ST Btwn. SW127 Ave-SW128 CT. / 8 in WM SW20 Terr Btwn. SW127 Ct. to SW 20 St./8 in WM SW 21 St. Btwn. SW129 Ct.-SW128 Ave & SW 128 Ave Btwn. SW21 St.-SW23 St./8 in WM SW 127 Ct. Btwn. SW 25 Ter-SW 24 St.", 
+        "SHAPE_LEN": 6133.63506646, 
+        "DEPT": "WASD", 
+        "FUNDING": "701694", 
+        "LOCATION4": "SW 127TH CT and SW 25TH TER", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 20TH TER and SW 127TH CT", 
+        "LOCATION3": "SW 21ST ST and SW 129TH CT", 
+        "LOCATION1": "SW 18TH ST and SW 127TH AVE", 
+        "YCOORD4": 513293.5, 
+        "YCOORD3": 514569.96875, 
+        "YCOORD2": 514918.125, 
+        "YCOORD1": 515746.25, 
+        "CONSTEND": "7/31/2007", 
+        "ID": 19, 
+        "CONSTSTART": "7/2/2007", 
+        "ZIPCODE1": "33175", 
+        "SITENO": 72669.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.28072979185859, 
+                25.762043558756496
+              ], 
+              [
+                -80.28223488966741, 
+                25.762328488039273
+              ], 
+              [
+                -80.27919519530992, 
+                25.762454559536902
+              ], 
+              [
+                -80.28072979185859, 
+                25.762043558756496
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.28221297586282, 
+                25.761646309819806
+              ], 
+              [
+                -80.28072979185859, 
+                25.762043558756496
+              ], 
+              [
+                -80.27917344062482, 
+                25.761748909728386
+              ], 
+              [
+                -80.28221297586282, 
+                25.761646309819806
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 126274.839722, 
+        "XCOORD4": 892401.5625, 
+        "XCOORD2": 892393.0, 
+        "XCOORD3": 893401.75, 
+        "XCOORD1": 893393.1875, 
+        "COMMDIST": "District 6", 
+        "DSGNSTART": "10/1/2016", 
+        "DSGNSEND": "2/28/2017", 
+        "ZIPCODE2": "33134", 
+        "ZIPCODE3": "33134", 
+        "PROJECTNO": 17.24, 
+        "DESCRIPT": "Dist. 6 Installation of 8-in water main", 
+        "SHAPE_LEN": 4067.77925882, 
+        "DEPT": "WASD", 
+        "FUNDING": "0", 
+        "LOCATION4": "LA MANCHA AVE and MADRID ST", 
+        "ZIPCODE4": "33134", 
+        "LOCATION2": "AGUILA AVE and MADRID ST", 
+        "LOCATION3": "LA MANCHA AVE and COLUMBUS BLVD", 
+        "LOCATION1": "AGUILA AVE and COLUMBUS BLVD", 
+        "YCOORD4": 519704.15625, 
+        "YCOORD3": 519746.90625, 
+        "YCOORD2": 519952.0625, 
+        "YCOORD1": 520003.34375, 
+        "CONSTEND": "7/31/2017", 
+        "ID": 20, 
+        "CONSTSTART": "7/1/2017", 
+        "ZIPCODE1": "33134", 
+        "SITENO": 74994.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.28118330538652, 
+                25.700885608256705
+              ], 
+              [
+                -80.27720775830007, 
+                25.70478023264101
+              ], 
+              [
+                -80.27696166150596, 
+                25.697320291748003
+              ], 
+              [
+                -80.28118330538652, 
+                25.700885608256705
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.28539838281202, 
+                25.704445047954202
+              ], 
+              [
+                -80.28118330538652, 
+                25.700885608256705
+              ], 
+              [
+                -80.2851328003761, 
+                25.697016141265994
+              ], 
+              [
+                -80.28539838281202, 
+                25.704445047954202
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3649525.95481, 
+        "XCOORD4": 891567.8125, 
+        "XCOORD2": 894258.0, 
+        "XCOORD3": 891465.75, 
+        "XCOORD1": 894162.125, 
+        "COMMDIST": "District 7", 
+        "DSGNSTART": "10/1/2013", 
+        "DSGNSEND": "3/30/2014", 
+        "ZIPCODE2": "33143", 
+        "ZIPCODE3": "33143", 
+        "PROJECTNO": 1.0, 
+        "DESCRIPT": "High Pines Phase II -SW 52ND AVE and SW 72ND ST-Local Drainage Improvements (CD 7)", 
+        "SHAPE_LEN": 13055.8354856, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "1000000", 
+        "LOCATION4": "SW 57TH AVE and SW 80TH ST", 
+        "ZIPCODE4": "33143", 
+        "LOCATION2": "SW 52ND AVE and SW 80TH ST", 
+        "LOCATION3": "SW 57TH AVE and SW 72ND ST", 
+        "LOCATION1": "SW 52ND AVE and SW 72ND ST", 
+        "YCOORD4": 496208.46875, 
+        "YCOORD3": 498908.09375, 
+        "YCOORD2": 496333.65625, 
+        "YCOORD1": 499044.59375, 
+        "CONSTEND": "6/26/2015", 
+        "ID": 21, 
+        "CONSTSTART": "4/27/2015", 
+        "ZIPCODE1": "33143", 
+        "SITENO": 75602.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35594467328815, 
+              25.6432101876003
+            ], 
+            [
+              -80.35608644876447, 
+              25.646840072038483
+            ], 
+            [
+              -80.35410869996849, 
+              25.646902358621
+            ], 
+            [
+              -80.35387088423182, 
+              25.64329225387628
+            ], 
+            [
+              -80.35594467328815, 
+              25.6432101876003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 879726.973633, 
+        "XCOORD4": 869027.5625, 
+        "XCOORD2": 868291.375, 
+        "XCOORD3": 868942.8125, 
+        "XCOORD1": 868344.5, 
+        "COMMDIST": "District 8", 
+        "DSGNSTART": "7/12/2010", 
+        "DSGNSEND": "10/10/2010", 
+        "ZIPCODE2": "33176", 
+        "ZIPCODE3": "33176", 
+        "PROJECTNO": 17.12, 
+        "DESCRIPT": "Design, permitting & installation of approximately 3,200 LF of 8\" water main (Dieldrin contamination) area between SW 99 CT, SW 99 PL, SW 132 ST and SW136 ST. (Caribbean Estates/The Falls Area)", 
+        "SHAPE_LEN": 3970.40104285, 
+        "DEPT": "WASD", 
+        "FUNDING": "244466", 
+        "LOCATION4": "SW 136TH ST and SW 98TH PL", 
+        "ZIPCODE4": "33176", 
+        "LOCATION2": "SW 132ND ST and SW 99TH PL", 
+        "LOCATION3": "SW 132ND ST and SW 98TH PL", 
+        "LOCATION1": "SW 136TH ST and SW 99TH PL", 
+        "YCOORD4": 476565.75, 
+        "YCOORD3": 477877.46875, 
+        "YCOORD2": 477851.65625, 
+        "YCOORD1": 476532.59375, 
+        "CONSTEND": "6/30/2011", 
+        "ID": 22, 
+        "CONSTSTART": "10/11/2010", 
+        "ZIPCODE1": "33176", 
+        "SITENO": 76628.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3271256807122, 
+              25.67737910107502
+            ], 
+            [
+              -80.32721976262552, 
+              25.680326510520455
+            ], 
+            [
+              -80.32315007705341, 
+              25.68044448223361
+            ], 
+            [
+              -80.32307095966347, 
+              25.677485963746857
+            ], 
+            [
+              -80.3271256807122, 
+              25.67737910107502
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1437127.27344, 
+        "XCOORD4": 879111.0, 
+        "XCOORD2": 877739.3125, 
+        "XCOORD3": 879079.4375, 
+        "XCOORD1": 877775.75, 
+        "COMMDIST": "District 8", 
+        "DSGNSTART": "7/6/2010", 
+        "DSGNSEND": "10/21/2010", 
+        "ZIPCODE2": "33156", 
+        "ZIPCODE3": "33156", 
+        "PROJECTNO": 17.12, 
+        "DESCRIPT": "Design, permitting and installation of approximately 6335 LF of 8-in WM along SW 99 Terr, 98 Terr, 97 Terr, 97 St, from SW 82 Ave to SW 79 Ave; in SW 79 Ave from SW 97 ST to SW 100 St (Dieldrin Contamination for Continental Park).", 
+        "SHAPE_LEN": 4824.41008414, 
+        "DEPT": "WASD", 
+        "FUNDING": "1275533", 
+        "LOCATION4": "SW 100TH ST and SW 79TH AVE", 
+        "ZIPCODE4": "33156", 
+        "LOCATION2": "SW 97TH ST and SW 82ND AVE", 
+        "LOCATION3": "SW 97TH ST and SW 79TH AVE", 
+        "LOCATION1": "SW 100TH ST and SW 82ND AVE", 
+        "YCOORD4": 489044.3125, 
+        "YCOORD3": 490119.46875, 
+        "YCOORD2": 490069.75, 
+        "YCOORD1": 488998.65625, 
+        "CONSTEND": "4/7/2011", 
+        "ID": 23, 
+        "CONSTSTART": "12/6/2010", 
+        "ZIPCODE1": "33156", 
+        "SITENO": 76682.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.34010840739802, 
+              25.679341054727903
+            ], 
+            [
+              -80.33670241299859, 
+              25.67924711046185
+            ], 
+            [
+              -80.33665279233873, 
+              25.677995439702485
+            ], 
+            [
+              -80.34003091527084, 
+              25.677906292088394
+            ], 
+            [
+              -80.34010840739802, 
+              25.679341054727903
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 545402.537109, 
+        "XCOORD4": 873524.375, 
+        "XCOORD2": 874618.1875, 
+        "XCOORD3": 874636.8125, 
+        "XCOORD1": 873496.25, 
+        "COMMDIST": "District 7", 
+        "DSGNSTART": "3/8/2013", 
+        "DSGNSEND": "6/30/2013", 
+        "ZIPCODE2": "33176", 
+        "ZIPCODE3": "33176", 
+        "PROJECTNO": 17.12, 
+        "DESCRIPT": "(Continental Park Area) Installation of DIWM along SW 99 St. to SW 97 Terr. and  SW 89 Ct. to East of 87 Ct. and SW 87 Ct. from SW 100 St to SW 97 Terr", 
+        "SHAPE_LEN": 3212.71224073, 
+        "DEPT": "WASD", 
+        "FUNDING": "5066473", 
+        "LOCATION4": "SW 99TH ST and SW 89TH CT", 
+        "ZIPCODE4": "33176", 
+        "LOCATION2": "SW 97TH TER and SW 87TH CT", 
+        "LOCATION3": "SW 99TH ST and SW 87TH CT", 
+        "LOCATION1": "SW 97TH TER and SW 89TH CT", 
+        "YCOORD4": 489168.84375, 
+        "YCOORD3": 489206.8125, 
+        "YCOORD2": 489661.65625, 
+        "YCOORD1": 489690.1875, 
+        "CONSTEND": "8/30/2014", 
+        "ID": 24, 
+        "CONSTSTART": "8/31/2013", 
+        "ZIPCODE1": "33176", 
+        "SITENO": 77387.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.19334897639136, 
+              25.76737080756724
+            ], 
+            [
+              -80.1974561634008, 
+              25.767264287999936
+            ], 
+            [
+              -80.19763137679931, 
+              25.77142588703653
+            ], 
+            [
+              -80.19350423840052, 
+              25.772158989175733
+            ], 
+            [
+              -80.19334897639136, 
+              25.76737080756724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 2212241.30859, 
+        "XCOORD4": 920285.0, 
+        "XCOORD2": 921574.75, 
+        "XCOORD3": 920218.125, 
+        "XCOORD1": 921636.5, 
+        "COMMDIST": "District 5", 
+        "DSGNSTART": "7/1/2008", 
+        "DSGNSEND": "7/1/2009", 
+        "ZIPCODE2": "33130", 
+        "ZIPCODE3": "33130", 
+        "PROJECTNO": 126.0, 
+        "DESCRIPT": "Miami River Greenway", 
+        "SHAPE_LEN": 5991.33769946, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "7500000", 
+        "LOCATION4": "SW 2ND AVE and SW 7TH ST", 
+        "ZIPCODE4": "33130", 
+        "LOCATION2": "S MIAMI AVE and SE 3RD ST", 
+        "LOCATION3": "SW 2ND AVE and SW 3RD ST", 
+        "LOCATION1": "S MIAMI AVE and SE 7TH ST", 
+        "YCOORD4": 521906.96875, 
+        "YCOORD3": 523419.21875, 
+        "YCOORD2": 523693.96875, 
+        "YCOORD1": 521953.9375, 
+        "CONSTEND": "10/31/2011", 
+        "ID": 25, 
+        "CONSTSTART": "8/1/2011", 
+        "ZIPCODE1": "33130", 
+        "SITENO": 70787.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35728436566389, 
+              25.613554711921196
+            ], 
+            [
+              -80.35708640538833, 
+              25.609787768795677
+            ], 
+            [
+              -80.36115651045168, 
+              25.60960063182897
+            ], 
+            [
+              -80.36134907896565, 
+              25.613371159084156
+            ], 
+            [
+              -80.35728436566389, 
+              25.613554711921196
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1840329.64355, 
+        "XCOORD4": 868027.3125, 
+        "XCOORD2": 866616.3125, 
+        "XCOORD3": 866686.375, 
+        "XCOORD1": 867955.4375, 
+        "COMMDIST": "District 9", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33157", 
+        "ZIPCODE3": "33157", 
+        "PROJECTNO": 165.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 168 - 172 Street / SW 102-104 Ave", 
+        "SHAPE_LEN": 5426.67993228, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "165850", 
+        "LOCATION4": "SW 172ND ST and SW 102ND AVE", 
+        "ZIPCODE4": "33157", 
+        "LOCATION2": "SW 168TH ST and SW 104TH AVE", 
+        "LOCATION3": "SW 172ND ST and SW 104TH AVE", 
+        "LOCATION1": "SW 168TH ST and SW 102ND AVE", 
+        "YCOORD4": 464383.34375, 
+        "YCOORD3": 464308.84375, 
+        "YCOORD2": 465678.9375, 
+        "YCOORD1": 465752.125, 
+        "CONSTEND": "10/30/2006", 
+        "ID": 26, 
+        "CONSTSTART": "10/30/2005", 
+        "ZIPCODE1": "33157", 
+        "SITENO": 71669.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33974086153044, 
+              25.736643252310536
+            ], 
+            [
+              -80.34374671259705, 
+              25.73653427535978
+            ], 
+            [
+              -80.34368503814031, 
+              25.740158476490844
+            ], 
+            [
+              -80.33969309700825, 
+              25.740270780152837
+            ], 
+            [
+              -80.33974086153044, 
+              25.736643252310536
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1734117.80273, 
+        "XCOORD4": 873522.3125, 
+        "XCOORD2": 872194.6875, 
+        "XCOORD3": 872208.4375, 
+        "XCOORD1": 873513.1875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk -SW 36 - 32 Street 89 - 92 Ave", 
+        "SHAPE_LEN": 5270.01589936, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "600728", 
+        "LOCATION4": "SW 32ND ST and SW 89TH AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 36TH ST and SW 92ND AVE", 
+        "LOCATION3": "SW 32ND ST and SW 92ND AVE", 
+        "LOCATION1": "SW 36TH ST and SW 89TH AVE", 
+        "YCOORD4": 511836.15625, 
+        "YCOORD3": 511788.78125, 
+        "YCOORD2": 510471.4375, 
+        "YCOORD1": 510517.625, 
+        "CONSTEND": "11/30/2006", 
+        "ID": 27, 
+        "CONSTSTART": "10/30/2005", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71671.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33578086851365, 
+              25.736732896656008
+            ], 
+            [
+              -80.33582008740066, 
+              25.733092262246522
+            ], 
+            [
+              -80.33978665899964, 
+              25.732992757097115
+            ], 
+            [
+              -80.33974086153044, 
+              25.736643252310536
+            ], 
+            [
+              -80.33578086851365, 
+              25.736732896656008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1728305.30273, 
+        "XCOORD4": 874810.375, 
+        "XCOORD2": 873513.1875, 
+        "XCOORD3": 873504.75, 
+        "XCOORD1": 874816.625, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - SW 36-40 St 87-89 Ave", 
+        "SHAPE_LEN": 5260.54607772, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "605845", 
+        "LOCATION4": "SW 40TH ST and SW 87TH AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 36TH ST and SW 89TH AVE", 
+        "LOCATION3": "SW 40TH ST and SW 89TH AVE", 
+        "LOCATION1": "SW 36TH ST and SW 87TH AVE", 
+        "YCOORD4": 509233.46875, 
+        "YCOORD3": 509190.75, 
+        "YCOORD2": 510517.625, 
+        "YCOORD1": 510556.75, 
+        "CONSTEND": "10/30/2006", 
+        "ID": 28, 
+        "CONSTSTART": "10/30/2005", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71673.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.16576699905696, 
+              25.95750919942189
+            ], 
+            [
+              -80.16575752233017, 
+              25.95917706145457
+            ], 
+            [
+              -80.1553240613374, 
+              25.959511536034622
+            ], 
+            [
+              -80.15525583590582, 
+              25.957478346517675
+            ], 
+            [
+              -80.16576699905696, 
+              25.95750919942189
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 2315177.49023, 
+        "XCOORD4": 930274.4375, 
+        "XCOORD2": 933729.125, 
+        "XCOORD3": 933701.9375, 
+        "XCOORD1": 930275.1875, 
+        "COMMDIST": "District 4", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33180", 
+        "ZIPCODE3": "33180", 
+        "PROJECTNO": 160.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - NE 197 Terrace - 199 Street & NE 18-23 Ave. Revised area: NE 193 St-199 St &18ave-22 Ave", 
+        "SHAPE_LEN": 8230.08558035, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "147018", 
+        "LOCATION4": "NE 199TH ST and NE 18TH AVE", 
+        "ZIPCODE4": "33179", 
+        "LOCATION2": "NE 197TH ST and NE 23RD AVE", 
+        "LOCATION3": "NE 199TH ST and NE 23RD AVE", 
+        "LOCATION1": "NE 197TH TER and NE 18TH AVE", 
+        "YCOORD4": 591726.8125, 
+        "YCOORD3": 591870.375, 
+        "YCOORD2": 591131.5, 
+        "YCOORD1": 591120.5625, 
+        "CONSTEND": "12/15/2006", 
+        "ID": 29, 
+        "CONSTSTART": "8/1/2006", 
+        "ZIPCODE1": "33179", 
+        "SITENO": 71838.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33974086153044, 
+              25.736643252310536
+            ], 
+            [
+              -80.33978665899964, 
+              25.732992757097115
+            ], 
+            [
+              -80.34372834565214, 
+              25.732895009274976
+            ], 
+            [
+              -80.34374671259705, 
+              25.73653427535978
+            ], 
+            [
+              -80.33974086153044, 
+              25.736643252310536
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1732864.79688, 
+        "XCOORD4": 873504.75, 
+        "XCOORD2": 872194.6875, 
+        "XCOORD3": 872207.3125, 
+        "XCOORD1": 873513.1875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "Unincorporated Municipal Service Area - Infrastructure Improvements Sidewalk - SW 36 St and  SW 89 Ave", 
+        "SHAPE_LEN": 5267.07543, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "298567", 
+        "LOCATION4": "SW 40TH ST and SW 89TH AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 36TH ST and SW 92ND AVE", 
+        "LOCATION3": "SW 40TH ST and SW 92ND AVE", 
+        "LOCATION1": "SW 36TH ST and SW 89TH AVE", 
+        "YCOORD4": 509190.75, 
+        "YCOORD3": 509148.75, 
+        "YCOORD2": 510471.4375, 
+        "YCOORD1": 510517.625, 
+        "CONSTEND": "4/21/2007", 
+        "ID": 30, 
+        "CONSTSTART": "4/21/2006", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71844.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.34372327059363, 
+              25.733819270024124
+            ], 
+            [
+              -80.35173138112852, 
+              25.73359692672588
+            ], 
+            [
+              -80.35169216654067, 
+              25.73813090367245
+            ], 
+            [
+              -80.34371112101562, 
+              25.738347945364353
+            ], 
+            [
+              -80.34372327059363, 
+              25.733819270024124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4333804.49121, 
+        "XCOORD4": 869571.4375, 
+        "XCOORD2": 872203.125, 
+        "XCOORD3": 869576.25, 
+        "XCOORD1": 872207.3125, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 92 Ave to SW 97 Ave From 38 St to 34 Street; Limits amended by const personnel from 39 to 38 7/31/06.", 
+        "SHAPE_LEN": 8560.0072845, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "1045070", 
+        "LOCATION4": "SW 97TH AVE and SW 39TH ST", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 92ND AVE and SW 34TH ST", 
+        "LOCATION3": "SW 97TH AVE and SW 34TH ST", 
+        "LOCATION1": "SW 92ND AVE and SW 39TH ST", 
+        "YCOORD4": 509390.84375, 
+        "YCOORD3": 511038.8125, 
+        "YCOORD2": 511130.6875, 
+        "YCOORD1": 509484.6875, 
+        "CONSTEND": "1/5/2007", 
+        "ID": 31, 
+        "CONSTSTART": "1/5/2006", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71845.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35576434109403, 
+              25.735412658101094
+            ], 
+            [
+              -80.35976123221258, 
+              25.7332814657922
+            ], 
+            [
+              -80.35974499781403, 
+              25.73978449207944
+            ], 
+            [
+              -80.35571949016143, 
+              25.739893132824957
+            ], 
+            [
+              -80.35576434109403, 
+              25.735412658101094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 2631603.89941, 
+        "XCOORD4": 866928.5625, 
+        "XCOORD2": 868247.375, 
+        "XCOORD3": 866922.4375, 
+        "XCOORD1": 868240.5625, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 99 Ave to 102 Ave from 39 to 32 Street Reduced to SW 99 ave - 102 Ave 37-39 Ter.", 
+        "SHAPE_LEN": 6844.74196513, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "431700", 
+        "LOCATION4": "SW 102ND AVE and SW 39TH TER", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 99TH AVE and SW 32ND ST", 
+        "LOCATION3": "SW 102ND AVE and SW 32ND ST", 
+        "LOCATION1": "SW 99TH AVE and SW 37TH ST", 
+        "YCOORD4": 509263.28125, 
+        "YCOORD3": 511626.875, 
+        "YCOORD2": 511672.8125, 
+        "YCOORD1": 510044.28125, 
+        "CONSTEND": "3/27/2007", 
+        "ID": 32, 
+        "CONSTSTART": "3/26/2006", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71846.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35969033263413, 
+              25.747008284986514
+            ], 
+            [
+              -80.35974499781403, 
+              25.73978449207944
+            ], 
+            [
+              -80.3677177472523, 
+              25.739572125455094
+            ], 
+            [
+              -80.36771108620596, 
+              25.746714198080205
+            ], 
+            [
+              -80.35969033263413, 
+              25.747008284986514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 6871388.36914, 
+        "XCOORD4": 866922.4375, 
+        "XCOORD2": 864288.0625, 
+        "XCOORD3": 864298.3125, 
+        "XCOORD1": 866927.6875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk SW 28 Street to SW 32 Street from  SW 102 Ave to 107 Ave", 
+        "SHAPE_LEN": 10489.4910508, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "419000", 
+        "LOCATION4": "SW 32ND ST and SW 102ND AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 24TH ST and SW 107TH AVE", 
+        "LOCATION3": "SW 32ND ST and SW 107TH AVE", 
+        "LOCATION1": "SW 24TH ST and SW 102ND AVE", 
+        "YCOORD4": 511626.875, 
+        "YCOORD3": 511537.03125, 
+        "YCOORD2": 514132.875, 
+        "YCOORD1": 514252.5, 
+        "CONSTEND": "2/27/2007", 
+        "ID": 33, 
+        "CONSTSTART": "2/26/2006", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71847.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33163581445237, 
+              25.740478643883982
+            ], 
+            [
+              -80.32756939856505, 
+              25.740596635623227
+            ], 
+            [
+              -80.32746337161683, 
+              25.733290799042805
+            ], 
+            [
+              -80.3316359654525, 
+              25.73318722220684
+            ], 
+            [
+              -80.33163581445237, 
+              25.740478643883982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3598210.61133, 
+        "XCOORD4": 877512.625, 
+        "XCOORD2": 876187.625, 
+        "XCOORD3": 877561.0625, 
+        "XCOORD1": 876174.25, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "Unincorporated Municipal Service Area - Infrastructure Improvements- Sidewalk SW 35 Ter & SW 36 St between SW 82 & 84 Av. / SW 84 Av between SW 32 St & SW 40 St", 
+        "SHAPE_LEN": 8019.2473145, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "140420", 
+        "LOCATION4": "SW 32ND ST and SW 82ND AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 40TH ST and SW 84TH AVE", 
+        "LOCATION3": "SW 40TH ST and SW 82ND AVE", 
+        "LOCATION1": "SW 32ND ST and SW 84TH AVE", 
+        "YCOORD4": 511974.75, 
+        "YCOORD3": 509319.5625, 
+        "YCOORD2": 509274.9375, 
+        "YCOORD1": 511925.0625, 
+        "CONSTEND": "2/27/2007", 
+        "ID": 34, 
+        "CONSTSTART": "2/26/2006", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 71848.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.32364046168489, 
+              25.747987730084624
+            ], 
+            [
+              -80.32342749859082, 
+              25.738720812636352
+            ], 
+            [
+              -80.3275600473226, 
+              25.73878336823468
+            ], 
+            [
+              -80.32765649084037, 
+              25.747893435810155
+            ], 
+            [
+              -80.32364046168489, 
+              25.747987730084624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4479377.79688, 
+        "XCOORD4": 877470.4375, 
+        "XCOORD2": 878879.5625, 
+        "XCOORD3": 877519.0625, 
+        "XCOORD1": 878792.1875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk SW 24 Street to 33 Street from 79 Avenue to 82 Avenue", 
+        "SHAPE_LEN": 9363.21853016, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "779564", 
+        "LOCATION4": "SW 24TH ST and SW 82ND AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 34TH ST and SW 79TH AVE", 
+        "LOCATION3": "SW 34TH ST and SW 82ND AVE", 
+        "LOCATION1": "SW 24TH ST and SW 79TH AVE", 
+        "YCOORD4": 514626.6875, 
+        "YCOORD3": 511315.71875, 
+        "YCOORD2": 511299.9375, 
+        "YCOORD1": 514667.71875, 
+        "CONSTEND": "1/5/2007", 
+        "ID": 35, 
+        "CONSTSTART": "1/5/2006", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 71849.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.32065644201715, 
+              25.748108828133997
+            ], 
+            [
+              -80.32053007802631, 
+              25.744320499177366
+            ], 
+            [
+              -80.32355188155763, 
+              25.74428332174378
+            ], 
+            [
+              -80.32364046168489, 
+              25.747987730084624
+            ], 
+            [
+              -80.32065644201715, 
+              25.748108828133997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1346990.71289, 
+        "XCOORD4": 879822.875, 
+        "XCOORD2": 878792.1875, 
+        "XCOORD3": 878828.25, 
+        "XCOORD1": 879774.1875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - Reduced area: SW 24 St-26 St & 78 Av-79 Av", 
+        "SHAPE_LEN": 4702.30531677, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "227677", 
+        "LOCATION4": "SW 28TH ST and SW 77TH CT", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 24TH ST and SW 79TH AVE", 
+        "LOCATION3": "SW 28TH ST and SW 79TH AVE", 
+        "LOCATION1": "SW 24TH ST and SW 77TH CT", 
+        "YCOORD4": 513340.09375, 
+        "YCOORD3": 513321.46875, 
+        "YCOORD2": 514667.71875, 
+        "YCOORD1": 514716.78125, 
+        "CONSTEND": "6/15/2007", 
+        "ID": 36, 
+        "CONSTSTART": "12/15/2006", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 71850.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.35573948410307, 
+              25.732627656252465
+            ], 
+            [
+              -80.3554165604491, 
+              25.726040930443904
+            ], 
+            [
+              -80.3753849029978, 
+              25.725134218615672
+            ], 
+            [
+              -80.37569364597807, 
+              25.732174831702903
+            ], 
+            [
+              -80.35573948410307, 
+              25.732627656252465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 16300177.7207, 
+        "XCOORD4": 868371.6875, 
+        "XCOORD2": 861685.5, 
+        "XCOORD3": 861799.25, 
+        "XCOORD1": 868253.6875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk SW 99 Av to SW 102 Ave from 40 Terr to 40 Street, and SW 99 Av - SW 99 Ct & SW 40 Ter - SW 45 St and ped ramp @ SEC at SW 112 Av & SW 41 Ter.", 
+        "SHAPE_LEN": 18110.84063, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "195263", 
+        "LOCATION4": "SW 99TH AVE and SW 45TH ST", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 112TH AVE and SW 40TH ST", 
+        "LOCATION3": "SW 112TH AVE and SW 45TH ST", 
+        "LOCATION1": "SW 99TH AVE and SW 40TH ST", 
+        "YCOORD4": 506638.625, 
+        "YCOORD3": 506277.46875, 
+        "YCOORD2": 508835.9375, 
+        "YCOORD1": 509032.09375, 
+        "CONSTEND": "3/15/2007", 
+        "ID": 37, 
+        "CONSTSTART": "1/1/2007", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71851.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.34345700158997, 
+              25.72733810914287
+            ], 
+            [
+              -80.3514490386557, 
+              25.72698905370191
+            ], 
+            [
+              -80.35173618483361, 
+              25.73271126854364
+            ], 
+            [
+              -80.34372834565214, 
+              25.732895009274976
+            ], 
+            [
+              -80.34345700158997, 
+              25.72733810914287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 5407352.69922, 
+        "XCOORD4": 872207.3125, 
+        "XCOORD2": 869676.1875, 
+        "XCOORD3": 869571.4375, 
+        "XCOORD1": 872306.6875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk and pedestrian connectors on SW 40 Street to SW 40 Terrace (North side) from 92 Avenue to 94 Avenue / SW 40 Street to SW 44 Street from SW 94 Avenue to SW 97 Avenue (Portions) / SW 44 Street from 92 Avenue to", 
+        "SHAPE_LEN": 9374.94247795, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "202040", 
+        "LOCATION4": "SW 92ND AVE and SW 40TH ST", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 97TH AVE and SW 44TH ST", 
+        "LOCATION3": "SW 97TH AVE and SW 40TH ST", 
+        "LOCATION1": "SW 92ND AVE and SW 44TH ST", 
+        "YCOORD4": 509148.75, 
+        "YCOORD3": 509068.9375, 
+        "YCOORD2": 506989.625, 
+        "YCOORD1": 507129.5, 
+        "CONSTEND": "4/15/2007", 
+        "ID": 38, 
+        "CONSTSTART": "3/15/2007", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71852.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33582008740066, 
+              25.733092262246522
+            ], 
+            [
+              -80.32746337161683, 
+              25.733290799042805
+            ], 
+            [
+              -80.32710217532635, 
+              25.72467387525834
+            ], 
+            [
+              -80.33530018007166, 
+              25.72406063275221
+            ], 
+            [
+              -80.33582008740066, 
+              25.733092262246522
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 8761469.59668, 
+        "XCOORD4": 877561.0625, 
+        "XCOORD2": 874998.0625, 
+        "XCOORD3": 877695.9375, 
+        "XCOORD1": 874810.375, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA-Infrastructure Improvements-Sidewalk Priority 4- SW 40 Street to SW 48 Street from SW 87th to 82 Avenue / SW 92 Av between SW 40 St & SW 47Ter.", 
+        "SHAPE_LEN": 11881.5584278, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "1913000", 
+        "LOCATION4": "SW 40TH ST and SW 82ND AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 48TH ST and SW 87TH AVE", 
+        "LOCATION3": "SW 48TH ST and SW 82ND AVE", 
+        "LOCATION1": "SW 40TH ST and SW 87TH AVE", 
+        "YCOORD4": 509319.5625, 
+        "YCOORD3": 506188.28125, 
+        "YCOORD2": 505951.71875, 
+        "YCOORD1": 509233.46875, 
+        "CONSTEND": "5/20/2007", 
+        "ID": 39, 
+        "CONSTSTART": "4/15/2007", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71854.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.3421796932606, 
+              25.71823540875207
+            ], 
+            [
+              -80.33904436420327, 
+              25.718392926073584
+            ], 
+            [
+              -80.33889019100678, 
+              25.71654417263296
+            ], 
+            [
+              -80.34213036871822, 
+              25.716400630002333
+            ], 
+            [
+              -80.3421796932606, 
+              25.71823540875207
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 704423.97949, 
+        "XCOORD4": 872763.25, 
+        "XCOORD2": 873775.6875, 
+        "XCOORD3": 873829.8125, 
+        "XCOORD1": 872743.6875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 54 Street to SW 56 Street from 89th Avenue to 91 Avenue", 
+        "SHAPE_LEN": 3442.92934139, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "0", 
+        "LOCATION4": "SW 56TH ST and SW 91ST AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 54TH ST and SW 89TH AVE", 
+        "LOCATION3": "SW 56TH ST and SW 89TH AVE", 
+        "LOCATION1": "SW 54TH ST and SW 91ST AVE", 
+        "YCOORD4": 503156.375, 
+        "YCOORD3": 503213.875, 
+        "YCOORD2": 503885.5625, 
+        "YCOORD1": 503823.15625, 
+        "CONSTEND": "4/21/2007", 
+        "ID": 40, 
+        "CONSTSTART": "4/21/2006", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 71855.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.32061981909033, 
+              25.755280887188373
+            ], 
+            [
+              -80.32306248263338, 
+              25.74895867604802
+            ], 
+            [
+              -80.33565627822627, 
+              25.74763283239981
+            ], 
+            [
+              -80.33591963991172, 
+              25.75490541243121
+            ], 
+            [
+              -80.32061981909033, 
+              25.755280887188373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11230928.8525, 
+        "XCOORD4": 878980.625, 
+        "XCOORD2": 874737.6875, 
+        "XCOORD3": 874837.6875, 
+        "XCOORD1": 879772.8125, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 24 Street to 16 Street and from 77 Avenue to 87 Avenue", 
+        "SHAPE_LEN": 14290.3212406, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "0", 
+        "LOCATION4": "SW 78TH PL and SW 23RD ST", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 87TH AVE and SW 16TH ST", 
+        "LOCATION3": "SW 87TH AVE and SW 24TH ST", 
+        "LOCATION1": "SW 77TH AVE and SW 16TH ST", 
+        "YCOORD4": 515021.59375, 
+        "YCOORD3": 514518.625, 
+        "YCOORD2": 517161.46875, 
+        "YCOORD1": 517323.59375, 
+        "CONSTEND": "4/21/2007", 
+        "ID": 41, 
+        "CONSTSTART": "4/21/2006", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 71856.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33617305633149, 
+              25.761989644948464
+            ], 
+            [
+              -80.33591963991172, 
+              25.75490541243121
+            ], 
+            [
+              -80.34393994833393, 
+              25.754691657349962
+            ], 
+            [
+              -80.34416175971543, 
+              25.76184289090009
+            ], 
+            [
+              -80.33617305633149, 
+              25.761989644948464
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 6820869.19629, 
+        "XCOORD4": 874737.6875, 
+        "XCOORD2": 872012.3125, 
+        "XCOORD3": 872098.25, 
+        "XCOORD1": 874641.3125, 
+        "COMMDIST": "District 6", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33174", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk SW 8th Street to SW 16th Street from 87th Avenue to SW 92 Avenue", 
+        "SHAPE_LEN": 10447.2859869, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "0", 
+        "LOCATION4": "SW 16TH ST and SW 87TH AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 8TH ST and SW 92ND AVE", 
+        "LOCATION3": "SW 16TH ST and SW 92ND AVE", 
+        "LOCATION1": "SW 8TH ST and SW 87TH AVE", 
+        "YCOORD4": 517161.46875, 
+        "YCOORD3": 517070.5625, 
+        "YCOORD2": 519669.375, 
+        "YCOORD1": 519735.875, 
+        "CONSTEND": "4/21/2007", 
+        "ID": 42, 
+        "CONSTSTART": "4/21/2006", 
+        "ZIPCODE1": "33174", 
+        "SITENO": 71858.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.38386390275926, 
+              25.746356884529188
+            ], 
+            [
+              -80.38326908675201, 
+              25.732035479570143
+            ], 
+            [
+              -80.39961678010083, 
+              25.72963646773013
+            ], 
+            [
+              -80.40013065386543, 
+              25.744018292373084
+            ], 
+            [
+              -80.38386390275926, 
+              25.746356884529188
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 28158760.3311, 
+        "XCOORD4": 853621.1875, 
+        "XCOORD2": 859191.875, 
+        "XCOORD3": 853814.125, 
+        "XCOORD1": 858971.75, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33175", 
+        "ZIPCODE3": "33175", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - Village Green SW 24 Street to SW 42 Street from SW 118 Avenue to 127 Avenue", 
+        "SHAPE_LEN": 21312.4554393, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "0", 
+        "LOCATION4": "SW 26TH ST and SW 127TH AVE", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 40TH ST and SW 117TH AVE", 
+        "LOCATION3": "SW 42ND ST and SW 127TH AVE", 
+        "LOCATION1": "SW 24TH ST and SW 117TH AVE", 
+        "YCOORD4": 513103.1875, 
+        "YCOORD3": 507876.8125, 
+        "YCOORD2": 508773.5625, 
+        "YCOORD1": 513977.84375, 
+        "CONSTEND": "4/21/2007", 
+        "ID": 43, 
+        "CONSTSTART": "4/21/2006", 
+        "ZIPCODE1": "33175", 
+        "SITENO": 71860.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.39847352886038, 
+              25.700453702831812
+            ], 
+            [
+              -80.43048891444906, 
+              25.699444724442618
+            ], 
+            [
+              -80.43108228082542, 
+              25.713927283137355
+            ], 
+            [
+              -80.3990757462703, 
+              25.714934654885266
+            ], 
+            [
+              -80.39847352886038, 
+              25.700453702831812
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 55551289.2324, 
+        "XCOORD4": 854016.5625, 
+        "XCOORD2": 843698.0625, 
+        "XCOORD3": 843480.0, 
+        "XCOORD1": 854238.8125, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33193", 
+        "ZIPCODE3": "33185", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - Kendale Lakes Neighborhood between SW 56 Street & 72 Street and from 147 Ave to 127 Ave.", 
+        "SHAPE_LEN": 31627.8330915, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "0", 
+        "LOCATION4": "SW 56TH ST and SW 127TH AVE", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 72ND ST and SW 147TH AVE", 
+        "LOCATION3": "SW 56TH ST and SW 147TH AVE", 
+        "LOCATION1": "SW 72ND ST and SW 127TH AVE", 
+        "YCOORD4": 502534.1875, 
+        "YCOORD3": 502121.375, 
+        "YCOORD2": 496858.5, 
+        "YCOORD1": 497271.9375, 
+        "CONSTEND": "4/21/2007", 
+        "ID": 44, 
+        "CONSTSTART": "4/21/2006", 
+        "ZIPCODE1": "33183", 
+        "SITENO": 71866.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.28651954982956, 
+              25.734039744174094
+            ], 
+            [
+              -80.30287758980772, 
+              25.73340281643525
+            ], 
+            [
+              -80.3035430786998, 
+              25.748017844029462
+            ], 
+            [
+              -80.28727156321148, 
+              25.748424726764956
+            ], 
+            [
+              -80.28651954982956, 
+              25.734039744174094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 28348742.9854, 
+        "XCOORD4": 890762.625, 
+        "XCOORD2": 885654.5625, 
+        "XCOORD3": 885407.4375, 
+        "XCOORD1": 891038.4375, 
+        "COMMDIST": "District 7", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33155", 
+        "ZIPCODE3": "33155", 
+        "PROJECTNO": 162.0, 
+        "DESCRIPT": "UMSA - Infrastructure Improvements - Sidewalk - SW 40 Street - SW 24Street from SW 57 Ave to SW 67 Ave.", 
+        "SHAPE_LEN": 21299.1203247, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "60981", 
+        "LOCATION4": "SW 24TH ST and SW 57TH AVE", 
+        "ZIPCODE4": "33155", 
+        "LOCATION2": "SW 40TH ST and SW 67TH AVE", 
+        "LOCATION3": "SW 24TH ST and SW 67TH AVE", 
+        "LOCATION1": "SW 40TH ST and SW 57TH AVE", 
+        "YCOORD4": 514889.59375, 
+        "YCOORD3": 514713.09375, 
+        "YCOORD2": 509402.28125, 
+        "YCOORD1": 509662.5625, 
+        "CONSTEND": "7/31/2006", 
+        "ID": 45, 
+        "CONSTSTART": "1/30/2006", 
+        "ZIPCODE1": "33155", 
+        "SITENO": 71976.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.41568139584588, 
+              25.729210484392965
+            ], 
+            [
+              -80.41510532754847, 
+              25.71447589032303
+            ], 
+            [
+              -80.43108228082542, 
+              25.713927283137355
+            ], 
+            [
+              -80.43166223818952, 
+              25.72857742307759
+            ], 
+            [
+              -80.41568139584588, 
+              25.729210484392965
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 28133743.4512, 
+        "XCOORD4": 848739.5625, 
+        "XCOORD2": 843266.125, 
+        "XCOORD3": 843480.0, 
+        "XCOORD1": 848526.1875, 
+        "COMMDIST": "District 11", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33185", 
+        "ZIPCODE3": "33185", 
+        "PROJECTNO": 167.0, 
+        "DESCRIPT": "UMSA Resurfacing Improvements-SW 137-147 Ave/SW 42-56 St.[part 1- : SW 42 ST - 47 ST & SW 137 Av -147 Av]", 
+        "SHAPE_LEN": 21217.2644168, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "381384", 
+        "LOCATION4": "SW 137TH AVE and SW 56TH ST", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 147TH AVE and SW 42ND ST", 
+        "LOCATION3": "SW 147TH AVE and SW 56TH ST", 
+        "LOCATION1": "SW 137TH AVE and SW 42ND ST", 
+        "YCOORD4": 502343.75, 
+        "YCOORD3": 502121.375, 
+        "YCOORD2": 507445.1875, 
+        "YCOORD1": 507698.25, 
+        "CONSTEND": "9/16/2006", 
+        "ID": 46, 
+        "CONSTSTART": "7/17/2006", 
+        "ZIPCODE1": "33175", 
+        "SITENO": 72376.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.37490481130875, 
+                25.60901606223861
+              ], 
+              [
+                -80.37695841895803, 
+                25.608576864187448
+              ], 
+              [
+                -80.37430265451476, 
+                25.61090803057825
+              ], 
+              [
+                -80.37490481130875, 
+                25.60901606223861
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.37430265451476, 
+                25.61090803057825
+              ], 
+              [
+                -80.37369355266537, 
+                25.61282175509089
+              ], 
+              [
+                -80.37201377842817, 
+                25.61291703836193
+              ], 
+              [
+                -80.37430265451476, 
+                25.61090803057825
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 405880.608236, 
+        "XCOORD4": 861480.75, 
+        "XCOORD2": 862549.375, 
+        "XCOORD3": 863102.75, 
+        "XCOORD1": 862156.75, 
+        "COMMDIST": "District 9", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33157", 
+        "ZIPCODE3": "33157", 
+        "PROJECTNO": 165.0, 
+        "DESCRIPT": "UMSA-Sidewalk Improvement Project-Green Hill Park Villas-SW 112-113 Ave & SW 168-172 St.", 
+        "SHAPE_LEN": 4957.52335968, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "106239", 
+        "LOCATION4": "SW 113TH CT and SW 172ND ST", 
+        "ZIPCODE4": "33157", 
+        "LOCATION2": "SW 112TH AVE and SW 168TH ST", 
+        "LOCATION3": "SW 110TH CT and SW 168TH ST", 
+        "LOCATION1": "SW 112TH PL and SW 172ND ST", 
+        "YCOORD4": 463911.96875, 
+        "YCOORD3": 465497.09375, 
+        "YCOORD2": 465459.84375, 
+        "YCOORD1": 464074.78125, 
+        "CONSTEND": "7/21/2006", 
+        "ID": 47, 
+        "CONSTSTART": "5/25/2006", 
+        "ZIPCODE1": "33157", 
+        "SITENO": 72394.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.37580179325661, 
+                25.59145465465415
+              ], 
+              [
+                -80.37261578125931, 
+                25.59801650751579
+              ], 
+              [
+                -80.37248506803547, 
+                25.58472289835014
+              ], 
+              [
+                -80.37580179325661, 
+                25.59145465465415
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.37887612808014, 
+                25.597693715365413
+              ], 
+              [
+                -80.37580179325661, 
+                25.59145465465415
+              ], 
+              [
+                -80.3790009628701, 
+                25.5848648869989
+              ], 
+              [
+                -80.37887612808014, 
+                25.597693715365413
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 4997138.25781, 
+        "XCOORD4": 862995.9375, 
+        "XCOORD2": 860848.0, 
+        "XCOORD3": 862930.0, 
+        "XCOORD1": 860867.3125, 
+        "COMMDIST": "District 9", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33157", 
+        "ZIPCODE3": "33157", 
+        "PROJECTNO": 165.0, 
+        "DESCRIPT": "SW 115 Ave & SW 184-188 St / SW 112 Ave & SW 187-196 St / SW 188 Ter & SW 112-113 Ave / Sidewalk Improvements", 
+        "SHAPE_LEN": 19880.9034819, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "125509", 
+        "LOCATION4": "SW 112TH AVE and SW 196TH ST", 
+        "ZIPCODE4": "33157", 
+        "LOCATION2": "SW 115TH AVE and SW 196TH ST", 
+        "LOCATION3": "SW 112TH AVE and SW 184TH ST", 
+        "LOCATION1": "SW 115TH AVE and SW 184TH ST", 
+        "YCOORD4": 455249.21875, 
+        "YCOORD3": 460080.5625, 
+        "YCOORD2": 455290.71875, 
+        "YCOORD1": 459953.53125, 
+        "CONSTEND": "3/11/2007", 
+        "ID": 48, 
+        "CONSTSTART": "12/11/2006", 
+        "ZIPCODE1": "33157", 
+        "SITENO": 72666.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.36063452240015, 
+              25.643030027450088
+            ], 
+            [
+              -80.36055137728296, 
+              25.641188377935162
+            ], 
+            [
+              -80.3668335119313, 
+              25.640978867528204
+            ], 
+            [
+              -80.36693037918785, 
+              25.64282685103321
+            ], 
+            [
+              -80.36063452240015, 
+              25.643030027450088
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1391484.17676, 
+        "XCOORD4": 864725.9375, 
+        "XCOORD2": 866830.375, 
+        "XCOORD3": 864761.0625, 
+        "XCOORD1": 866799.75, 
+        "COMMDIST": "District 8", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33176", 
+        "ZIPCODE3": "33176", 
+        "PROJECTNO": 164.0, 
+        "DESCRIPT": "Resurfacing at SW 103-107 Ave & SW 136-138 St", 
+        "SHAPE_LEN": 5488.9452836, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "69086", 
+        "LOCATION4": "SW 107TH AVE and SW 136TH ST", 
+        "ZIPCODE4": "33176", 
+        "LOCATION2": "SW 103RD AVE and SW 138TH ST", 
+        "LOCATION3": "SW 107TH AVE and SW 138TH ST", 
+        "LOCATION1": "SW 103RD AVE and SW 136TH ST", 
+        "YCOORD4": 476375.8125, 
+        "YCOORD3": 475704.3125, 
+        "YCOORD2": 475790.40625, 
+        "YCOORD1": 476459.625, 
+        "CONSTEND": "10/14/2007", 
+        "ID": 49, 
+        "CONSTSTART": "8/15/2007", 
+        "ZIPCODE1": "33176", 
+        "SITENO": 72952.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.40013065386543, 
+                25.744018292373084
+              ], 
+              [
+                -80.39298770497108, 
+                25.752739535489003
+              ], 
+              [
+                -80.38386390275926, 
+                25.746356884529188
+              ], 
+              [
+                -80.40013065386543, 
+                25.744018292373084
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.40069950258626, 
+                25.758133432678218
+              ], 
+              [
+                -80.38792970193614, 
+                25.75891414137144
+              ], 
+              [
+                -80.39298770497108, 
+                25.752739535489003
+              ], 
+              [
+                -80.40069950258626, 
+                25.758133432678218
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 11967074.8453, 
+        "XCOORD4": 858971.75, 
+        "XCOORD2": 857612.25, 
+        "XCOORD3": 853621.1875, 
+        "XCOORD1": 853410.625, 
+        "COMMDIST": "District 11", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33184", 
+        "ZIPCODE3": "33175", 
+        "PROJECTNO": 167.0, 
+        "DESCRIPT": "UMSA- ADA Ramps and Connectors- SW 10-26 St & SW 117-127 Ave", 
+        "SHAPE_LEN": 23377.0913341, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "191962", 
+        "LOCATION4": "SW 24TH ST and SW 117TH AVE", 
+        "ZIPCODE4": "33175", 
+        "LOCATION2": "SW 10TH ST and SW 117TH CT", 
+        "LOCATION3": "SW 26TH ST and SW 127TH AVE", 
+        "LOCATION1": "SW 10TH TER and SW 127TH AVE", 
+        "YCOORD4": 513977.84375, 
+        "YCOORD3": 513103.1875, 
+        "YCOORD2": 518535.625, 
+        "YCOORD1": 518232.5625, 
+        "CONSTEND": "4/15/2009", 
+        "ID": 50, 
+        "CONSTSTART": "12/16/2008", 
+        "ZIPCODE1": "33184", 
+        "SITENO": 73262.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.43912877475917, 
+              25.713637928498724
+            ], 
+            [
+              -80.43856293892411, 
+              25.6991481010136
+            ], 
+            [
+              -80.44653452290474, 
+              25.698915213161087
+            ], 
+            [
+              -80.44712727077571, 
+              25.7134178497452
+            ], 
+            [
+              -80.43912877475917, 
+              25.713637928498724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 13868642.124, 
+        "XCOORD4": 841039.8125, 
+        "XCOORD2": 838197.9375, 
+        "XCOORD3": 838415.1875, 
+        "XCOORD1": 840831.125, 
+        "COMMDIST": "District 11", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33185", 
+        "ZIPCODE3": "33193", 
+        "PROJECTNO": 167.0, 
+        "DESCRIPT": "UMSA- Resurfacing SW 56-72 St & SW 152-157 Ave", 
+        "SHAPE_LEN": 15805.4921966, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "515183", 
+        "LOCATION4": "SW 72ND ST and SW 152ND AVE", 
+        "ZIPCODE4": "33193", 
+        "LOCATION2": "SW 56TH ST and SW 157TH AVE", 
+        "LOCATION3": "SW 72ND ST and SW 157TH AVE", 
+        "LOCATION1": "SW 56TH ST and SW 152ND AVE", 
+        "YCOORD4": 496739.3125, 
+        "YCOORD3": 496643.59375, 
+        "YCOORD2": 501913.78125, 
+        "YCOORD1": 502004.875, 
+        "CONSTEND": "1/2/2009", 
+        "ID": 51, 
+        "CONSTSTART": "12/3/2008", 
+        "ZIPCODE1": "33185", 
+        "SITENO": 73263.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.43912877475917, 
+              25.713637928498724
+            ], 
+            [
+              -80.43856293892411, 
+              25.6991481010136
+            ], 
+            [
+              -80.44653452290474, 
+              25.698915213161087
+            ], 
+            [
+              -80.44712727077571, 
+              25.7134178497452
+            ], 
+            [
+              -80.43912877475917, 
+              25.713637928498724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 13868642.124, 
+        "XCOORD4": 841039.8125, 
+        "XCOORD2": 838197.9375, 
+        "XCOORD3": 838415.1875, 
+        "XCOORD1": 840831.125, 
+        "COMMDIST": "District 11", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33185", 
+        "ZIPCODE3": "33193", 
+        "PROJECTNO": 167.0, 
+        "DESCRIPT": "UMSA- ADA Ramps and Connectors SW 56-72 St & SW 152-157 Ave", 
+        "SHAPE_LEN": 15805.4921966, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "82692", 
+        "LOCATION4": "SW 72ND ST and SW 152ND AVE", 
+        "ZIPCODE4": "33193", 
+        "LOCATION2": "SW 56TH ST and SW 157TH AVE", 
+        "LOCATION3": "SW 72ND ST and SW 157TH AVE", 
+        "LOCATION1": "SW 56TH ST and SW 152ND AVE", 
+        "YCOORD4": 496739.3125, 
+        "YCOORD3": 496643.59375, 
+        "YCOORD2": 501913.78125, 
+        "YCOORD1": 502004.875, 
+        "CONSTEND": "5/3/2009", 
+        "ID": 52, 
+        "CONSTSTART": "1/3/2009", 
+        "ZIPCODE1": "33185", 
+        "SITENO": 73264.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33413759773204, 
+              25.702305394107313
+            ], 
+            [
+              -80.33353958666548, 
+              25.68807715126004
+            ], 
+            [
+              -80.34970917621305, 
+              25.68751207065814
+            ], 
+            [
+              -80.35014287032148, 
+              25.701630178046646
+            ], 
+            [
+              -80.33413759773204, 
+              25.702305394107313
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 27329171.6934, 
+        "XCOORD4": 875643.6875, 
+        "XCOORD2": 870151.5625, 
+        "XCOORD3": 870319.625, 
+        "XCOORD1": 875420.6875, 
+        "COMMDIST": "District 7", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33173", 
+        "ZIPCODE3": "33176", 
+        "PROJECTNO": 163.0, 
+        "DESCRIPT": "Resurfacing at SW 72-88 St & SW 87-97 Avenue", 
+        "SHAPE_LEN": 20913.730143, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "612638", 
+        "LOCATION4": "SW 88TH ST and SW 87TH AVE", 
+        "ZIPCODE4": "33176", 
+        "LOCATION2": "SW 72ND ST and SW 97TH AVE", 
+        "LOCATION3": "SW 88TH ST and SW 97TH AVE", 
+        "LOCATION1": "SW 72ND ST and SW 87TH AVE", 
+        "YCOORD4": 492876.21875, 
+        "YCOORD3": 492644.3125, 
+        "YCOORD2": 497774.90625, 
+        "YCOORD1": 498046.5625, 
+        "CONSTEND": "7/27/2009", 
+        "ID": 53, 
+        "CONSTSTART": "6/27/2009", 
+        "ZIPCODE1": "33173", 
+        "SITENO": 73365.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.33413759773204, 
+              25.702305394107313
+            ], 
+            [
+              -80.33353958666548, 
+              25.68807715126004
+            ], 
+            [
+              -80.34970917621305, 
+              25.68751207065814
+            ], 
+            [
+              -80.35014287032148, 
+              25.701630178046646
+            ], 
+            [
+              -80.33413759773204, 
+              25.702305394107313
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 27329171.6934, 
+        "XCOORD4": 875643.6875, 
+        "XCOORD2": 870151.5625, 
+        "XCOORD3": 870319.625, 
+        "XCOORD1": 875420.6875, 
+        "COMMDIST": "District 7", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33173", 
+        "ZIPCODE3": "33176", 
+        "PROJECTNO": 163.0, 
+        "DESCRIPT": "Ramps and Connectors at SW 72-88 St & SW 87-97 Ave.", 
+        "SHAPE_LEN": 20913.730143, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "110683", 
+        "LOCATION4": "SW 88TH ST and SW 87TH AVE", 
+        "ZIPCODE4": "33176", 
+        "LOCATION2": "SW 72ND ST and SW 97TH AVE", 
+        "LOCATION3": "SW 88TH ST and SW 97TH AVE", 
+        "LOCATION1": "SW 72ND ST and SW 87TH AVE", 
+        "YCOORD4": 492876.21875, 
+        "YCOORD3": 492644.3125, 
+        "YCOORD2": 497774.90625, 
+        "YCOORD1": 498046.5625, 
+        "CONSTEND": "10/28/2009", 
+        "ID": 54, 
+        "CONSTSTART": "9/28/2009", 
+        "ZIPCODE1": "33173", 
+        "SITENO": 73366.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.35923860189575, 
+                25.723073846537922
+              ], 
+              [
+                -80.35505629697428, 
+                25.719580302353606
+              ], 
+              [
+                -80.35888733002683, 
+                25.71575727857729
+              ], 
+              [
+                -80.35923860189575, 
+                25.723073846537922
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.35505629697428, 
+                25.719580302353606
+              ], 
+              [
+                -80.35125737505422, 
+                25.72337093395607
+              ], 
+              [
+                -80.35088208298859, 
+                25.716093196276645
+              ], 
+              [
+                -80.35505629697428, 
+                25.719580302353606
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 3496848.53252, 
+        "XCOORD4": 867247.1875, 
+        "XCOORD2": 869882.3125, 
+        "XCOORD3": 867118.625, 
+        "XCOORD1": 869745.75, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "Infrastructure Improvements-Sidewalks Priority 2.3-SW 97 AV to SW 102 AV from SW 48 ST to SW 56 ST", 
+        "SHAPE_LEN": 12789.8952687, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "1515807", 
+        "LOCATION4": "SW 102ND AVE and SW 56TH ST", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 97TH AVE and SW 56TH ST", 
+        "LOCATION3": "SW 102ND AVE and SW 48TH ST", 
+        "LOCATION1": "SW 97TH AVE and SW 48TH ST", 
+        "YCOORD4": 502895.40625, 
+        "YCOORD3": 505554.09375, 
+        "YCOORD2": 503030.375, 
+        "YCOORD1": 505674.90625, 
+        "CONSTEND": "10/23/2009", 
+        "ID": 55, 
+        "CONSTSTART": "7/25/2009", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 75076.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.34764564087246, 
+                25.727142573909557
+              ], 
+              [
+                -80.34562916857858, 
+                25.729701683415488
+              ], 
+              [
+                -80.34345700158997, 
+                25.72733810914287
+              ], 
+              [
+                -80.34764564087246, 
+                25.727142573909557
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.34562916857858, 
+                25.729701683415488
+              ], 
+              [
+                -80.34769157206095, 
+                25.731945705959802
+              ], 
+              [
+                -80.34369729569926, 
+                25.73215329293747
+              ], 
+              [
+                -80.34562916857858, 
+                25.729701683415488
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 1179597.95652, 
+        "XCOORD4": 870928.0625, 
+        "XCOORD2": 870904.3125, 
+        "XCOORD3": 872306.6875, 
+        "XCOORD1": 872218.875, 
+        "COMMDIST": "District 10", 
+        "DSGNSTART": null, 
+        "DSGNSEND": null, 
+        "ZIPCODE2": "33165", 
+        "ZIPCODE3": "33165", 
+        "PROJECTNO": 166.0, 
+        "DESCRIPT": "Infrastructure Improvements-Sidewalks Priority 3-SW 40 TERR-SW44 ST & SW92 AV-SW94 AV; SW 40 St. - SW 44 St. & SW 94 Av. - SW 97 Av.", 
+        "SHAPE_LEN": 7114.44199604, 
+        "DEPT": "PWWMD", 
+        "FUNDING": "700000", 
+        "LOCATION4": "SW 44TH ST and SW 94TH AVE", 
+        "ZIPCODE4": "33165", 
+        "LOCATION2": "SW 40TH TER and SW 94TH AVE", 
+        "LOCATION3": "SW 44TH ST and SW 92ND AVE", 
+        "LOCATION1": "SW 40TH TER and SW 92ND AVE", 
+        "YCOORD4": 507051.59375, 
+        "YCOORD3": 507129.5, 
+        "YCOORD2": 508797.25, 
+        "YCOORD1": 508879.21875, 
+        "CONSTEND": "8/13/2009", 
+        "ID": 56, 
+        "CONSTSTART": "7/14/2009", 
+        "ZIPCODE1": "33165", 
+        "SITENO": 75078.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPolygon", 
+        "coordinates": [
+          [
+            [
+              [
+                -80.36020147681573, 
+                25.610370066476257
+              ], 
+              [
+                -80.35920660910865, 
+                25.611171577393158
+              ], 
+              [
+                -80.35910805652095, 
+                25.609700174455643
+              ], 
+              [
+                -80.36020147681573, 
+                25.610370066476257
+              ]
+            ]
+          ], 
+          [
+            [
+              [
+                -80.36122892111754, 
+                25.610999523139682
+              ], 
+              [
+                -80.36020147681573, 
+                25.610370066476257
+              ], 
+              [
+                -80.36115651045168, 
+                25.60960063182897
+              ], 
+              [
+                -80.36122892111754, 
+                25.610999523139682
+              ]
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "SHAPE_AREA": 175740.9824, 
+        "XCOORD4": 866686.375, 
+        "XCOORD2": 867361.25, 
+        "XCOORD3": 866660.0625, 
+        "XCOORD1": 867326.1875, 
+        "COMMDIST": "District 9", 
+        "DSGNSTART": "6/23/2011", 
+        "DSGNSEND": "10/21/2011", 
+        "ZIPCODE2": "33157", 
+        "ZIPCODE3": "33157", 
+        "PROJECTNO": 325.1, 
+        "DESCRIPT": "West Perrine Senior Citizen Center - Facility Improvements", 
+        "SHAPE_LEN": 2747.87319592, 
+        "DEPT": "PROS", 
+        "FUNDING": "500000", 
+        "LOCATION4": "SW 104TH AVE and SW 172ND ST", 
+        "ZIPCODE4": "33157", 
+        "LOCATION2": "SW 103RD AVE and SW 172ND ST", 
+        "LOCATION3": "SW 104TH AVE and SW 170TH TER", 
+        "LOCATION1": "SW 103RD AVE and SW 170TH TER", 
+        "YCOORD4": 464308.84375, 
+        "YCOORD3": 464817.15625, 
+        "YCOORD2": 464348.28125, 
+        "YCOORD1": 464882.90625, 
+        "CONSTEND": "5/16/2013", 
+        "ID": 57, 
+        "CONSTSTART": "9/18/2012", 
+        "ZIPCODE1": "33157", 
+        "SITENO": 70793.0
+      }
+    }
+  ]
+}
